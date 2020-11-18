@@ -19,4 +19,6 @@ b <- left_join(b, dplyr::select(a, qacc = accession, qchr = chrname, qrank = kra
 b <- mutate(b, tlen=tend-tstart, qlen=qend-qstart)
 
 g <- b %>% mutate(tmid=toffset + ((tstart+tend)/2), qmid=qoffset + ((qstart+qend)/2)) %>% dplyr::filter(qlen>500) %>% ggplot() + geom_segment(aes(x=tstart+toffset, y=qstart+qoffset, xend=tend+toffset, yend=qend+qoffset,)) + theme_bw() + scale_x_continuous(breaks = arrange(b, trank) %>% pull(toffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, trank) %>% pull(tchr) %>% unique()) + scale_y_continuous(breaks = arrange(b, qrank) %>% pull(qoffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, qrank) %>% pull(qchr) %>% unique())
-ggplotly(g)
+dotplot <- ggplotly(g)
+dotplot
+htmlwidgets::saveWidget(dotplot, "dotplot.html")
