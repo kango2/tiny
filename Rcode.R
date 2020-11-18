@@ -1,3 +1,5 @@
+library(tidyverse)
+library(ggplotlyExtra)
 
 a <- read_delim("../micro/chrnames.txt", "\t")
 a <- a %>% group_by(assemblyid) %>% mutate(krank=row_number(), offset = lag(length), offset = replace_na(offset, 0), offset = cumsum(offset)) %>% ungroup()
@@ -16,4 +18,5 @@ b <- left_join(b, dplyr::select(a, tacc = accession, tchr = chrname, trank = kra
 b <- left_join(b, dplyr::select(a, qacc = accession, qchr = chrname, qrank = krank, qoffset=offset), by = "qacc") 
 b <- mutate(b, tlen=tend-tstart, qlen=qend-qstart)
 
-b %>% mutate(tmid=toffset + ((tstart+tend)/2), qmid=qoffset + ((qstart+qend)/2)) %>% dplyr::filter(qlen>500) %>% ggplot() + geom_segment(aes(x=tstart+toffset, y=qstart+qoffset, xend=tend+toffset, yend=qend+qoffset,)) + theme_bw() + scale_x_continuous(breaks = arrange(b, trank) %>% pull(toffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, trank) %>% pull(tchr) %>% unique()) + scale_y_continuous(breaks = arrange(b, qrank) %>% pull(qoffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, qrank) %>% pull(qchr) %>% unique())
+g <- b %>% mutate(tmid=toffset + ((tstart+tend)/2), qmid=qoffset + ((qstart+qend)/2)) %>% dplyr::filter(qlen>500) %>% ggplot() + geom_segment(aes(x=tstart+toffset, y=qstart+qoffset, xend=tend+toffset, yend=qend+qoffset,)) + theme_bw() + scale_x_continuous(breaks = arrange(b, trank) %>% pull(toffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, trank) %>% pull(tchr) %>% unique()) + scale_y_continuous(breaks = arrange(b, qrank) %>% pull(qoffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, qrank) %>% pull(qchr) %>% unique())
+ggplotly(g)
