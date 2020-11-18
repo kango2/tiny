@@ -1,2 +1,87 @@
 # tinychrs
 micro-chromosome conservation in vertebrates
+
+
+https://darencard.net/blog/2019-11-01-whole-genome-alignment-tutorial/
+https://github.com/gigascience/paper-zhang2014/blob/master/Whole_genome_alignment/pairwise/bin/lastz_CNM.pl
+
+K=2400 L=3000 Y=9400 H=2000 ## parameter choice from the link above
+https://academic-oup-com.virtual.anu.edu.au/nar/article/45/14/8369/3875570
+K = 2400, L = 3000, Y = 9400, H = 2000 for placental mammals
+K = 2400, L = 3000, Y = 3400, H = 2000 for non-placental mammals
+K = 1500, L = 2500 and W = 5  to find co-linear alignments in the un-aligning regions that are flanked by local alignments (gaps in the chains)
+
+Default parameters
+# hsp_threshold      = 3000
+# gapped_threshold   = 3000
+# x_drop             = 910
+# y_drop             = 9400
+# gap_open_penalty   = 400
+# gap_extend_penalty = 30
+
+##Download genomes
+for i in `cut -f3 metadata.txt | grep -v fasta`; do wget --continue $i; done
+##Download assembly report
+for i in `cut -f6 metadata.txt | grep -v assemblyreport`; do wget --continue $i; done
+
+##Unzip genomes
+for i in *.fna.gz; do zcat $i > `basename $i .gz`; done
+
+##index genome files
+for i in *.fna; do samtools faidx $i; done
+
+##get sequence names for the query species
+for i in *_assembly_report.txt; do seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f7 | grep -v na`; if [[ ${#seqids} -eq 0 ]]; then seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f5 | grep -v na`; fi; for j in $seqids; do if [ ! -e chrseq/$j.fa ]; then samtools faidx `basename $i _assembly_report.txt`_genomic.fna $j >chrseq/$j.fa; /g/data/te53/hrp561/wga/software/kentutils/faToTwoBit chrseq/$j.fa chrseq/$j.2bit; fi; done; done
+
+
+
+##create target capsule file
+/g/data/te53/hrp561/wga/software/lastz-1.04.03/src/lastz_32 /g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a_genomic.fna[multiple] --writecapsule=/g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a_genomic.capsule --ambiguous=iupac
+
+##create lastz commands: takes time to run per chromosome
+( for i in /g/data/te53/hrp561/wga/genomes/chrseq/*.fa; do echo sh /g/data/te53/phase2_20200312/utils/runcmd.sh \"/g/data/te53/hrp561/wga/software/lastz-1.04.03/src/lastz_32 --targetcapsule=/g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a_genomic.capsule $i K=2400 L=3000 Y=9400 H=2000 --ambiguous=iupac --format=axt --output=$i.axt\" `basename $i .fa`.lastz `dirname $i`/`basename $i .fa`.lastz.done 0; done ) >/g/data/te53/hrp561/wga/lastzcmds.txt
+
+## Launch command
+qsub -j oe -o /g/data/te53/hrp561/wga/pbslogs/ -l walltime=48:00:00,ncpus=48,mem=190GB -N laln -V -v commandsfile=/g/data/te53/hrp561/wga/lastzcmds.txt,ncpupercmd=1,joblog=/g/data/te53/hrp561/wga/pbslogs/lastz.parallel.0.log /g/data/te53/phase2_20200312/utils/runcmdsparallel.sh
+
+qsub -j oe -N laln2 -lncpus=192,mem=760GB,walltime=48:00:00 -o /g/data/te53/hrp561/wga/pbslogs/  -V -v commandsfile=/g/data/te53/hrp561/wga/lastzcmds.2.txt,cpupertask=1,tasks_per_node=48 /g/data/te53/phase2_20200312/utils/pcmds.sh
+
+##axtChain, default score used is 5000 in the gitlab script,
+##histogram shows the number of alignments increases sharply at 3000 score
+##a graph to show this would be good per species.
+##needs twoBit file
+for i in genomes/chrseq/*.fa; do echo processing $i; software/kentutils/faToTwoBit $i `dirname $i`/`basename $i .fa`.2bit; done
+
+##following runs very quick and it is to chain lastZ alignments
+for i in /g/data/te53/hrp561/wga/genomes/chrseq/*.2bit; do d=`dirname $i`/`basename $i .2bit`.lastz.done;  if [ "`tail -n1 $d | cut -f3 -d','`" == " EXIT_STATUS:0" ]; then /g/data/te53/hrp561/wga/software/kentutils/axtChain -minScore=3000 -linearGap=medium `dirname $i`/`basename $i .2bit`.fa.axt /g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a_genomic.2bit $i `dirname $i`/`basename $i .2bit`.chain; fi; done
+
+
+##merge and sort chains for each species
+##Bird genome paper doesn't have the following steps which are listed in Daren's blog
+##patchChain, RepeatFiller, chainCleaner
+
+for i in *_assembly_report.txt; do seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f7 | grep -v na`; if [[ ${#seqids} -eq 0 ]]; then seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f5 | grep -v na`; fi; cmd="/g/data/te53/hrp561/wga/software/kentutils/chainMergeSort"; for j in $seqids; do if [ -e chrseq/$j.chain ]; then cmd="$cmd /g/data/te53/hrp561/wga/genomes/chrseq/$j.chain"; fi; done; eval $cmd >`dirname $i`/`basename $i _assembly_report.txt`.chains; /g/data/te53/hrp561/wga/software/kentutils/chainPreNet `dirname $i`/`basename $i _assembly_report.txt`.chains /g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a.sizes `dirname $i`/`basename $i _assembly_report.txt`.sizes `dirname $i`/`basename $i _assembly_report.txt`.chains.prenet; done
+
+../software/kentutils/chainNet GCA_009769625.1_bCygOlo1.pri.prenet.chains GCF_000002315.6_GRCg6a.sizes GCA_009769625.1_bCygOlo1.pri.sizes GCF_000002315.6_GRCg6a.vs.GCA_009769625.1_bCygOlo1.pri.ttmpnet GCA_009769625.1_bCygOlo1.pri.qtmpnet
+
+../software/kentutils/netSyntenic GCF_000002315.6_GRCg6a.vs.GCA_009769625.1_bCygOlo1.pri.ttmpnet GCF_000002315.6_GRCg6a.vs.GCA_009769625.1_bCygOlo1.pri.tnet
+
+../software/kentutils/netSyntenic GCA_009769625.1_bCygOlo1.pri.qtmpnet GCA_009769625.1_bCygOlo1.pri.qnet
+
+
+../software/kentutils/netToAxt GCF_000002315.6_GRCg6a.vs.GCA_009769625.1_bCygOlo1.pri.tnet GCA_009769625.1_bCygOlo1.pri.prenet.chains GCF_000002315.6_GRCg6a_genomic.2bit GCA_009769625.1_bCygOlo1.pri_genomic.2bit GCA_009769625.1_bCygOlo1.pri.axt
+
+
+##get the size information of sequences
+for i in *_assembly_report.txt; do seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f7 | grep -v na`; if [[ ${#seqids} -eq 0 ]]; then seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f5 | grep -v na`; fi; (for j in $seqids; do echo -e "$j\t`grep -v ^# $i | grep $j | cut -f 9`"; done;) >`dirname $i`/`basename $i _assembly_report.txt`.sizes; done
+
+
+grep -v ^# GCF_000002315.6_GRCg6a.vs.GCA_002798355.1_Ogye1.0.tnet | perl -lne 'if ($_=~/net (\S+) (\d+)/) { $tc=$1;$tcl=$2 } elsif ($_=~/^ fill (\d+) (\d+) (\S+) (\S) (\d+) (\d+)/) { $ts=$1; $tl=$2; $qc=$3; $strand = $4; $qs=$5; $ql=$6; $te=$ts+$tl; $qe=$qs+$ql; print "$tc\t$ts\t$te\t$qc\t$qs\t$qe\t$strand" }' >GCF_000002315.6_GRCg6a.vs.GCA_002798355.1_Ogye1.0.chainpairs.tab
+
+
+Ensembl definition of Synteny
+Synteny is the conserved order of aligned genomic blocks between species. It is calculated from the pairwise genome alignments created by Ensembl, when both species have a chromosome-level assembly.
+The search is run in two phases:
+1. We search for alignment blocks that are in the same order in the two genomes. Syntenic alignments that are closer than 200 kb are grouped into a synteny block.
+2. Groups that are in synteny are linked, provided that no more than two non-syntenic groups are found between them and they are less than 3 Mb apart.
+
