@@ -22,3 +22,10 @@ g <- b %>% mutate(tmid=toffset + ((tstart+tend)/2), qmid=qoffset + ((qstart+qend
 dotplot <- ggplotly(g)
 dotplot
 htmlwidgets::saveWidget(dotplot, "dotplot.html")
+
+##with colors for strand and displaying strands correctly
+g <- b %>% dplyr::filter(qlen>500 | tlen>500) %>% mutate(adjstart = if_else(strand=="+", qstart, qend), adjend=if_else(strand=="+",qend,qstart)) %>% ggplot() + geom_segment(aes(x=tstart+toffset, y=adjstart+qoffset, xend=tend+toffset, yend=adjend+qoffset,color=strand)) + theme_bw() + scale_x_continuous(breaks = arrange(b, trank) %>% pull(toffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, trank) %>% pull(tchr) %>% unique()) + scale_y_continuous(breaks = arrange(b, qrank) %>% pull(qoffset) %>% unique(), minor_breaks = NULL, labels = arrange(b, qrank) %>% pull(qchr) %>% unique())
+dotplot <- ggplotly(g)
+dotplot
+htmlwidgets::saveWidget(dotplot, "dotplot.html")
+
