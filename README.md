@@ -1,9 +1,9 @@
-# tinychrs
-micro-chromosome conservation in vertebrates
+# Micro-chromosome conservation in vertebrates
+
+## Perform whole genome alignments between species
+Borrowed ideas about the alignments from [Daren Card](https://github.com/darencard) (thanks mate) available [here](https://darencard.net/blog/2019-11-01-whole-genome-alignment-tutorial/). Command line settings were obtained from the bird genome alignment paper GitHub repo [here](https://github.com/gigascience/paper-zhang2014/blob/master/Whole_genome_alignment/pairwise/bin/lastz_CNM.pl).
 
 
-https://darencard.net/blog/2019-11-01-whole-genome-alignment-tutorial/
-https://github.com/gigascience/paper-zhang2014/blob/master/Whole_genome_alignment/pairwise/bin/lastz_CNM.pl
 
 K=2400 L=3000 Y=9400 H=2000 ## parameter choice from the link above
 https://academic-oup-com.virtual.anu.edu.au/nar/article/45/14/8369/3875570
