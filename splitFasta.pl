@@ -18,14 +18,14 @@ my $chunkID = 0;
 my $suffixLen = length($config->{'chunks'});
 
 ##process sequences into desired number of chunks, windowsize, overlap
-open (CHUNK, ">$config->{'outputbase'}.".sprintf("%0${suffixLen}d", $chunkID).".fa") or die $!;
+open (CHUNK, ">$config->{'outputbase'}".sprintf("%0${suffixLen}d", $chunkID).".fa") or die $!;
 foreach my $seq (@$seqInfo){
   for (my $i=0;$i<length($$seq{'seq'});$i+=$config->{'windowsize'} - $config->{'overlap'}){
     if ($currentchunksize > $lenperchunk) {
       $chunkID++;
       $currentchunksize = 0;
       close CHUNK;
-      open (CHUNK, ">$config->{'outputbase'}.".sprintf("%0${suffixLen}d", $chunkID).".fa") or die $!;
+      open (CHUNK, ">$config->{'outputbase'}".sprintf("%0${suffixLen}d", $chunkID).".fa") or die $!;
     }
     my $subseq = substr($$seq{'seq'}, $i, $config->{'windowsize'});
     if ($subseq =~ /[ACGTacgt]/) {
