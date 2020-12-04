@@ -146,11 +146,11 @@ USAGE:
   This utility can divide up each sequence into a fixed size sequence with a predefined overlap if desired.
 
 Options:
-  -inputfasta      Input fasta file for aligned regions. It can be gzipped.
-  -outputbase      Path to output directory and basename for output files.
-  -windowsize      Maximum size of the sequence in the output. Default is 1000000.
-  -overlap         Number of overlapping basepairs between two consecutive windows (sliding window). Default is 0bp.
-  -chunks          Number of output files to divide the output into. If desired, output can be split across multiple files. Default is 1 output file.
+  -inputfasta/-i      Input fasta file for aligned regions. It can be gzipped.
+  -outputbase/-o      Path to output directory and basename for output files.
+  -windowsize/-w      Maximum size of the sequence in the output. Default is 1000000.
+  -overlap/-s         Number of overlapping basepairs between two consecutive windows (sliding window). Default is 0bp.
+  -chunks/-c          Number of output files to divide the output into. If desired, output can be split across multiple files. Default is 1 output file.
 USAGEMSG
   exit($exit_code);
 }
