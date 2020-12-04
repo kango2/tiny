@@ -29,8 +29,10 @@ foreach my $seq (@$seqInfo){
     }
     my $subseq = substr($$seq{'seq'}, $i, $config->{'windowsize'});
     if ($subseq =~ /[ACGTacgt]/) {
-      print CHUNK ">$$seq{'header'}:$i:".(($i + $config->{'windowsize'} > length($$seq{'seq'})) ? length($$seq{'seq'}) : ($i + $config->{'windowsize'})).(($$seq{'description'} ne "NoDescription") ? " $$seq{'description'}" : "");
-      print CHUNK $subseq;
+      print CHUNK ">$$seq{'header'}.s$i.e".(($i + $config->{'windowsize'} > length($$seq{'seq'})) ? length($$seq{'seq'}) : ($i + $config->{'windowsize'})).(($$seq{'description'} ne "NoDescription") ? " $$seq{'description'}" : "");
+      for (my $i = 0; $i < length($subseq); $i += 80) {
+        print CHUNK substr($subseq, $i, 80);
+      }
     }
     $currentchunksize += (length($subseq) > $config->{'windowsize'} - $config->{'overlap'}) ? $config->{'windowsize'} - $config->{'overlap'} : length($subseq);
   }
