@@ -79,7 +79,7 @@ sub configure {
   my $config = {};
   $config->{'overlap'}    = 0;
   $config->{'chunks'}     = 1;
-  $config->{'windowsize'} = 25000;
+  $config->{'windowsize'} = 1000000;
   GetOptions(
   $config,
   'inputfasta|i=s',
@@ -102,11 +102,11 @@ sub configure {
     $config->{'inputfasta'} = abs_path($config->{'inputfasta'});
   }
   else{
-    print "\nERROR: Provide reference fasta sequence for detecting OR genes.";
+    print "\nERROR: Provide path to input fasta file.";
     usage(1);
   }
 
-  unless ($config->{'windowsize'} > 0) {
+  unless ($config->{'windowsize'} >= 0) {
     print "\nERROR: Provide non-negative value for the windowsize.";
     usage(1);
   }
@@ -141,16 +141,16 @@ sub usage {
 
 USAGE:
 
-  splitFasta.pl -inputfasta mygenome.fa -outputbase outputdir/chunkname -windowsize {1..n} -overlap {0..n} -chunks {1..n}
+  splitFasta.pl -inputfasta input.fa.gz -outputbase outputdir/chunkname -windowsize {1..n} -overlap {0..n} -chunks {1..n}
 
-  This utility can divide up each sequence into maxseqchunk defined sizes with a predefined overlap
+  This utility can divide up each sequence into a fixed size sequence with a predefined overlap if desired.
 
 Options:
-  -inputfasta      reference fasta file for extracting aligned regions. It can be gzipped.
-  -outputbase      Path to output directory and basename for chunk files.
-  -windowsize      Maximum size of sequence for splitting.
-  -overlap         Number of basepairs to overlap at between each window.
-  -chunks          Number of output files to divide the output into.
+  -inputfasta      Input fasta file for aligned regions. It can be gzipped.
+  -outputbase      Path to output directory and basename for output files.
+  -windowsize      Maximum size of the sequence in the output. Default is 1000000.
+  -overlap         Number of overlapping basepairs between two consecutive windows (sliding window). Default is 0bp.
+  -chunks          Number of output files to divide the output into. If desired, output can be split across multiple files. Default is 1 output file.
 USAGEMSG
   exit($exit_code);
 }
