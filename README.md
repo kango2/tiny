@@ -32,14 +32,16 @@ https://github.com/Ensembl/ensembl-compara/blob/23bcb7ecaed4b6ea3251b22b1405d9d9
         },
 ```
 
+`H` or `--inner` parameter performs another round of sensitive alignments in regions where no alignments are detected.
+
 Default parameters
 ```
-# hsp_threshold      = 3000
-# gapped_threshold   = 3000
-# x_drop             = 910
-# y_drop             = 9400
-# gap_open_penalty   = 400
-# gap_extend_penalty = 30
+# hsp_threshold (K)      = 3000
+# gapped_threshold (L)   = 3000
+# x_drop (X)             = 910
+# y_drop (Y)             = 9400
+# gap_open_penalty (O)   = 400
+# gap_extend_penalty (E) = 30
 ```
 ```
 ##Download genomes
