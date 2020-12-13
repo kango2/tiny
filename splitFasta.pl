@@ -119,10 +119,10 @@ sub configure {
     print "\nERROR: Provide non-negative value less than windowsize of $config->{'windowsize'}.";
     usage(1);
   }
-  unless ($config->{'chunks'} >= 1) {
-    print "\nERROR: Provide value >=1 for the chunks parameters.";
-    usage(1);
-  }
+  #unless ($config->{'chunks'} >= 1) {
+  #  print "\nERROR: Provide value >=1 for the chunks parameters.";
+  #  usage(1);
+  #}
   $config->{'chunks'} = 1 if ($config->{'chunks'} == -1 && $config->{'lenperchunk'} == -1);
   return $config;
 }
