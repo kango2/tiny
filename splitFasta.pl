@@ -12,6 +12,7 @@ my $config = configure(scalar @ARGV);
 my ($seqInfo, $totalLength) = readFasta($config->{'inputfasta'});
 
 ##intialize variables
+$config->{'chunks'} = ($config->{'chunks'} == -1 && $config->{'lenperchunk'} >= $config->{'windowsize'}) ? int($totalLength / $config->{'lenperchunk'}) + 1 : 1 ;
 my $lenperchunk = ($config->{'lenperchunk'} >= $config->{'windowsize'} ) ? $config->{'lenperchunk'} : int($totalLength / $config->{'chunks'});
 my $currentchunksize = 0;
 my $chunkID = 0;
@@ -21,7 +22,7 @@ my $suffixLen = length($config->{'chunks'});
 open (CHUNK, ">$config->{'outputbase'}".sprintf("%0${suffixLen}d", $chunkID).".fa") or die $!;
 foreach my $seq (@$seqInfo){
   for (my $i=0;$i<length($$seq{'seq'});$i+=$config->{'windowsize'} - $config->{'overlap'}){
-    if ($currentchunksize > $lenperchunk) {
+    if ($currentchunksize >= $lenperchunk) {
       $chunkID++;
       $currentchunksize = 0;
       close CHUNK;
@@ -119,11 +120,9 @@ sub configure {
     print "\nERROR: Provide non-negative value less than windowsize of $config->{'windowsize'}.";
     usage(1);
   }
-  #unless ($config->{'chunks'} >= 1) {
-  #  print "\nERROR: Provide value >=1 for the chunks parameters.";
-  #  usage(1);
-  #}
+
   $config->{'chunks'} = 1 if ($config->{'chunks'} == -1 && $config->{'lenperchunk'} == -1);
+	
   return $config;
 }
 
