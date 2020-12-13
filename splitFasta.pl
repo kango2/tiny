@@ -12,7 +12,7 @@ my $config = configure(scalar @ARGV);
 my ($seqInfo, $totalLength) = readFasta($config->{'inputfasta'});
 
 ##intialize variables
-my $lenperchunk = int($totalLength / $config->{'chunks'});
+my $lenperchunk = ($config->{'lenperchunk'} >= $config->{'windowsize'} ) ? $config->{'lenperchunk'} : int($totalLength / $config->{'chunks'});
 my $currentchunksize = 0;
 my $chunkID = 0;
 my $suffixLen = length($config->{'chunks'});
@@ -80,8 +80,9 @@ sub configure {
   my $args = shift;
   my $config = {};
   $config->{'overlap'}    = 0;
-  $config->{'chunks'}     = 1;
+  $config->{'chunks'}     = -1;
   $config->{'windowsize'} = 1000000;
+  $config->{'lenperchunk'} = -1;
   GetOptions(
   $config,
   'inputfasta|i=s',
@@ -89,6 +90,7 @@ sub configure {
   'windowsize|w=i',
   'overlap|s:i',
   'chunks|c:i',
+  'lenperchunk|l:i',
   ) or usage(1);
 
   if ($config->{'outputbase'}) {
@@ -121,6 +123,7 @@ sub configure {
     print "\nERROR: Provide value >=1 for the chunks parameters.";
     usage(1);
   }
+  $config->{'chunks'} = 1 if ($config->{'chunks'} == -1 && $config->{'lenperchunk'} == -1);
   return $config;
 }
 
@@ -153,6 +156,7 @@ Options:
   -windowsize/-w      Maximum size of the sequence in the output. Default is 1000000.
   -overlap/-s         Number of overlapping basepairs between two consecutive windows (sliding window). Default is 0bp.
   -chunks/-c          Number of output files to divide the output into. If desired, output can be split across multiple files. Default is 1 output file.
+  -lenperchunk/-l     Alternately, define the maximum length of sequence to be written per output file. Default is 5000000bp.
 USAGEMSG
   exit($exit_code);
 }
