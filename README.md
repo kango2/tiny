@@ -48,6 +48,8 @@ Default parameters
 for i in `cut -f3 metadata.txt | grep -v fasta`; do wget --continue $i; done
 ##Download assembly report
 for i in `cut -f6 metadata.txt | grep -v assemblyreport`; do wget --continue $i; done
+##Create sequence sizes file
+for i in *.fna.gz; do gunzip -c $i | perl -lne 'if ($_ =~ />(\S+)/){ $h=$1; push (@seq, $h); } else { $l{$h}+=length($_) } END { map { print "$_\t$l{$_}" } @seq }' >`dirname $i`/`basename $i _genomic.fna.gz`.sizes; done
 ##Unzip genomes
 for i in *.fna.gz; do zcat $i > `basename $i .gz`; done
 ##index genome files
