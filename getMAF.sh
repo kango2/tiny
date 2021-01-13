@@ -1,43 +1,34 @@
 #!/bin/bash
 
+set -e
+
 export PATH=/g/data/te53/hrp561/wga/software/kentutils/:$PATH
 
-cd /g/data/te53/hrp561/wga/genomes/
+pairbase=$1
+target2bit=$2
+query2bit=$3
+targetsize=$4
+querysize=$5
+targetscode=$6
+queryscode=$7
 
-for i in *_assembly_report.txt; 
-do
-	echo processing $i
-	qbase=`dirname $i`/`basename $i _assembly_report.txt`
-	qfbase=`basename $i _assembly_report.txt`
-	tfbase=GCF_000002315.6_GRCg6a
-	scode=`grep $i speciescode.txt | cut -f1`
-	seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f7 | grep -v na`;
-	if [[ ${#seqids} -eq 0 ]]; 
-	then 
-		seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f5 | grep -v na`;
-	fi; 
-	cmd="chainMergeSort"; 
-	for j in $seqids; 
-	do 
-		if [ -e chrseq/$j.chain ]; 
-		then 
-			cmd="$cmd chrseq/$j.chain"; 
-		fi;
-	done;
-	##merge and sort chromosomal chains
-	eval $cmd >$qbase.chains;
-	##chainPreNet
-	chainPreNet $qbase.chains $tfbase.sizes $qbase.sizes $qbase.chains.prenet;
-	##net chains
-	chainNet $qbase.chains.prenet $tfbase.sizes $qbase.sizes $tfbase.vs.$qfbase.ttmpnet $qbase.qtmpnet
-	##target netSyntenic
-	netSyntenic $tfbase.vs.$qfbase.ttmpnet $tfbase.vs.$qfbase.tnet
-	##query netSyntenic
-	netSyntenic $qbase.qtmpnet $qbase.qnet
-	##netToaxt
-	netToAxt $tfbase.vs.$qfbase.tnet $qbase.chains.prenet "$tfbase"_genomic.2bit "$qbase"_genomic.2bit $qbase.axt
-	##axtsort
-	axtSort $qbase.axt $qbase.axtsorted
-	##axtToMaf
-	axtToMaf -tPrefix=CHICK- -qPrefix="$scode"- $qbase.axtsorted $tfbase.sizes $qbase.sizes $qbase.vs.CHICK.maf
-done
+axtChain -minScore=3000 -linearGap=medium $pairbase.lastz.axt $target2bit $query2bit $pairbase.chains &>/dev/null
+##sort chains
+chainSort $pairbase.chains $pairbase.sorted.chains
+rm -f $pairbase.chains
+##chainPreNet
+chainPreNet $pairbase.sorted.chains $targetsize $querysize $pairbase.prenet.chains
+##net chains
+chainNet $pairbase.prenet.chains $targetsize $querysize $pairbase.target.tmpnet $pairbase.query.tmpnet
+##target netSyntenic
+netSyntenic $pairbase.target.tmpnet $pairbase.target.net
+##query netSyntenic
+netSyntenic $pairbase.query.tmpnet $pairbase.query.net
+##netToaxt
+netToAxt $pairbase.target.net $pairbase.prenet.chains $target2bit $query2bit $pairbase.net.axt
+##axtsort
+axtSort $pairbase.net.axt $pairbase.sorted.net.axt
+##axtToMaf
+axtToMaf -tPrefix="$targetscode"- -qPrefix="$queryscode"- $pairbase.sorted.net.axt $targetsize $querysize $pairbase.maf
+rm -f $pairbase.net.axt $pairbase.query.tmpnet $pairbase.target.tmpnet 
+
