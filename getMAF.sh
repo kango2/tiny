@@ -2,7 +2,8 @@
 
 set -e
 
-export PATH=/g/data/te53/hrp561/wga/software/kentutils/:$PATH
+##load Jim Kent's Utilities available at http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/ with download instructions
+module load kentutils
 
 pairbase=$1
 target2bit=$2
