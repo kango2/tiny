@@ -1,0 +1,171 @@
+# Assembly name:  CAS_Tse_1.0
+# Organism name:  Trachemys scripta elegans (red-eared slider turtle)
+# Isolate:  TJP31775
+# Taxid:          31138
+# BioSample:      SAMN12189062
+# BioProject:     PRJNA552319
+# Submitter:      California Academy of Sciences
+# Date:           2020-05-15
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    VIRI01
+# Assembly method: Supernova v. 1.2
+# Expected final version: no
+# Genome coverage: 60.0x
+# Sequencing technology: Illumina NovaSeq; PacBio
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_013100865.1
+# RefSeq assembly accession: GCF_013100865.1
+# RefSeq assembly and GenBank assemblies identical: no
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_013100875.1	GCF_013100875.1	Primary Assembly
+## 	GCF_013176925.1	non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+chr1	assembled-molecule	1	Chromosome	CM023056.1	=	NC_048298.1	Primary Assembly	347660827	na
+chr2	assembled-molecule	2	Chromosome	CM023057.1	=	NC_048299.1	Primary Assembly	283098403	na
+chr3	assembled-molecule	3	Chromosome	CM023058.1	=	NC_048300.1	Primary Assembly	201239519	na
+chr4	assembled-molecule	4	Chromosome	CM023059.1	=	NC_048301.1	Primary Assembly	142343550	na
+chr5	assembled-molecule	5	Chromosome	CM023060.1	=	NC_048302.1	Primary Assembly	140411086	na
+chr6	assembled-molecule	6	Chromosome	CM023061.1	=	NC_048303.1	Primary Assembly	129675691	na
+chr7	assembled-molecule	7	Chromosome	CM023062.1	=	NC_048304.1	Primary Assembly	126808733	na
+chr8	assembled-molecule	8	Chromosome	CM023063.1	=	NC_048305.1	Primary Assembly	109307977	na
+chr9	assembled-molecule	9	Chromosome	CM023064.1	=	NC_048306.1	Primary Assembly	104972506	na
+chr10	assembled-molecule	10	Chromosome	CM023065.1	=	NC_048307.1	Primary Assembly	85829911	na
+chr11	assembled-molecule	11	Chromosome	CM023066.1	=	NC_048308.1	Primary Assembly	76047897	na
+chr12	assembled-molecule	12	Chromosome	CM023067.1	=	NC_048309.1	Primary Assembly	45061502	na
+chr13	assembled-molecule	13	Chromosome	CM023068.1	=	NC_048310.1	Primary Assembly	43716676	na
+chr14	assembled-molecule	14	Chromosome	CM023069.1	=	NC_048311.1	Primary Assembly	42221082	na
+chr15	assembled-molecule	15	Chromosome	CM023070.1	=	NC_048312.1	Primary Assembly	32210117	na
+chr16	assembled-molecule	16	Chromosome	CM023071.1	=	NC_048313.1	Primary Assembly	30045477	na
+chr17	assembled-molecule	17	Chromosome	CM023072.1	=	NC_048314.1	Primary Assembly	26830997	na
+chr18	assembled-molecule	18	Chromosome	CM023073.1	=	NC_048315.1	Primary Assembly	24772400	na
+chr19	assembled-molecule	19	Chromosome	CM023074.1	=	NC_048316.1	Primary Assembly	22813715	na
+chr20	assembled-molecule	20	Chromosome	CM023075.1	=	NC_048317.1	Primary Assembly	19368400	na
+chr21	assembled-molecule	21	Chromosome	CM023076.1	=	NC_048318.1	Primary Assembly	19049219	na
+chr22	assembled-molecule	22	Chromosome	CM023077.1	=	NC_048319.1	Primary Assembly	16439607	na
+chr23	assembled-molecule	23	Chromosome	CM023078.1	=	NC_048320.1	Primary Assembly	16074632	na
+chr24	assembled-molecule	24	Chromosome	CM023079.1	=	NC_048321.1	Primary Assembly	15148950	na
+chr25	assembled-molecule	25	Chromosome	CM023080.1	=	NC_048322.1	Primary Assembly	7130772	na
+scaffold_26	unplaced-scaffold	na	na	VIRI01000026.1	=	NW_023260511.1	Primary Assembly	5535723	na
+scaffold_28	unplaced-scaffold	na	na	VIRI01000027.1	=	NW_023260513.1	Primary Assembly	3292392	na
+scaffold_30	unplaced-scaffold	na	na	VIRI01000028.1	=	NW_023260516.1	Primary Assembly	1077423	na
+scaffold_31	unplaced-scaffold	na	na	VIRI01000029.1	=	NW_023260517.1	Primary Assembly	453502	na
+scaffold_29	unplaced-scaffold	na	na	VIRI01000030.1	=	NW_023260514.1	Primary Assembly	80068	na
+scaffold_32	unplaced-scaffold	na	na	VIRI01000031.1	=	NW_023260518.1	Primary Assembly	132770	na
+scaffold_33	unplaced-scaffold	na	na	VIRI01000032.1	=	NW_023260519.1	Primary Assembly	132713	na
+scaffold_34	unplaced-scaffold	na	na	VIRI01000033.1	=	NW_023260520.1	Primary Assembly	110993	na
+scaffold_35	unplaced-scaffold	na	na	VIRI01000034.1	=	NW_023260521.1	Primary Assembly	98221	na
+scaffold_36	unplaced-scaffold	na	na	VIRI01000035.1	=	NW_023260523.1	Primary Assembly	97782	na
+scaffold_37	unplaced-scaffold	na	na	VIRI01000036.1	=	NW_023260524.1	Primary Assembly	97655	na
+scaffold_38	unplaced-scaffold	na	na	VIRI01000037.1	=	NW_023260525.1	Primary Assembly	93957	na
+scaffold_39	unplaced-scaffold	na	na	VIRI01000038.1	=	NW_023260526.1	Primary Assembly	93007	na
+scaffold_40	unplaced-scaffold	na	na	VIRI01000039.1	=	NW_023260527.1	Primary Assembly	90099	na
+scaffold_41	unplaced-scaffold	na	na	VIRI01000040.1	=	NW_023260528.1	Primary Assembly	89832	na
+scaffold_42	unplaced-scaffold	na	na	VIRI01000041.1	=	NW_023260529.1	Primary Assembly	88688	na
+scaffold_43	unplaced-scaffold	na	na	VIRI01000042.1	=	NW_023260530.1	Primary Assembly	85040	na
+scaffold_45	unplaced-scaffold	na	na	VIRI01000043.1	=	NW_023260531.1	Primary Assembly	84583	na
+scaffold_46	unplaced-scaffold	na	na	VIRI01000044.1	=	NW_023260532.1	Primary Assembly	83591	na
+scaffold_47	unplaced-scaffold	na	na	VIRI01000045.1	=	NW_023260533.1	Primary Assembly	83568	na
+scaffold_48	unplaced-scaffold	na	na	VIRI01000046.1	=	NW_023260534.1	Primary Assembly	83064	na
+scaffold_49	unplaced-scaffold	na	na	VIRI01000047.1	=	NW_023260535.1	Primary Assembly	82500	na
+scaffold_50	unplaced-scaffold	na	na	VIRI01000048.1	=	NW_023260536.1	Primary Assembly	81792	na
+scaffold_51	unplaced-scaffold	na	na	VIRI01000049.1	=	NW_023260537.1	Primary Assembly	79709	na
+scaffold_52	unplaced-scaffold	na	na	VIRI01000050.1	=	NW_023260538.1	Primary Assembly	79613	na
+scaffold_53	unplaced-scaffold	na	na	VIRI01000051.1	=	NW_023260539.1	Primary Assembly	78564	na
+scaffold_54	unplaced-scaffold	na	na	VIRI01000052.1	=	NW_023260540.1	Primary Assembly	77747	na
+scaffold_55	unplaced-scaffold	na	na	VIRI01000053.1	=	NW_023260541.1	Primary Assembly	77741	na
+scaffold_56	unplaced-scaffold	na	na	VIRI01000054.1	=	NW_023260542.1	Primary Assembly	76003	na
+scaffold_57	unplaced-scaffold	na	na	VIRI01000055.1	=	NW_023260543.1	Primary Assembly	75243	na
+scaffold_58	unplaced-scaffold	na	na	VIRI01000056.1	=	NW_023260544.1	Primary Assembly	75046	na
+scaffold_59	unplaced-scaffold	na	na	VIRI01000057.1	=	NW_023260545.1	Primary Assembly	74871	na
+scaffold_197	unplaced-scaffold	na	na	VIRI01000058.1	=	NW_023260509.1	Primary Assembly	74605	na
+scaffold_60	unplaced-scaffold	na	na	VIRI01000059.1	=	NW_023260546.1	Primary Assembly	74561	na
+scaffold_61	unplaced-scaffold	na	na	VIRI01000060.1	=	NW_023260547.1	Primary Assembly	73802	na
+scaffold_62	unplaced-scaffold	na	na	VIRI01000061.1	=	NW_023260548.1	Primary Assembly	73794	na
+scaffold_63	unplaced-scaffold	na	na	VIRI01000062.1	=	NW_023260549.1	Primary Assembly	72938	na
+scaffold_64	unplaced-scaffold	na	na	VIRI01000063.1	=	NW_023260550.1	Primary Assembly	72885	na
+scaffold_65	unplaced-scaffold	na	na	VIRI01000064.1	=	NW_023260551.1	Primary Assembly	71550	na
+scaffold_66	unplaced-scaffold	na	na	VIRI01000065.1	=	NW_023260552.1	Primary Assembly	71540	na
+scaffold_67	unplaced-scaffold	na	na	VIRI01000066.1	=	NW_023260553.1	Primary Assembly	71006	na
+scaffold_68	unplaced-scaffold	na	na	VIRI01000067.1	=	NW_023260554.1	Primary Assembly	70984	na
+scaffold_69	unplaced-scaffold	na	na	VIRI01000068.1	=	NW_023260555.1	Primary Assembly	70945	na
+scaffold_70	unplaced-scaffold	na	na	VIRI01000069.1	=	NW_023260556.1	Primary Assembly	70398	na
+scaffold_71	unplaced-scaffold	na	na	VIRI01000070.1	=	NW_023260557.1	Primary Assembly	70383	na
+scaffold_72	unplaced-scaffold	na	na	VIRI01000071.1	=	NW_023260558.1	Primary Assembly	70240	na
+scaffold_73	unplaced-scaffold	na	na	VIRI01000072.1	=	NW_023260559.1	Primary Assembly	70224	na
+scaffold_74	unplaced-scaffold	na	na	VIRI01000073.1	=	NW_023260560.1	Primary Assembly	69862	na
+scaffold_100	unplaced-scaffold	na	na	VIRI01000074.1	=	NW_023260474.1	Primary Assembly	69699	na
+scaffold_75	unplaced-scaffold	na	na	VIRI01000075.1	=	NW_023260561.1	Primary Assembly	68279	na
+scaffold_357	unplaced-scaffold	na	na	VIRI01000076.1	=	NW_023260522.1	Primary Assembly	67540	na
+scaffold_76	unplaced-scaffold	na	na	VIRI01000077.1	=	NW_023260562.1	Primary Assembly	66553	na
+scaffold_77	unplaced-scaffold	na	na	VIRI01000078.1	=	NW_023260563.1	Primary Assembly	66549	na
+scaffold_78	unplaced-scaffold	na	na	VIRI01000079.1	=	NW_023260564.1	Primary Assembly	66034	na
+scaffold_80	unplaced-scaffold	na	na	VIRI01000080.1	=	NW_023260566.1	Primary Assembly	65523	na
+scaffold_79	unplaced-scaffold	na	na	VIRI01000081.1	=	NW_023260565.1	Primary Assembly	65490	na
+scaffold_81	unplaced-scaffold	na	na	VIRI01000082.1	=	NW_023260567.1	Primary Assembly	64988	na
+scaffold_82	unplaced-scaffold	na	na	VIRI01000083.1	=	NW_023260568.1	Primary Assembly	64898	na
+scaffold_83	unplaced-scaffold	na	na	VIRI01000084.1	=	NW_023260569.1	Primary Assembly	64808	na
+scaffold_120	unplaced-scaffold	na	na	VIRI01000085.1	=	NW_023260493.1	Primary Assembly	64712	na
+scaffold_84	unplaced-scaffold	na	na	VIRI01000086.1	=	NW_023260570.1	Primary Assembly	64534	na
+scaffold_85	unplaced-scaffold	na	na	VIRI01000087.1	=	NW_023260571.1	Primary Assembly	64452	na
+scaffold_86	unplaced-scaffold	na	na	VIRI01000088.1	=	NW_023260572.1	Primary Assembly	63681	na
+scaffold_87	unplaced-scaffold	na	na	VIRI01000089.1	=	NW_023260573.1	Primary Assembly	62580	na
+scaffold_88	unplaced-scaffold	na	na	VIRI01000090.1	=	NW_023260574.1	Primary Assembly	62228	na
+scaffold_89	unplaced-scaffold	na	na	VIRI01000091.1	=	NW_023260575.1	Primary Assembly	62086	na
+scaffold_90	unplaced-scaffold	na	na	VIRI01000092.1	=	NW_023260576.1	Primary Assembly	61990	na
+scaffold_91	unplaced-scaffold	na	na	VIRI01000093.1	=	NW_023260577.1	Primary Assembly	61772	na
+scaffold_92	unplaced-scaffold	na	na	VIRI01000094.1	=	NW_023260578.1	Primary Assembly	61736	na
+scaffold_93	unplaced-scaffold	na	na	VIRI01000095.1	=	NW_023260579.1	Primary Assembly	61316	na
+scaffold_94	unplaced-scaffold	na	na	VIRI01000096.1	=	NW_023260580.1	Primary Assembly	61304	na
+scaffold_95	unplaced-scaffold	na	na	VIRI01000097.1	=	NW_023260581.1	Primary Assembly	61278	na
+scaffold_96	unplaced-scaffold	na	na	VIRI01000098.1	=	NW_023260582.1	Primary Assembly	61275	na
+scaffold_97	unplaced-scaffold	na	na	VIRI01000099.1	=	NW_023260583.1	Primary Assembly	61117	na
+scaffold_99	unplaced-scaffold	na	na	VIRI01000100.1	=	NW_023260585.1	Primary Assembly	60947	na
+scaffold_98	unplaced-scaffold	na	na	VIRI01000101.1	=	NW_023260584.1	Primary Assembly	60702	na
+scaffold_101	unplaced-scaffold	na	na	VIRI01000102.1	=	NW_023260475.1	Primary Assembly	60479	na
+scaffold_102	unplaced-scaffold	na	na	VIRI01000103.1	=	NW_023260476.1	Primary Assembly	60468	na
+scaffold_103	unplaced-scaffold	na	na	VIRI01000104.1	=	NW_023260477.1	Primary Assembly	60405	na
+scaffold_109	unplaced-scaffold	na	na	VIRI01000105.1	=	NW_023260482.1	Primary Assembly	60399	na
+scaffold_104	unplaced-scaffold	na	na	VIRI01000106.1	=	NW_023260478.1	Primary Assembly	60391	na
+scaffold_105	unplaced-scaffold	na	na	VIRI01000107.1	=	NW_023260479.1	Primary Assembly	60185	na
+scaffold_106	unplaced-scaffold	na	na	VIRI01000108.1	=	NW_023260480.1	Primary Assembly	60170	na
+scaffold_107	unplaced-scaffold	na	na	VIRI01000109.1	=	NW_023260481.1	Primary Assembly	60161	na
+scaffold_110	unplaced-scaffold	na	na	VIRI01000110.1	=	NW_023260483.1	Primary Assembly	59901	na
+scaffold_111	unplaced-scaffold	na	na	VIRI01000111.1	=	NW_023260484.1	Primary Assembly	59899	na
+scaffold_112	unplaced-scaffold	na	na	VIRI01000112.1	=	NW_023260485.1	Primary Assembly	59870	na
+scaffold_113	unplaced-scaffold	na	na	VIRI01000113.1	=	NW_023260486.1	Primary Assembly	59864	na
+scaffold_114	unplaced-scaffold	na	na	VIRI01000114.1	=	NW_023260487.1	Primary Assembly	59784	na
+scaffold_115	unplaced-scaffold	na	na	VIRI01000115.1	=	NW_023260488.1	Primary Assembly	59777	na
+scaffold_117	unplaced-scaffold	na	na	VIRI01000116.1	=	NW_023260490.1	Primary Assembly	59769	na
+scaffold_118	unplaced-scaffold	na	na	VIRI01000117.1	=	NW_023260491.1	Primary Assembly	59768	na
+scaffold_116	unplaced-scaffold	na	na	VIRI01000118.1	=	NW_023260489.1	Primary Assembly	59680	na
+scaffold_119	unplaced-scaffold	na	na	VIRI01000119.1	=	NW_023260492.1	Primary Assembly	59580	na
+scaffold_121	unplaced-scaffold	na	na	VIRI01000120.1	=	NW_023260494.1	Primary Assembly	59313	na
+scaffold_264	unplaced-scaffold	na	na	VIRI01000121.1	=	NW_023260512.1	Primary Assembly	58871	na
+scaffold_122	unplaced-scaffold	na	na	VIRI01000122.1	=	NW_023260495.1	Primary Assembly	58308	na
+scaffold_123	unplaced-scaffold	na	na	VIRI01000123.1	=	NW_023260496.1	Primary Assembly	58292	na
+scaffold_124	unplaced-scaffold	na	na	VIRI01000124.1	=	NW_023260497.1	Primary Assembly	58116	na
+scaffold_125	unplaced-scaffold	na	na	VIRI01000125.1	=	NW_023260498.1	Primary Assembly	58086	na
+scaffold_127	unplaced-scaffold	na	na	VIRI01000126.1	=	NW_023260500.1	Primary Assembly	58015	na
+scaffold_126	unplaced-scaffold	na	na	VIRI01000127.1	=	NW_023260499.1	Primary Assembly	57906	na
+scaffold_297	unplaced-scaffold	na	na	VIRI01000128.1	=	NW_023260515.1	Primary Assembly	57704	na
+scaffold_128	unplaced-scaffold	na	na	VIRI01000129.1	=	NW_023260501.1	Primary Assembly	57650	na
+scaffold_129	unplaced-scaffold	na	na	VIRI01000130.1	=	NW_023260502.1	Primary Assembly	57647	na
+scaffold_130	unplaced-scaffold	na	na	VIRI01000131.1	=	NW_023260503.1	Primary Assembly	57571	na
+scaffold_131	unplaced-scaffold	na	na	VIRI01000132.1	=	NW_023260504.1	Primary Assembly	57530	na
+scaffold_211	unplaced-scaffold	na	na	VIRI01000133.1	=	NW_023260510.1	Primary Assembly	57500	na
+scaffold_136	unplaced-scaffold	na	na	VIRI01000134.1	=	NW_023260507.1	Primary Assembly	57336	na
+scaffold_133	unplaced-scaffold	na	na	VIRI01000135.1	=	NW_023260505.1	Primary Assembly	57180	na
+scaffold_135	unplaced-scaffold	na	na	VIRI01000136.1	=	NW_023260506.1	Primary Assembly	57119	na
+scaffold_137	unplaced-scaffold	na	na	VIRI01000137.1	=	NW_023260508.1	Primary Assembly	56865	na
+MT	assembled-molecule	MT	Mitochondrion	na	<>	NC_011573.1	non-nuclear	16810	na

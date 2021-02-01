@@ -1,0 +1,86 @@
+# Assembly name:  rDerCor1.pri.v2
+# Organism name:  Dermochelys coriacea (leatherback sea turtle)
+# Isolate:  rDerCor1
+# Sex:  male
+# Taxid:          27794
+# BioSample:      SAMN12629498
+# BioProject:     PRJNA561993
+# Submitter:      G10K
+# Date:           2020-06-23
+# Assembly type:  haploid (principal pseudohaplotype of diploid)
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    WSPL02
+# Assembly method: FALCON DNANexus v. 1.9.0; FALCON-Unzip DNANexus v. 1.0.6; purge_dups v. 1; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2020-04-06; VGP assembly pipeline individual v. 1.6
+# Expected final version: no
+# Genome coverage: 63.68x
+# Sequencing technology: PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_009764565.2
+# Linked assembly: GCA_012275265.1 (alternate pseudohaplotype of diploid)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_009764575.2		Primary Assembly
+## GCA_009764585.2		non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+SUPER_1	assembled-molecule	1	Chromosome	CM019935.1	<>	na	Primary Assembly	354662658	na
+SUPER_2	assembled-molecule	2	Chromosome	CM019936.2	<>	na	Primary Assembly	272817678	na
+SUPER_3	assembled-molecule	3	Chromosome	CM019937.1	<>	na	Primary Assembly	212050211	na
+SUPER_4	assembled-molecule	4	Chromosome	CM019938.1	<>	na	Primary Assembly	146539771	na
+SUPER_5	assembled-molecule	5	Chromosome	CM019939.1	<>	na	Primary Assembly	137794460	na
+SUPER_6	assembled-molecule	6	Chromosome	CM019940.1	<>	na	Primary Assembly	131086080	na
+SUPER_7	assembled-molecule	7	Chromosome	CM019941.1	<>	na	Primary Assembly	127676845	na
+SUPER_8	assembled-molecule	8	Chromosome	CM019942.1	<>	na	Primary Assembly	109335348	na
+SUPER_9	assembled-molecule	9	Chromosome	CM019943.1	<>	na	Primary Assembly	105199287	na
+SUPER_10	assembled-molecule	10	Chromosome	CM019944.1	<>	na	Primary Assembly	86542267	na
+SUPER_11	assembled-molecule	11	Chromosome	CM019945.1	<>	na	Primary Assembly	79983232	na
+SUPER_12	assembled-molecule	12	Chromosome	CM019946.1	<>	na	Primary Assembly	43630627	na
+SUPER_13	assembled-molecule	13	Chromosome	CM019947.1	<>	na	Primary Assembly	41066444	na
+SUPER_14	assembled-molecule	14	Chromosome	CM019948.1	<>	na	Primary Assembly	40016649	na
+SUPER_15	assembled-molecule	15	Chromosome	CM019949.1	<>	na	Primary Assembly	33196092	na
+SUPER_16	assembled-molecule	16	Chromosome	CM019950.1	<>	na	Primary Assembly	26398386	na
+SUPER_17	assembled-molecule	17	Chromosome	CM019951.1	<>	na	Primary Assembly	25425890	na
+SUPER_18	assembled-molecule	18	Chromosome	CM019952.1	<>	na	Primary Assembly	23663727	na
+SUPER_19	assembled-molecule	19	Chromosome	CM019953.2	<>	na	Primary Assembly	20022023	na
+SUPER_20	assembled-molecule	20	Chromosome	CM019954.2	<>	na	Primary Assembly	19364816	na
+SUPER_21	assembled-molecule	21	Chromosome	CM019955.2	<>	na	Primary Assembly	19206221	na
+SUPER_22	assembled-molecule	22	Chromosome	CM019956.2	<>	na	Primary Assembly	18857141	na
+SUPER_23	assembled-molecule	23	Chromosome	CM019957.1	<>	na	Primary Assembly	17225972	na
+SUPER_24	assembled-molecule	24	Chromosome	CM019958.1	<>	na	Primary Assembly	16948695	na
+SUPER_25	assembled-molecule	25	Chromosome	CM019959.1	<>	na	Primary Assembly	16477667	na
+SUPER_26	assembled-molecule	26	Chromosome	CM019960.1	<>	na	Primary Assembly	16471034	na
+SUPER_27	assembled-molecule	27	Chromosome	CM019961.2	<>	na	Primary Assembly	16292121	na
+SUPER_28	assembled-molecule	28	Chromosome	CM019962.1	<>	na	Primary Assembly	6614079	na
+scaffold_67_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000029.1	<>	na	Primary Assembly	89802	na
+scaffold_68_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000030.1	<>	na	Primary Assembly	88410	na
+scaffold_69_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000031.1	<>	na	Primary Assembly	78896	na
+scaffold_70_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000032.1	<>	na	Primary Assembly	62475	na
+scaffold_72_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000033.1	<>	na	Primary Assembly	58560	na
+scaffold_73_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000034.1	<>	na	Primary Assembly	49520	na
+scaffold_74_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000035.1	<>	na	Primary Assembly	48713	na
+scaffold_77_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000036.1	<>	na	Primary Assembly	38842	na
+scaffold_79_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000037.1	<>	na	Primary Assembly	36731	na
+scaffold_82_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000038.1	<>	na	Primary Assembly	30672	na
+scaffold_83_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000039.1	<>	na	Primary Assembly	30698	na
+scaffold_84_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000040.1	<>	na	Primary Assembly	27500	na
+scaffold_85_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000041.1	<>	na	Primary Assembly	25686	na
+scaffold_86_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000042.1	<>	na	Primary Assembly	24975	na
+scaffold_87_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000043.1	<>	na	Primary Assembly	24219	na
+scaffold_88_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000044.1	<>	na	Primary Assembly	23332	na
+scaffold_89_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000045.1	<>	na	Primary Assembly	21898	na
+scaffold_90_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000046.1	<>	na	Primary Assembly	17458	na
+scaffold_91_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000047.1	<>	na	Primary Assembly	12221	na
+scaffold_92_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000048.1	<>	na	Primary Assembly	9022	na
+scaffold_93_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000049.1	<>	na	Primary Assembly	8720	na
+scaffold_94_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000050.1	<>	na	Primary Assembly	6026	na
+scaffold_95_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000051.1	<>	na	Primary Assembly	4771	na
+scaffold_96_arrow_ctg1	unplaced-scaffold	na	na	WSPL02000052.1	<>	na	Primary Assembly	2405	na
+rDerCor1_MT	assembled-molecule	MT	Mitochondrion	CM019965.1	<>	na	non-nuclear	16625	na

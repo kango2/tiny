@@ -1,0 +1,214 @@
+# Assembly name:  bCygOlo1.pri
+# Organism name:  Cygnus olor (mute swan)
+# Isolate:  bCygOlo1
+# Sex:  male
+# Taxid:          8869
+# BioSample:      SAMN12621369
+# BioProject:     PRJNA561960
+# Submitter:      Vertebrate Genomes Project
+# Date:           2019-12-23
+# Assembly type:  haploid (principal pseudohaplotype of diploid)
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    WNMI01
+# Assembly method: FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_haplotigs v. 1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2
+# Expected final version: no
+# Genome coverage: 60.23x
+# Sequencing technology: PacBio Sequel 1 CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_009769625.1
+# Linked assembly: GCA_009769485.1 (alternate pseudohaplotype of diploid)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_009769645.1		Primary Assembly
+## GCA_009769655.1		non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+SUPER_scf_1	assembled-molecule	1	Chromosome	CM020065.1	<>	na	Primary Assembly	209740803	na
+SUPER_scf_4	assembled-molecule	2	Chromosome	CM020066.1	<>	na	Primary Assembly	161160915	na
+SUPER_scf_2	assembled-molecule	3	Chromosome	CM020067.1	<>	na	Primary Assembly	121161405	na
+SUPER_scf_3	assembled-molecule	4	Chromosome	CM020068.1	<>	na	Primary Assembly	77806539	na
+SUPER_scf_5	assembled-molecule	5	Chromosome	CM020069.1	<>	na	Primary Assembly	66085727	na
+SUPER_scf_6	assembled-molecule	6	Chromosome	CM020070.1	<>	na	Primary Assembly	40597510	na
+SUPER_scf_7	assembled-molecule	7	Chromosome	CM020071.1	<>	na	Primary Assembly	38445481	na
+SUPER_scf_8	assembled-molecule	8	Chromosome	CM020072.1	<>	na	Primary Assembly	33098480	na
+SUPER_scf_9	assembled-molecule	9	Chromosome	CM020073.1	<>	na	Primary Assembly	26863093	na
+SUPER_scf_10	assembled-molecule	10	Chromosome	CM020074.1	<>	na	Primary Assembly	22536196	na
+SUPER_scf_11	assembled-molecule	11	Chromosome	CM020075.1	<>	na	Primary Assembly	22219367	na
+SUPER_scf_12	assembled-molecule	12	Chromosome	CM020076.1	<>	na	Primary Assembly	21853640	na
+SUPER_scf_13	assembled-molecule	13	Chromosome	CM020077.1	<>	na	Primary Assembly	21469910	na
+SUPER_scf_14	assembled-molecule	14	Chromosome	CM020078.1	<>	na	Primary Assembly	20170086	na
+SUPER_scf_15	assembled-molecule	15	Chromosome	CM020079.1	<>	na	Primary Assembly	18104235	na
+SUPER_scf_16	assembled-molecule	16	Chromosome	CM020080.1	<>	na	Primary Assembly	16327272	na
+SUPER_scf_17	assembled-molecule	17	Chromosome	CM020081.1	<>	na	Primary Assembly	15594031	na
+SUPER_scf_18	assembled-molecule	18	Chromosome	CM020082.1	<>	na	Primary Assembly	13182687	na
+SUPER_scf_19	assembled-molecule	19	Chromosome	CM020083.1	<>	na	Primary Assembly	12196948	na
+SUPER_scf_20	assembled-molecule	20	Chromosome	CM020084.1	<>	na	Primary Assembly	12179101	na
+SUPER_scf_23	assembled-molecule	21	Chromosome	CM020085.1	<>	na	Primary Assembly	9107981	na
+SUPER_scf_24	assembled-molecule	22	Chromosome	CM020086.1	<>	na	Primary Assembly	7827656	na
+SUPER_scf_25	assembled-molecule	23	Chromosome	CM020087.1	<>	na	Primary Assembly	7743145	na
+SUPER_scf_26	assembled-molecule	24	Chromosome	CM020088.1	<>	na	Primary Assembly	7030754	na
+SUPER_scf_28	assembled-molecule	25	Chromosome	CM020089.1	<>	na	Primary Assembly	6682846	na
+SUPER_scf_27	assembled-molecule	26	Chromosome	CM020090.1	<>	na	Primary Assembly	5979446	na
+SUPER_scf_31	assembled-molecule	27	Chromosome	CM020091.1	<>	na	Primary Assembly	5774404	na
+SUPER_scf_38	assembled-molecule	28	Chromosome	CM020092.1	<>	na	Primary Assembly	3067530	na
+SUPER_scf_42	assembled-molecule	29	Chromosome	CM020093.1	<>	na	Primary Assembly	2501788	na
+SUPER_scf_60	assembled-molecule	Z	Chromosome	CM020094.1	<>	na	Primary Assembly	81035313	na
+SUPER_scf_80	assembled-molecule	W	Chromosome	CM020095.1	<>	na	Primary Assembly	4360214	na
+SUPER_scf_78	unlocalized-scaffold	W	Chromosome	WNMI01000036.1	<>	na	Primary Assembly	3846276	na
+SUPER_scf_82	unlocalized-scaffold	W	Chromosome	WNMI01000038.1	<>	na	Primary Assembly	1818571	na
+SUPER_scf_84	unlocalized-scaffold	W	Chromosome	WNMI01000039.1	<>	na	Primary Assembly	1734820	na
+SUPER_scf_86	unlocalized-scaffold	W	Chromosome	WNMI01000040.1	<>	na	Primary Assembly	1701956	na
+SUPER_scf_88	unlocalized-scaffold	W	Chromosome	WNMI01000041.1	<>	na	Primary Assembly	1323685	na
+SUPER_scf_90	unlocalized-scaffold	W	Chromosome	WNMI01000042.1	<>	na	Primary Assembly	1315410	na
+SUPER_scf_45	unplaced-scaffold	na	na	WNMI01000030.1	<>	na	Primary Assembly	727315	na
+SUPER_scf_49	unplaced-scaffold	na	na	WNMI01000031.1	<>	na	Primary Assembly	711869	na
+SUPER_scf_52	unplaced-scaffold	na	na	WNMI01000032.1	<>	na	Primary Assembly	744676	na
+SUPER_scf_54	unplaced-scaffold	na	na	WNMI01000033.1	<>	na	Primary Assembly	739355	na
+SUPER_scf_65	unplaced-scaffold	na	na	WNMI01000035.1	<>	na	Primary Assembly	78807	na
+SUPER_scf_92	unplaced-scaffold	na	na	WNMI01000043.1	<>	na	Primary Assembly	559603	na
+scf_94	unplaced-scaffold	na	na	WNMI01000044.1	<>	na	Primary Assembly	92943	na
+scf_95	unplaced-scaffold	na	na	WNMI01000045.1	<>	na	Primary Assembly	82504	na
+scf_96	unplaced-scaffold	na	na	WNMI01000046.1	<>	na	Primary Assembly	52929	na
+scf_97	unplaced-scaffold	na	na	WNMI01000047.1	<>	na	Primary Assembly	34483	na
+scf_98	unplaced-scaffold	na	na	WNMI01000048.1	<>	na	Primary Assembly	15902	na
+scf_99	unplaced-scaffold	na	na	WNMI01000049.1	<>	na	Primary Assembly	104346	na
+scf_100	unplaced-scaffold	na	na	WNMI01000050.1	<>	na	Primary Assembly	97321	na
+scf_101	unplaced-scaffold	na	na	WNMI01000051.1	<>	na	Primary Assembly	96517	na
+scf_102	unplaced-scaffold	na	na	WNMI01000052.1	<>	na	Primary Assembly	94397	na
+scf_103	unplaced-scaffold	na	na	WNMI01000053.1	<>	na	Primary Assembly	94270	na
+scf_104	unplaced-scaffold	na	na	WNMI01000054.1	<>	na	Primary Assembly	92441	na
+scf_105	unplaced-scaffold	na	na	WNMI01000055.1	<>	na	Primary Assembly	92440	na
+scf_106	unplaced-scaffold	na	na	WNMI01000056.1	<>	na	Primary Assembly	91035	na
+scf_107	unplaced-scaffold	na	na	WNMI01000057.1	<>	na	Primary Assembly	87165	na
+scf_108	unplaced-scaffold	na	na	WNMI01000058.1	<>	na	Primary Assembly	83680	na
+scf_109	unplaced-scaffold	na	na	WNMI01000059.1	<>	na	Primary Assembly	81055	na
+scf_110	unplaced-scaffold	na	na	WNMI01000060.1	<>	na	Primary Assembly	79459	na
+scf_111	unplaced-scaffold	na	na	WNMI01000061.1	<>	na	Primary Assembly	70698	na
+scf_112	unplaced-scaffold	na	na	WNMI01000062.1	<>	na	Primary Assembly	67881	na
+scf_113	unplaced-scaffold	na	na	WNMI01000063.1	<>	na	Primary Assembly	64825	na
+scf_114	unplaced-scaffold	na	na	WNMI01000064.1	<>	na	Primary Assembly	63503	na
+scf_115	unplaced-scaffold	na	na	WNMI01000065.1	<>	na	Primary Assembly	58261	na
+scf_116	unplaced-scaffold	na	na	WNMI01000066.1	<>	na	Primary Assembly	57294	na
+scf_117	unplaced-scaffold	na	na	WNMI01000067.1	<>	na	Primary Assembly	56198	na
+scf_118	unplaced-scaffold	na	na	WNMI01000068.1	<>	na	Primary Assembly	51554	na
+scf_119	unplaced-scaffold	na	na	WNMI01000069.1	<>	na	Primary Assembly	51678	na
+scf_120	unplaced-scaffold	na	na	WNMI01000070.1	<>	na	Primary Assembly	50443	na
+scf_121	unplaced-scaffold	na	na	WNMI01000071.1	<>	na	Primary Assembly	49747	na
+scf_122	unplaced-scaffold	na	na	WNMI01000072.1	<>	na	Primary Assembly	48693	na
+scf_123	unplaced-scaffold	na	na	WNMI01000073.1	<>	na	Primary Assembly	47816	na
+scf_124	unplaced-scaffold	na	na	WNMI01000074.1	<>	na	Primary Assembly	43829	na
+scf_125	unplaced-scaffold	na	na	WNMI01000075.1	<>	na	Primary Assembly	43715	na
+scf_126	unplaced-scaffold	na	na	WNMI01000076.1	<>	na	Primary Assembly	41602	na
+scf_127	unplaced-scaffold	na	na	WNMI01000077.1	<>	na	Primary Assembly	41962	na
+scf_128	unplaced-scaffold	na	na	WNMI01000078.1	<>	na	Primary Assembly	40356	na
+scf_129	unplaced-scaffold	na	na	WNMI01000079.1	<>	na	Primary Assembly	40216	na
+scf_130	unplaced-scaffold	na	na	WNMI01000080.1	<>	na	Primary Assembly	39911	na
+scf_131	unplaced-scaffold	na	na	WNMI01000081.1	<>	na	Primary Assembly	39076	na
+scf_132	unplaced-scaffold	na	na	WNMI01000082.1	<>	na	Primary Assembly	38503	na
+scf_133	unplaced-scaffold	na	na	WNMI01000083.1	<>	na	Primary Assembly	37065	na
+scf_134	unplaced-scaffold	na	na	WNMI01000084.1	<>	na	Primary Assembly	34596	na
+scf_135	unplaced-scaffold	na	na	WNMI01000085.1	<>	na	Primary Assembly	34231	na
+scf_136	unplaced-scaffold	na	na	WNMI01000086.1	<>	na	Primary Assembly	33990	na
+scf_137	unplaced-scaffold	na	na	WNMI01000087.1	<>	na	Primary Assembly	32053	na
+scf_138	unplaced-scaffold	na	na	WNMI01000088.1	<>	na	Primary Assembly	31186	na
+scf_139	unplaced-scaffold	na	na	WNMI01000089.1	<>	na	Primary Assembly	31104	na
+scf_140	unplaced-scaffold	na	na	WNMI01000090.1	<>	na	Primary Assembly	30004	na
+scf_141	unplaced-scaffold	na	na	WNMI01000091.1	<>	na	Primary Assembly	29982	na
+scf_142	unplaced-scaffold	na	na	WNMI01000092.1	<>	na	Primary Assembly	29712	na
+scf_143	unplaced-scaffold	na	na	WNMI01000093.1	<>	na	Primary Assembly	29507	na
+scf_144	unplaced-scaffold	na	na	WNMI01000094.1	<>	na	Primary Assembly	29290	na
+scf_145	unplaced-scaffold	na	na	WNMI01000095.1	<>	na	Primary Assembly	28914	na
+scf_146	unplaced-scaffold	na	na	WNMI01000096.1	<>	na	Primary Assembly	28307	na
+scf_147	unplaced-scaffold	na	na	WNMI01000097.1	<>	na	Primary Assembly	28321	na
+scf_148	unplaced-scaffold	na	na	WNMI01000098.1	<>	na	Primary Assembly	26843	na
+scf_149	unplaced-scaffold	na	na	WNMI01000099.1	<>	na	Primary Assembly	26268	na
+scf_150	unplaced-scaffold	na	na	WNMI01000100.1	<>	na	Primary Assembly	26181	na
+scf_151	unplaced-scaffold	na	na	WNMI01000101.1	<>	na	Primary Assembly	25986	na
+scf_152	unplaced-scaffold	na	na	WNMI01000102.1	<>	na	Primary Assembly	24848	na
+scf_153	unplaced-scaffold	na	na	WNMI01000103.1	<>	na	Primary Assembly	24751	na
+scf_154	unplaced-scaffold	na	na	WNMI01000104.1	<>	na	Primary Assembly	24632	na
+scf_155	unplaced-scaffold	na	na	WNMI01000105.1	<>	na	Primary Assembly	24599	na
+scf_156	unplaced-scaffold	na	na	WNMI01000106.1	<>	na	Primary Assembly	24159	na
+scf_157	unplaced-scaffold	na	na	WNMI01000107.1	<>	na	Primary Assembly	24017	na
+scf_158	unplaced-scaffold	na	na	WNMI01000108.1	<>	na	Primary Assembly	23022	na
+scf_159	unplaced-scaffold	na	na	WNMI01000109.1	<>	na	Primary Assembly	23011	na
+scf_160	unplaced-scaffold	na	na	WNMI01000110.1	<>	na	Primary Assembly	22747	na
+scf_161	unplaced-scaffold	na	na	WNMI01000111.1	<>	na	Primary Assembly	21415	na
+scf_162	unplaced-scaffold	na	na	WNMI01000112.1	<>	na	Primary Assembly	21069	na
+scf_163	unplaced-scaffold	na	na	WNMI01000113.1	<>	na	Primary Assembly	20988	na
+scf_164	unplaced-scaffold	na	na	WNMI01000114.1	<>	na	Primary Assembly	20914	na
+scf_165	unplaced-scaffold	na	na	WNMI01000115.1	<>	na	Primary Assembly	19814	na
+scf_166	unplaced-scaffold	na	na	WNMI01000116.1	<>	na	Primary Assembly	19771	na
+scf_167	unplaced-scaffold	na	na	WNMI01000117.1	<>	na	Primary Assembly	18749	na
+scf_168	unplaced-scaffold	na	na	WNMI01000118.1	<>	na	Primary Assembly	17807	na
+scf_169	unplaced-scaffold	na	na	WNMI01000119.1	<>	na	Primary Assembly	17717	na
+scf_170	unplaced-scaffold	na	na	WNMI01000120.1	<>	na	Primary Assembly	17400	na
+scf_171	unplaced-scaffold	na	na	WNMI01000121.1	<>	na	Primary Assembly	17194	na
+scf_172	unplaced-scaffold	na	na	WNMI01000122.1	<>	na	Primary Assembly	17408	na
+scf_173	unplaced-scaffold	na	na	WNMI01000123.1	<>	na	Primary Assembly	16775	na
+scf_174	unplaced-scaffold	na	na	WNMI01000124.1	<>	na	Primary Assembly	16305	na
+scf_175	unplaced-scaffold	na	na	WNMI01000125.1	<>	na	Primary Assembly	16066	na
+scf_176	unplaced-scaffold	na	na	WNMI01000126.1	<>	na	Primary Assembly	15826	na
+scf_177	unplaced-scaffold	na	na	WNMI01000127.1	<>	na	Primary Assembly	15746	na
+scf_178	unplaced-scaffold	na	na	WNMI01000128.1	<>	na	Primary Assembly	15051	na
+scf_179	unplaced-scaffold	na	na	WNMI01000129.1	<>	na	Primary Assembly	14563	na
+scf_180	unplaced-scaffold	na	na	WNMI01000130.1	<>	na	Primary Assembly	13911	na
+scf_181	unplaced-scaffold	na	na	WNMI01000131.1	<>	na	Primary Assembly	13506	na
+scf_182	unplaced-scaffold	na	na	WNMI01000132.1	<>	na	Primary Assembly	13014	na
+scf_183	unplaced-scaffold	na	na	WNMI01000133.1	<>	na	Primary Assembly	12827	na
+scf_184	unplaced-scaffold	na	na	WNMI01000134.1	<>	na	Primary Assembly	12099	na
+scf_185	unplaced-scaffold	na	na	WNMI01000135.1	<>	na	Primary Assembly	11806	na
+scf_186	unplaced-scaffold	na	na	WNMI01000136.1	<>	na	Primary Assembly	11637	na
+scf_187	unplaced-scaffold	na	na	WNMI01000137.1	<>	na	Primary Assembly	11482	na
+scf_188	unplaced-scaffold	na	na	WNMI01000138.1	<>	na	Primary Assembly	11138	na
+scf_189	unplaced-scaffold	na	na	WNMI01000139.1	<>	na	Primary Assembly	10491	na
+scf_190	unplaced-scaffold	na	na	WNMI01000140.1	<>	na	Primary Assembly	9997	na
+scf_191	unplaced-scaffold	na	na	WNMI01000141.1	<>	na	Primary Assembly	9909	na
+scf_192	unplaced-scaffold	na	na	WNMI01000142.1	<>	na	Primary Assembly	9004	na
+scf_193	unplaced-scaffold	na	na	WNMI01000143.1	<>	na	Primary Assembly	8978	na
+scf_194	unplaced-scaffold	na	na	WNMI01000144.1	<>	na	Primary Assembly	8807	na
+scf_195	unplaced-scaffold	na	na	WNMI01000145.1	<>	na	Primary Assembly	8528	na
+scf_196	unplaced-scaffold	na	na	WNMI01000146.1	<>	na	Primary Assembly	8426	na
+scf_197	unplaced-scaffold	na	na	WNMI01000147.1	<>	na	Primary Assembly	8143	na
+scf_198	unplaced-scaffold	na	na	WNMI01000148.1	<>	na	Primary Assembly	7975	na
+scf_199	unplaced-scaffold	na	na	WNMI01000149.1	<>	na	Primary Assembly	7874	na
+scf_200	unplaced-scaffold	na	na	WNMI01000150.1	<>	na	Primary Assembly	7870	na
+scf_201	unplaced-scaffold	na	na	WNMI01000151.1	<>	na	Primary Assembly	7865	na
+scf_202	unplaced-scaffold	na	na	WNMI01000152.1	<>	na	Primary Assembly	7639	na
+scf_203	unplaced-scaffold	na	na	WNMI01000153.1	<>	na	Primary Assembly	6568	na
+scf_204	unplaced-scaffold	na	na	WNMI01000154.1	<>	na	Primary Assembly	6344	na
+scf_205	unplaced-scaffold	na	na	WNMI01000155.1	<>	na	Primary Assembly	6145	na
+scf_206	unplaced-scaffold	na	na	WNMI01000156.1	<>	na	Primary Assembly	5868	na
+scf_207	unplaced-scaffold	na	na	WNMI01000157.1	<>	na	Primary Assembly	5755	na
+scf_208	unplaced-scaffold	na	na	WNMI01000158.1	<>	na	Primary Assembly	4936	na
+scf_209	unplaced-scaffold	na	na	WNMI01000159.1	<>	na	Primary Assembly	2314	na
+scf_210	unplaced-scaffold	na	na	WNMI01000160.1	<>	na	Primary Assembly	2213	na
+scf_211	unplaced-scaffold	na	na	WNMI01000161.1	<>	na	Primary Assembly	711	na
+scf_212	unplaced-scaffold	na	na	WNMI01000162.1	<>	na	Primary Assembly	5813	na
+scf_213	unplaced-scaffold	na	na	WNMI01000163.1	<>	na	Primary Assembly	396152	na
+scf_214	unplaced-scaffold	na	na	WNMI01000164.1	<>	na	Primary Assembly	415540	na
+scf_215	unplaced-scaffold	na	na	WNMI01000165.1	<>	na	Primary Assembly	286294	na
+scf_216	unplaced-scaffold	na	na	WNMI01000166.1	<>	na	Primary Assembly	266529	na
+scf_217	unplaced-scaffold	na	na	WNMI01000167.1	<>	na	Primary Assembly	250586	na
+scf_218	unplaced-scaffold	na	na	WNMI01000168.1	<>	na	Primary Assembly	220922	na
+scf_219	unplaced-scaffold	na	na	WNMI01000169.1	<>	na	Primary Assembly	207788	na
+scf_220	unplaced-scaffold	na	na	WNMI01000170.1	<>	na	Primary Assembly	204688	na
+scf_221	unplaced-scaffold	na	na	WNMI01000171.1	<>	na	Primary Assembly	203379	na
+scf_222	unplaced-scaffold	na	na	WNMI01000172.1	<>	na	Primary Assembly	194808	na
+scf_223	unplaced-scaffold	na	na	WNMI01000173.1	<>	na	Primary Assembly	178978	na
+scf_224	unplaced-scaffold	na	na	WNMI01000174.1	<>	na	Primary Assembly	177671	na
+scf_225	unplaced-scaffold	na	na	WNMI01000175.1	<>	na	Primary Assembly	171348	na
+scf_226	unplaced-scaffold	na	na	WNMI01000176.1	<>	na	Primary Assembly	166135	na
+scf_227	unplaced-scaffold	na	na	WNMI01000177.1	<>	na	Primary Assembly	160980	na
+scf_228	unplaced-scaffold	na	na	WNMI01000178.1	<>	na	Primary Assembly	158417	na
+scf_229	unplaced-scaffold	na	na	WNMI01000179.1	<>	na	Primary Assembly	120304	na
+scf_230	unplaced-scaffold	na	na	WNMI01000180.1	<>	na	Primary Assembly	115035	na
+bCygOlo1_MT	assembled-molecule	MT	Mitochondrion	CM020139.1	<>	na	non-nuclear	16733	na

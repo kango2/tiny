@@ -1,0 +1,72 @@
+# Assembly name:  ASM1340703v1
+# Organism name:  Corvus monedula (jackdaw)
+# Isolate:  S_Up_J01
+# Sex:  male
+# Taxid:          30423
+# BioSample:      SAMN14646012
+# BioProject:     PRJNA626609
+# Submitter:      Univerisity of Munich
+# Date:           2020-07-13
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    JABDSK01
+# Assembly method: FALCON-Unzip v. 0.4.0
+# Expected final version: yes
+# Genome coverage: 64.0x
+# Sequencing technology: PacBio; Hi-C
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_013407035.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_013407105.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+chr1	assembled-molecule	1	Chromosome	CM023912.1	<>	na	Primary Assembly	117486409	na
+chr2	assembled-molecule	2	Chromosome	CM023913.1	<>	na	Primary Assembly	154487646	na
+chr3	assembled-molecule	3	Chromosome	CM023914.1	<>	na	Primary Assembly	110910713	na
+chr4	assembled-molecule	4	Chromosome	CM023915.1	<>	na	Primary Assembly	73157438	na
+chr5	assembled-molecule	5	Chromosome	CM023916.1	<>	na	Primary Assembly	64157287	na
+chr6	assembled-molecule	6	Chromosome	CM023917.1	<>	na	Primary Assembly	36532927	na
+chr7	assembled-molecule	7	Chromosome	CM023918.1	<>	na	Primary Assembly	38277055	na
+chr8	assembled-molecule	8	Chromosome	CM023919.1	<>	na	Primary Assembly	32060782	na
+chr9	assembled-molecule	9	Chromosome	CM023920.1	<>	na	Primary Assembly	26026359	na
+chr10	assembled-molecule	10	Chromosome	CM023921.1	<>	na	Primary Assembly	20701202	na
+chr11	assembled-molecule	11	Chromosome	CM023922.1	<>	na	Primary Assembly	20977607	na
+chr12	assembled-molecule	12	Chromosome	CM023923.1	<>	na	Primary Assembly	21032122	na
+chr13	assembled-molecule	13	Chromosome	CM023924.1	<>	na	Primary Assembly	19121564	na
+chr14	assembled-molecule	14	Chromosome	CM023925.1	<>	na	Primary Assembly	16609512	na
+chr15	assembled-molecule	15	Chromosome	CM023926.1	<>	na	Primary Assembly	11237182	na
+chr17	assembled-molecule	17	Chromosome	CM023927.1	<>	na	Primary Assembly	11032243	na
+chr18	assembled-molecule	18	Chromosome	CM023928.1	<>	na	Primary Assembly	11176533	na
+chr19	assembled-molecule	19	Chromosome	CM023929.1	<>	na	Primary Assembly	11217504	na
+chr20	assembled-molecule	20	Chromosome	CM023930.1	<>	na	Primary Assembly	14997001	na
+chr21	assembled-molecule	21	Chromosome	CM023931.1	<>	na	Primary Assembly	6847630	na
+chr22	assembled-molecule	22	Chromosome	CM023932.1	<>	na	Primary Assembly	4839898	na
+chr23	assembled-molecule	23	Chromosome	CM023933.1	<>	na	Primary Assembly	8585400	na
+chr24	assembled-molecule	24	Chromosome	CM023934.1	<>	na	Primary Assembly	6907201	na
+chr26	assembled-molecule	26	Chromosome	CM023935.1	<>	na	Primary Assembly	6615938	na
+chr27	assembled-molecule	27	Chromosome	CM023936.1	<>	na	Primary Assembly	4573168	na
+chr28	assembled-molecule	28	Chromosome	CM023937.1	<>	na	Primary Assembly	5735232	na
+chrZ	assembled-molecule	Z	Chromosome	CM023938.1	<>	na	Primary Assembly	79982351	na
+chr1A	assembled-molecule	1A	Chromosome	CM023939.1	<>	na	Primary Assembly	73777161	na
+chr4A	assembled-molecule	4A	Chromosome	CM023940.1	<>	na	Primary Assembly	20605299	na
+Super-Scaffold_164__JD_UN1	unplaced-scaffold	na	na	JABDSK010000034.1	<>	na	Primary Assembly	1223753	na
+Super-Scaffold_166__JD_UN2	unplaced-scaffold	na	na	JABDSK010000035.1	<>	na	Primary Assembly	1219119	na
+Super-Scaffold_190__JD_UN3	unplaced-scaffold	na	na	JABDSK010000036.1	<>	na	Primary Assembly	969433	na
+Super-Scaffold_197__JD_UN4	unplaced-scaffold	na	na	JABDSK010000037.1	<>	na	Primary Assembly	415042	na
+Super-Scaffold_206__JD_UN5	unplaced-scaffold	na	na	JABDSK010000038.1	<>	na	Primary Assembly	293431	na
+Super-Scaffold_234__JD_UN6	unplaced-scaffold	na	na	JABDSK010000039.1	<>	na	Primary Assembly	163908	na
+Super-Scaffold_235__JD_UN7	unplaced-scaffold	na	na	JABDSK010000040.1	<>	na	Primary Assembly	160520	na
+Super-Scaffold_242__JD_UN8	unplaced-scaffold	na	na	JABDSK010000041.1	<>	na	Primary Assembly	140903	na
+chrUN_1	unplaced-scaffold	na	na	JABDSK010000029.1	<>	na	Primary Assembly	230507	na
+chrUN_12	unplaced-scaffold	na	na	JABDSK010000030.1	<>	na	Primary Assembly	323619	na
+chrUN_17	unplaced-scaffold	na	na	JABDSK010000031.1	<>	na	Primary Assembly	117139	na
+chrUN_7	unplaced-scaffold	na	na	JABDSK010000032.1	<>	na	Primary Assembly	938217	na

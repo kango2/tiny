@@ -1,0 +1,65 @@
+# Assembly name:  rLacAgi1.pri
+# Organism name:  Lacerta agilis (lizards)
+# Isolate:  rLacAgi1
+# Sex:  female
+# Taxid:          80427
+# BioSample:      SAMN12629509
+# BioProject:     PRJNA562018
+# Submitter:      Vertebrate Genomes Project
+# Date:           2019-12-31
+# Assembly type:  haploid (principal pseudohaplotype of diploid)
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    WNMS01
+# Assembly method: FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; freebayes Illumina polishing
+# Expected final version: no
+# Genome coverage: 63.42x
+# Sequencing technology: PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_009819535.1
+# RefSeq assembly accession: GCF_009819535.1
+# RefSeq assembly and GenBank assemblies identical: no
+# Linked assembly: GCA_009819545.1 (alternate pseudohaplotype of diploid)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_009819565.1	GCF_009819565.1	Primary Assembly
+## GCA_009819575.1	GCF_011650465.1	non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Super_scaffold_1	assembled-molecule	1	Chromosome	CM020416.1	=	NC_046312.1	Primary Assembly	133750839	na
+Super_scaffold_3	assembled-molecule	2	Chromosome	CM020417.1	=	NC_046313.1	Primary Assembly	120754861	na
+Super_scaffold_2	assembled-molecule	3	Chromosome	CM020418.1	=	NC_046314.1	Primary Assembly	118060892	na
+Super_scaffold_4	assembled-molecule	4	Chromosome	CM020419.1	=	NC_046315.1	Primary Assembly	100704004	na
+Super_scaffold_5	assembled-molecule	5	Chromosome	CM020420.1	=	NC_046316.1	Primary Assembly	95883647	na
+Super_scaffold_6	assembled-molecule	6	Chromosome	CM020421.1	=	NC_046317.1	Primary Assembly	95499011	na
+Super_scaffold_7	assembled-molecule	7	Chromosome	CM020422.1	=	NC_046318.1	Primary Assembly	86565987	na
+Super_scaffold_8	assembled-molecule	8	Chromosome	CM020423.1	=	NC_046319.1	Primary Assembly	84102018	na
+Super_scaffold_10	assembled-molecule	9	Chromosome	CM020424.1	=	NC_046320.1	Primary Assembly	74758939	na
+Super_scaffold_9	assembled-molecule	10	Chromosome	CM020425.1	=	NC_046321.1	Primary Assembly	70688303	na
+Super_scaffold_18	assembled-molecule	11	Chromosome	CM020426.1	=	NC_046322.1	Primary Assembly	61599656	na
+Super_scaffold_13	assembled-molecule	12	Chromosome	CM020427.1	=	NC_046323.1	Primary Assembly	56660093	na
+Super_scaffold_12	assembled-molecule	13	Chromosome	CM020428.1	=	NC_046324.1	Primary Assembly	52485139	na
+Super_scaffold_11	assembled-molecule	14	Chromosome	CM020429.1	=	NC_046325.1	Primary Assembly	51720411	na
+Super_scaffold_15	assembled-molecule	15	Chromosome	CM020430.1	=	NC_046326.1	Primary Assembly	43910048	na
+Super_scaffold_16	assembled-molecule	16	Chromosome	CM020431.1	=	NC_046327.1	Primary Assembly	40449263	na
+Super_scaffold_17	assembled-molecule	17	Chromosome	CM020432.1	=	NC_046328.1	Primary Assembly	40056199	na
+Super_scaffold_19	assembled-molecule	18	Chromosome	CM020433.1	=	NC_046329.1	Primary Assembly	12095641	na
+Super_scaffold_20	assembled-molecule	W	Chromosome	CM020435.1	=	NC_046330.1	Primary Assembly	3982059	na
+Super_scaffold_14	assembled-molecule	Z	Chromosome	CM020434.1	=	NC_046331.1	Primary Assembly	47440541	na
+scaffold_113_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000021.1	=	NW_022681495.1	Primary Assembly	27305	na
+scaffold_115_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000022.1	=	NW_022681496.1	Primary Assembly	25995	na
+scaffold_116_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000023.1	=	NW_022681497.1	Primary Assembly	25823	na
+scaffold_122_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000024.1	=	NW_022681498.1	Primary Assembly	21631	na
+scaffold_124_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000025.1	=	NW_022681499.1	Primary Assembly	20977	na
+scaffold_125_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000026.1	=	NW_022681500.1	Primary Assembly	19037	na
+scaffold_127_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000027.1	=	NW_022681501.1	Primary Assembly	7832	na
+scaffold_60_arrow_ctg1	unplaced-scaffold	na	na	WNMS01000028.1	=	NW_022681502.1	Primary Assembly	70928	na
+MT	assembled-molecule	MT	Mitochondrion	na	<>	NC_021766.1	non-nuclear	17090	na
+rLacAgi1_MT	assembled-molecule	MT	Mitochondrion	CM020436.1	<>	na	non-nuclear	19093	na
