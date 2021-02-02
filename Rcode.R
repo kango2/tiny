@@ -2,13 +2,13 @@ library(tidyverse)
 library(plotly)
 library(ggplotlyExtra)
 
-speciesinfo <- read_delim("metadata/species.txt", delim = "\t")
+speciesinfo <- read_delim("../metadata/species.txt", delim = "\t")
 speciesinfo <- speciesinfo %>% mutate(lareport = str_match(assemblyreport, "\\S.*\\/(\\S+$)")[,2])
 
 ##process assembly report files
 tlist <- list()
 for (i in 1:nrow(speciesinfo)) {
-  asminfo <- read_delim(paste("metadata/", speciesinfo[i,"lareport"], sep = ""), delim="\t", comment = "#", col_names = F)
+  asminfo <- read_delim(paste("../metadata/", speciesinfo[i,"lareport"], sep = ""), delim="\t", comment = "#", col_names = F)
   colnames(asminfo) <- c("seqname",	"seqrole", "assignedmol", "assignedlocationtype", "genbankacc", "relation", "refseqacc", "asmunit", "seqlength", "ucscname")
   asminfo <- 
     filter(asminfo, seqrole == "assembled-molecule" & assignedlocationtype != "Mitochondrion") %>% 
@@ -23,17 +23,6 @@ for (i in 1:nrow(speciesinfo)) {
 }
 asminfo <- bind_rows(tlist)
 asminfo <- mutate(asminfo, chrname = case_when(assignedlocationtype == "Chromosome" ~ paste("chr",assignedmol, sep = ""), assignedlocationtype == "Linkage Group" ~ assignedmol))
-
-#> files
-#[1] "GCF_000002315.6_GRCg6a.vs.GCA_000241765.4_Chrysemys_picta_BioNano-3.0.4.chainpairs.tab" "GCF_000002315.6_GRCg6a.vs.GCA_002798355.1_Ogye1.0.chainpairs.tab"          
-#[3] "GCF_000002315.6_GRCg6a.vs.GCA_003400415.2_UTA_CroVir_3.0.chainpairs.tab"                "GCF_000002315.6_GRCg6a.vs.GCA_009733165.1_Nana_v5.chainpairs.tab"          
-#[5] "GCF_000002315.6_GRCg6a.vs.GCA_009764565.2_rDerCor1.pri.v2.chainpairs.tab"               "GCF_000002315.6_GRCg6a.vs.GCA_009769625.1_bCygOlo1.pri.chainpairs.tab"     
-#[7] "GCF_000002315.6_GRCg6a.vs.GCA_013407035.1_ASM1340703v1.chainpairs.tab"                  "GCF_000002315.6_GRCg6a.vs.GCA_014706415.1_LU_Pmuni_1.1.chainpairs.tab"     
-#[9] "GCF_000002315.6_GRCg6a.vs.GCA_015237465.1_rCheMyd1.pri.chainpairs.tab"                  "GCF_000002315.6_GRCg6a.vs.GCF_000002315.6_GRCg6a.chainpairs.tab"           
-#[11] "GCF_000002315.6_GRCg6a.vs.GCF_000090745.1_AnoCar2.0.chainpairs.tab"                     "GCF_000002315.6_GRCg6a.vs.GCF_004115215.1_mOrnAna1.p.v1.chainpairs.tab"   
-#[13] "GCF_000002315.6_GRCg6a.vs.GCF_004329235.1_PodMur_1.0.chainpairs.tab"                    "GCF_000002315.6_GRCg6a.vs.GCF_007399415.2_rGopEvg1_v1.p.chainpairs.tab"   
-#[15] "GCF_000002315.6_GRCg6a.vs.GCF_009769535.1_rThaEle1.pri.chainpairs.tab"                  "GCF_000002315.6_GRCg6a.vs.GCF_009819535.1_rLacAgi1.pri.chainpairs.tab"        
-#[17] "GCF_000002315.6_GRCg6a.vs.GCF_011800845.1_UG_Zviv_1.chainpairs.tab"                     "GCF_000002315.6_GRCg6a.vs.GCF_013100865.1_CAS_Tse_1.0.chainpairs.tab"    
 
 setwd("data/")
 files <- c(list.files(".", "*.chainpairs.target.tab"), list.files(".", "*.chainpairs.query.tab"))
