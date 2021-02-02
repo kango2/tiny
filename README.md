@@ -1,3 +1,6 @@
+
+## alignments are complete now
+
 # Micro-chromosome conservation in vertebrates
 
 ## Perform whole genome alignments between species
