@@ -1,0 +1,170 @@
+# Assembly name:  bAquChr1.3
+# Organism name:  Aquila chrysaetos chrysaetos (golden eagle)
+# Taxid:          223781
+# BioSample:      SAMEA994725
+# BioProject:     PRJEB27699
+# Submitter:      SC
+# Date:           2020-07-31
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    UFQG03
+# Genome coverage: 60x
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_900496995.3
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_900496994.3		Primary Assembly
+## GCA_900496996.1		non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+scaffold_2_ctg1	assembled-molecule	1	Chromosome	LR606181.1	<>	na	Primary Assembly	85456622	na
+Super_Scaffold_1	assembled-molecule	2	Chromosome	LR606182.1	<>	na	Primary Assembly	83001952	na
+Super_Scaffold_3	assembled-molecule	3	Chromosome	LR606183.1	<>	na	Primary Assembly	79382107	na
+scaffold_4_ctg1	assembled-molecule	4	Chromosome	LR606184.1	<>	na	Primary Assembly	77266225	na
+scaffold_5_ctg1	assembled-molecule	5	Chromosome	LR606185.1	<>	na	Primary Assembly	76621501	na
+Super_Scaffold_6	assembled-molecule	6	Chromosome	LR606186.1	<>	na	Primary Assembly	54402963	na
+scaffold_7_ctg1	assembled-molecule	7	Chromosome	LR606187.1	<>	na	Primary Assembly	47779391	na
+scaffold_8_ctg1	assembled-molecule	8	Chromosome	LR606188.1	<>	na	Primary Assembly	46934974	na
+scaffold_9_ctg1	assembled-molecule	9	Chromosome	LR606189.1	<>	na	Primary Assembly	45241448	na
+scaffold_11_ctg1	assembled-molecule	10	Chromosome	LR606190.1	<>	na	Primary Assembly	43949808	na
+scaffold_12_ctg1	assembled-molecule	11	Chromosome	LR606191.1	<>	na	Primary Assembly	43755789	na
+scaffold_13_ctg1	assembled-molecule	12	Chromosome	LR606192.1	<>	na	Primary Assembly	43481500	na
+scaffold_14_ctg1	assembled-molecule	13	Chromosome	LR606193.1	<>	na	Primary Assembly	41790845	na
+scaffold_15_ctg1	assembled-molecule	14	Chromosome	LR606194.1	<>	na	Primary Assembly	34337559	na
+Super_Scaffold_4	assembled-molecule	15	Chromosome	LR606195.1	<>	na	Primary Assembly	30976502	na
+Super_Scaffold_5	assembled-molecule	16	Chromosome	LR606196.1	<>	na	Primary Assembly	30610376	na
+scaffold_16_ctg1	assembled-molecule	17	Chromosome	LR606197.1	<>	na	Primary Assembly	29699254	na
+scaffold_17_ctg1	assembled-molecule	18	Chromosome	LR606198.1	<>	na	Primary Assembly	28555659	na
+scaffold_1_ctg1	assembled-molecule	19	Chromosome	LR606199.1	<>	na	Primary Assembly	27976474	na
+scaffold_20_ctg1	assembled-molecule	20	Chromosome	LR606200.1	<>	na	Primary Assembly	25309643	na
+scaffold_21_ctg1	assembled-molecule	21	Chromosome	LR606201.1	<>	na	Primary Assembly	24756580	na
+scaffold_22_ctg1	assembled-molecule	22	Chromosome	LR606202.1	<>	na	Primary Assembly	22514005	na
+scaffold_24_ctg1	assembled-molecule	23	Chromosome	LR606203.1	<>	na	Primary Assembly	21012167	na
+Super_Scaffold_2	assembled-molecule	24	Chromosome	LR606204.1	<>	na	Primary Assembly	20993271	na
+scaffold_25_ctg1	assembled-molecule	25	Chromosome	LR606205.1	<>	na	Primary Assembly	19844373	na
+scaffold_27_ctg1	assembled-molecule	26	Chromosome	LR606206.1	<>	na	Primary Assembly	17717355	na
+Super_Scaffold_7	assembled-molecule	Z	Chromosome	LR606180.1	<>	na	Primary Assembly	88216475	na
+contig1	unplaced-scaffold	na	na	UFQG03000001.1	<>	na	Primary Assembly	31655	na
+contig2	unplaced-scaffold	na	na	UFQG03000002.1	<>	na	Primary Assembly	31324	na
+contig3	unplaced-scaffold	na	na	UFQG03000003.1	<>	na	Primary Assembly	30885	na
+contig4	unplaced-scaffold	na	na	UFQG03000004.1	<>	na	Primary Assembly	30397	na
+contig5	unplaced-scaffold	na	na	UFQG03000005.1	<>	na	Primary Assembly	28447	na
+contig6	unplaced-scaffold	na	na	UFQG03000006.1	<>	na	Primary Assembly	27694	na
+contig7	unplaced-scaffold	na	na	UFQG03000007.1	<>	na	Primary Assembly	27470	na
+contig8	unplaced-scaffold	na	na	UFQG03000008.1	<>	na	Primary Assembly	27199	na
+contig9	unplaced-scaffold	na	na	UFQG03000009.1	<>	na	Primary Assembly	26604	na
+contig10	unplaced-scaffold	na	na	UFQG03000010.1	<>	na	Primary Assembly	26023	na
+contig11	unplaced-scaffold	na	na	UFQG03000011.1	<>	na	Primary Assembly	25657	na
+contig12	unplaced-scaffold	na	na	UFQG03000012.1	<>	na	Primary Assembly	25587	na
+contig13	unplaced-scaffold	na	na	UFQG03000013.1	<>	na	Primary Assembly	25309	na
+contig14	unplaced-scaffold	na	na	UFQG03000014.1	<>	na	Primary Assembly	24476	na
+contig15	unplaced-scaffold	na	na	UFQG03000015.1	<>	na	Primary Assembly	24466	na
+contig16	unplaced-scaffold	na	na	UFQG03000016.1	<>	na	Primary Assembly	24207	na
+contig17	unplaced-scaffold	na	na	UFQG03000017.1	<>	na	Primary Assembly	24175	na
+contig18	unplaced-scaffold	na	na	UFQG03000018.1	<>	na	Primary Assembly	24026	na
+contig19	unplaced-scaffold	na	na	UFQG03000019.1	<>	na	Primary Assembly	23915	na
+contig20	unplaced-scaffold	na	na	UFQG03000020.1	<>	na	Primary Assembly	23847	na
+contig21	unplaced-scaffold	na	na	UFQG03000021.1	<>	na	Primary Assembly	23261	na
+contig22	unplaced-scaffold	na	na	UFQG03000022.1	<>	na	Primary Assembly	22873	na
+contig23	unplaced-scaffold	na	na	UFQG03000023.1	<>	na	Primary Assembly	20727	na
+contig24	unplaced-scaffold	na	na	UFQG03000024.1	<>	na	Primary Assembly	20727	na
+contig25	unplaced-scaffold	na	na	UFQG03000025.1	<>	na	Primary Assembly	20200	na
+contig26	unplaced-scaffold	na	na	UFQG03000026.1	<>	na	Primary Assembly	19528	na
+contig27	unplaced-scaffold	na	na	UFQG03000027.1	<>	na	Primary Assembly	19109	na
+contig28	unplaced-scaffold	na	na	UFQG03000028.1	<>	na	Primary Assembly	18287	na
+contig29	unplaced-scaffold	na	na	UFQG03000029.1	<>	na	Primary Assembly	17725	na
+contig30	unplaced-scaffold	na	na	UFQG03000030.1	<>	na	Primary Assembly	18107	na
+contig31	unplaced-scaffold	na	na	UFQG03000031.1	<>	na	Primary Assembly	17347	na
+contig32	unplaced-scaffold	na	na	UFQG03000032.1	<>	na	Primary Assembly	17025	na
+contig33	unplaced-scaffold	na	na	UFQG03000033.1	<>	na	Primary Assembly	16592	na
+contig34	unplaced-scaffold	na	na	UFQG03000034.1	<>	na	Primary Assembly	16576	na
+contig35	unplaced-scaffold	na	na	UFQG03000035.1	<>	na	Primary Assembly	15685	na
+contig36	unplaced-scaffold	na	na	UFQG03000036.1	<>	na	Primary Assembly	15603	na
+contig37	unplaced-scaffold	na	na	UFQG03000037.1	<>	na	Primary Assembly	14736	na
+contig38	unplaced-scaffold	na	na	UFQG03000038.1	<>	na	Primary Assembly	14543	na
+contig39	unplaced-scaffold	na	na	UFQG03000039.1	<>	na	Primary Assembly	14312	na
+contig40	unplaced-scaffold	na	na	UFQG03000040.1	<>	na	Primary Assembly	13980	na
+contig41	unplaced-scaffold	na	na	UFQG03000041.1	<>	na	Primary Assembly	13873	na
+contig42	unplaced-scaffold	na	na	UFQG03000042.1	<>	na	Primary Assembly	13653	na
+contig43	unplaced-scaffold	na	na	UFQG03000043.1	<>	na	Primary Assembly	13557	na
+contig44	unplaced-scaffold	na	na	UFQG03000044.1	<>	na	Primary Assembly	13279	na
+contig45	unplaced-scaffold	na	na	UFQG03000045.1	<>	na	Primary Assembly	12501	na
+contig46	unplaced-scaffold	na	na	UFQG03000046.1	<>	na	Primary Assembly	11975	na
+contig47	unplaced-scaffold	na	na	UFQG03000047.1	<>	na	Primary Assembly	8683	na
+contig48	unplaced-scaffold	na	na	UFQG03000048.1	<>	na	Primary Assembly	7019	na
+contig49	unplaced-scaffold	na	na	UFQG03000049.1	<>	na	Primary Assembly	4298	na
+contig50	unplaced-scaffold	na	na	UFQG03000050.1	<>	na	Primary Assembly	1203	na
+contig51	unplaced-scaffold	na	na	UFQG03000051.1	<>	na	Primary Assembly	60	na
+contig52	unplaced-scaffold	na	na	UFQG03000052.1	<>	na	Primary Assembly	60	na
+contig53	unplaced-scaffold	na	na	UFQG03000053.1	<>	na	Primary Assembly	60	na
+contig54	unplaced-scaffold	na	na	UFQG03000054.1	<>	na	Primary Assembly	83858	na
+contig55	unplaced-scaffold	na	na	UFQG03000055.1	<>	na	Primary Assembly	1231163	na
+contig56	unplaced-scaffold	na	na	UFQG03000056.1	<>	na	Primary Assembly	937100	na
+contig57	unplaced-scaffold	na	na	UFQG03000057.1	<>	na	Primary Assembly	894992	na
+contig58	unplaced-scaffold	na	na	UFQG03000058.1	<>	na	Primary Assembly	812246	na
+contig59	unplaced-scaffold	na	na	UFQG03000059.1	<>	na	Primary Assembly	494854	na
+contig60	unplaced-scaffold	na	na	UFQG03000060.1	<>	na	Primary Assembly	459769	na
+contig61	unplaced-scaffold	na	na	UFQG03000061.1	<>	na	Primary Assembly	367739	na
+contig62	unplaced-scaffold	na	na	UFQG03000062.1	<>	na	Primary Assembly	345514	na
+contig63	unplaced-scaffold	na	na	UFQG03000063.1	<>	na	Primary Assembly	261802	na
+contig64	unplaced-scaffold	na	na	UFQG03000064.1	<>	na	Primary Assembly	257684	na
+contig65	unplaced-scaffold	na	na	UFQG03000065.1	<>	na	Primary Assembly	253840	na
+contig66	unplaced-scaffold	na	na	UFQG03000066.1	<>	na	Primary Assembly	246161	na
+contig67	unplaced-scaffold	na	na	UFQG03000067.1	<>	na	Primary Assembly	228822	na
+contig68	unplaced-scaffold	na	na	UFQG03000068.1	<>	na	Primary Assembly	207482	na
+contig69	unplaced-scaffold	na	na	UFQG03000069.1	<>	na	Primary Assembly	191605	na
+contig70	unplaced-scaffold	na	na	UFQG03000070.1	<>	na	Primary Assembly	186009	na
+contig71	unplaced-scaffold	na	na	UFQG03000071.1	<>	na	Primary Assembly	181667	na
+contig72	unplaced-scaffold	na	na	UFQG03000072.1	<>	na	Primary Assembly	176708	na
+contig73	unplaced-scaffold	na	na	UFQG03000073.1	<>	na	Primary Assembly	167981	na
+contig74	unplaced-scaffold	na	na	UFQG03000074.1	<>	na	Primary Assembly	147833	na
+contig75	unplaced-scaffold	na	na	UFQG03000075.1	<>	na	Primary Assembly	145414	na
+contig76	unplaced-scaffold	na	na	UFQG03000076.1	<>	na	Primary Assembly	144070	na
+contig77	unplaced-scaffold	na	na	UFQG03000077.1	<>	na	Primary Assembly	132443	na
+contig78	unplaced-scaffold	na	na	UFQG03000078.1	<>	na	Primary Assembly	111885	na
+contig79	unplaced-scaffold	na	na	UFQG03000079.1	<>	na	Primary Assembly	109468	na
+contig80	unplaced-scaffold	na	na	UFQG03000080.1	<>	na	Primary Assembly	108955	na
+contig81	unplaced-scaffold	na	na	UFQG03000081.1	<>	na	Primary Assembly	98209	na
+contig82	unplaced-scaffold	na	na	UFQG03000082.1	<>	na	Primary Assembly	94598	na
+contig83	unplaced-scaffold	na	na	UFQG03000083.1	<>	na	Primary Assembly	83011	na
+contig84	unplaced-scaffold	na	na	UFQG03000084.1	<>	na	Primary Assembly	80853	na
+contig85	unplaced-scaffold	na	na	UFQG03000085.1	<>	na	Primary Assembly	79413	na
+contig86	unplaced-scaffold	na	na	UFQG03000086.1	<>	na	Primary Assembly	76660	na
+contig87	unplaced-scaffold	na	na	UFQG03000087.1	<>	na	Primary Assembly	75507	na
+contig88	unplaced-scaffold	na	na	UFQG03000088.1	<>	na	Primary Assembly	73854	na
+contig89	unplaced-scaffold	na	na	UFQG03000089.1	<>	na	Primary Assembly	67356	na
+contig90	unplaced-scaffold	na	na	UFQG03000090.1	<>	na	Primary Assembly	67337	na
+contig91	unplaced-scaffold	na	na	UFQG03000091.1	<>	na	Primary Assembly	67073	na
+contig92	unplaced-scaffold	na	na	UFQG03000092.1	<>	na	Primary Assembly	65656	na
+contig93	unplaced-scaffold	na	na	UFQG03000093.1	<>	na	Primary Assembly	62359	na
+contig94	unplaced-scaffold	na	na	UFQG03000094.1	<>	na	Primary Assembly	60640	na
+contig95	unplaced-scaffold	na	na	UFQG03000095.1	<>	na	Primary Assembly	59655	na
+contig96	unplaced-scaffold	na	na	UFQG03000096.1	<>	na	Primary Assembly	58328	na
+contig97	unplaced-scaffold	na	na	UFQG03000097.1	<>	na	Primary Assembly	56215	na
+contig98	unplaced-scaffold	na	na	UFQG03000098.1	<>	na	Primary Assembly	55537	na
+contig99	unplaced-scaffold	na	na	UFQG03000099.1	<>	na	Primary Assembly	54050	na
+contig100	unplaced-scaffold	na	na	UFQG03000100.1	<>	na	Primary Assembly	50172	na
+contig101	unplaced-scaffold	na	na	UFQG03000101.1	<>	na	Primary Assembly	44971	na
+contig102	unplaced-scaffold	na	na	UFQG03000102.1	<>	na	Primary Assembly	44761	na
+contig103	unplaced-scaffold	na	na	UFQG03000103.1	<>	na	Primary Assembly	43930	na
+contig104	unplaced-scaffold	na	na	UFQG03000104.1	<>	na	Primary Assembly	43551	na
+contig105	unplaced-scaffold	na	na	UFQG03000105.1	<>	na	Primary Assembly	42150	na
+contig106	unplaced-scaffold	na	na	UFQG03000106.1	<>	na	Primary Assembly	41196	na
+contig107	unplaced-scaffold	na	na	UFQG03000107.1	<>	na	Primary Assembly	41063	na
+contig108	unplaced-scaffold	na	na	UFQG03000108.1	<>	na	Primary Assembly	40949	na
+contig109	unplaced-scaffold	na	na	UFQG03000109.1	<>	na	Primary Assembly	41785	na
+contig110	unplaced-scaffold	na	na	UFQG03000110.1	<>	na	Primary Assembly	40068	na
+contig111	unplaced-scaffold	na	na	UFQG03000111.1	<>	na	Primary Assembly	39720	na
+contig112	unplaced-scaffold	na	na	UFQG03000112.1	<>	na	Primary Assembly	37854	na
+contig113	unplaced-scaffold	na	na	UFQG03000113.1	<>	na	Primary Assembly	36123	na
+contig114	unplaced-scaffold	na	na	UFQG03000114.1	<>	na	Primary Assembly	35040	na
+contig115	unplaced-scaffold	na	na	UFQG03000115.1	<>	na	Primary Assembly	32798	na
+scaffold_MT	assembled-molecule	MT	Mitochondrion	LR822062.1	<>	na	non-nuclear	18265	na

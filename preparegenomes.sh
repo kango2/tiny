@@ -9,6 +9,7 @@ while IFS= read -r line
 do
 	[[ "$line" =~ ^#.*$ ]] && continue
 	IFS=$'\t' read -r -a sinfo <<< "$line"
+	[[ ${sinfo[7]} -le 18 ]] && continue
 	mkdir -p $basepath/../genomes/${sinfo[1]}
 	wget --continue -O $basepath/../genomes/${sinfo[1]}/`basename ${sinfo[3]}` ${sinfo[3]}
 	wget --continue -O $basepath/../genomes/${sinfo[1]}/`basename ${sinfo[6]}` ${sinfo[6]}

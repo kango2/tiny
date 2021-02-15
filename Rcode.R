@@ -1,14 +1,15 @@
 library(tidyverse)
 library(plotly)
 library(ggplotlyExtra)
+library(Biostrings)
 
-speciesinfo <- read_delim("../metadata/species.txt", delim = "\t")
+speciesinfo <- read_delim("./metadata/species.txt", delim = "\t")
 speciesinfo <- speciesinfo %>% mutate(lareport = str_match(assemblyreport, "\\S.*\\/(\\S+$)")[,2])
 
 ##process assembly report files
 tlist <- list()
 for (i in 1:nrow(speciesinfo)) {
-  asminfo <- read_delim(paste("../metadata/", speciesinfo[i,"lareport"], sep = ""), delim="\t", comment = "#", col_names = F)
+  asminfo <- read_delim(paste("./metadata/", speciesinfo[i,"lareport"], sep = ""), delim="\t", comment = "#", col_names = F)
   colnames(asminfo) <- c("seqname",	"seqrole", "assignedmol", "assignedlocationtype", "genbankacc", "relation", "refseqacc", "asmunit", "seqlength", "ucscname")
   asminfo <- 
     filter(asminfo, seqrole == "assembled-molecule" & assignedlocationtype != "Mitochondrion") %>% 
@@ -23,6 +24,8 @@ for (i in 1:nrow(speciesinfo)) {
 }
 asminfo <- bind_rows(tlist)
 asminfo <- mutate(asminfo, chrname = case_when(assignedlocationtype == "Chromosome" ~ paste("chr",assignedmol, sep = ""), assignedlocationtype == "Linkage Group" ~ assignedmol))
+
+
 
 setwd("data/")
 files <- c(list.files(".", "*.chainpairs.target.tab"), list.files(".", "*.chainpairs.query.tab"))

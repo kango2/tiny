@@ -26,10 +26,11 @@ do
 	for j in "${!targetcapsules[@]}"
 	do
 		[[ $j -le $i ]] && continue
-		#echo ${splitsdir[j]}
+		[[ $j -ne 18 ]] && continue
 		alnoutput="${splitsdir[j]}/../aln/vs${speciescodes[i]}"
-		alnoutput=$(realpath $alnoutput)
 		mkdir -p $alnoutput
+		alnoutput=$(realpath $alnoutput)
+#		echo $alnoutput
 		for s in ${splitsdir[j]}/*.fa
 		do
 			outputpath=$alnoutput/`basename $s .fa`.vs.${speciescodes[i]}

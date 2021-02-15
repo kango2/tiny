@@ -38,6 +38,7 @@ do
 	for j in "${!targetcapsules[@]}"
 	do
 		[[ $j -le $i ]] && continue
+    [[ $j -ne 15 ]] && continue
 		alnoutput=$(realpath "${splitsdir[j]}/../aln/vs${speciescodes[i]}")
 		pairbase=$alndir/${speciescodes[j]}.vs.${speciescodes[i]}
 		mergedout=$pairbase.axt
