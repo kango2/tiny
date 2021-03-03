@@ -75,5 +75,6 @@ b %>% select(1:7, tcode, qcode) %>%
   group_by(tcode, qcode, tacc) %>% 
   add_tally() %>% 
   dplyr::arrange(tstart, .by_group = TRUE) %>%
+  mutate(nt = lead(tacc), qt = lead(qacc), id = if_else((nt == tacc & qt == qacc), 1, 0))
   ##check if current [qt]acc is same as next [qt]acc
 
