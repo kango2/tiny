@@ -1,0 +1,151 @@
+seqid	seqlength	chrtype	krank	speciescode	chrname	cname
+ALLMI_HiC_scaffold_1	446151378	macro	1	ALLMI	dzscf1	American alligator
+ALLMI_HiC_scaffold_2	291816272	macro	2	ALLMI	dzscf2	American alligator
+ALLMI_HiC_scaffold_16	286864427	macro	3	ALLMI	dzscf16	American alligator
+ALLMI_HiC_scaffold_3	240791973	macro	4	ALLMI	dzscf3	American alligator
+ALLMI_HiC_scaffold_15	209376224	macro	5	ALLMI	dzscf15	American alligator
+ALLMI_HiC_scaffold_14	95926144	micro	6	ALLMI	dzscf14	American alligator
+ALLMI_HiC_scaffold_6	79122728	micro	7	ALLMI	dzscf6	American alligator
+ALLMI_HiC_scaffold_4	77868838	micro	8	ALLMI	dzscf4	American alligator
+ALLMI_HiC_scaffold_7	73747066	micro	9	ALLMI	dzscf7	American alligator
+ALLMI_HiC_scaffold_5	71713467	micro	10	ALLMI	dzscf5	American alligator
+ALLMI_HiC_scaffold_12	65528272	micro	11	ALLMI	dzscf12	American alligator
+ALLMI_HiC_scaffold_8	56766657	micro	12	ALLMI	dzscf8	American alligator
+ALLMI_HiC_scaffold_13	54226289	micro	13	ALLMI	dzscf13	American alligator
+ALLMI_HiC_scaffold_11	36339844	micro	14	ALLMI	dzscf11	American alligator
+ALLMI_HiC_scaffold_9	27889950	micro	15	ALLMI	dzscf9	American alligator
+ALLMI_HiC_scaffold_10	23283895	micro	16	ALLMI	dzscf10	American alligator
+ALLSI_HiC_scaffold_1	469875877	macro	1	ALLSI	dzscf1	Chinese alligator
+ALLSI_HiC_scaffold_15	307358469	macro	2	ALLSI	dzscf15	Chinese alligator
+ALLSI_HiC_scaffold_16	301483149	macro	3	ALLSI	dzscf16	Chinese alligator
+ALLSI_HiC_scaffold_2	253885816	macro	4	ALLSI	dzscf2	Chinese alligator
+ALLSI_HiC_scaffold_3	219970661	macro	5	ALLSI	dzscf3	Chinese alligator
+ALLSI_HiC_scaffold_14	101397246	micro	6	ALLSI	dzscf14	Chinese alligator
+ALLSI_HiC_scaffold_13	84160991	micro	7	ALLSI	dzscf13	Chinese alligator
+ALLSI_HiC_scaffold_4	83133657	micro	8	ALLSI	dzscf4	Chinese alligator
+ALLSI_HiC_scaffold_6	76998537	micro	9	ALLSI	dzscf6	Chinese alligator
+ALLSI_HiC_scaffold_5	74941487	micro	10	ALLSI	dzscf5	Chinese alligator
+ALLSI_HiC_scaffold_11	67714992	micro	11	ALLSI	dzscf11	Chinese alligator
+ALLSI_HiC_scaffold_12	59623880	micro	12	ALLSI	dzscf12	Chinese alligator
+ALLSI_HiC_scaffold_7	58617855	micro	13	ALLSI	dzscf7	Chinese alligator
+ALLSI_HiC_scaffold_8	37862361	micro	14	ALLSI	dzscf8	Chinese alligator
+ALLSI_HiC_scaffold_10	29438119	micro	15	ALLSI	dzscf10	Chinese alligator
+ALLSI_HiC_scaffold_9	29265094	micro	16	ALLSI	dzscf9	Chinese alligator
+DRONO_HiC_scaffold_33	214659357	macro	1	DRONO	dzscf33	Emu
+DRONO_HiC_scaffold_1	164242004	macro	2	DRONO	dzscf1	Emu
+DRONO_HiC_scaffold_2	127852514	macro	3	DRONO	dzscf2	Emu
+DRONO_HiC_scaffold_32	83679895	macro	4	DRONO	dzscf32	Emu
+DRONO_HiC_scaffold_3	82460724	macro	5	DRONO	dzscf3	Emu
+DRONO_HiC_scaffold_4	71046951	macro	6	DRONO	dzscf4	Emu
+DRONO_HiC_scaffold_6	45086358	macro	7	DRONO	dzscf6	Emu
+DRONO_HiC_scaffold_5	41922228	macro	8	DRONO	dzscf5	Emu
+DRONO_HiC_scaffold_31	37106476	macro	9	DRONO	dzscf31	Emu
+DRONO_HiC_scaffold_7	31258799	micro	10	DRONO	dzscf7	Emu
+DRONO_HiC_scaffold_8	25801502	micro	11	DRONO	dzscf8	Emu
+DRONO_HiC_scaffold_10	25601094	micro	12	DRONO	dzscf10	Emu
+DRONO_HiC_scaffold_9	25287843	micro	13	DRONO	dzscf9	Emu
+DRONO_HiC_scaffold_29	24679445	micro	14	DRONO	dzscf29	Emu
+DRONO_HiC_scaffold_30	22865478	micro	15	DRONO	dzscf30	Emu
+DRONO_HiC_scaffold_14	20727510	micro	16	DRONO	dzscf14	Emu
+DRONO_HiC_scaffold_28	18241439	micro	17	DRONO	dzscf28	Emu
+DRONO_HiC_scaffold_26	17562204	micro	18	DRONO	dzscf26	Emu
+DRONO_HiC_scaffold_25	14364803	micro	19	DRONO	dzscf25	Emu
+DRONO_HiC_scaffold_27	13296474	micro	20	DRONO	dzscf27	Emu
+DRONO_HiC_scaffold_24	13249401	micro	21	DRONO	dzscf24	Emu
+DRONO_HiC_scaffold_11	9663520	micro	22	DRONO	dzscf11	Emu
+DRONO_HiC_scaffold_23	8479663	micro	23	DRONO	dzscf23	Emu
+DRONO_HiC_scaffold_12	8297778	micro	24	DRONO	dzscf12	Emu
+DRONO_HiC_scaffold_22	7430024	micro	25	DRONO	dzscf22	Emu
+DRONO_HiC_scaffold_17	6134115	micro	26	DRONO	dzscf17	Emu
+DRONO_HiC_scaffold_15	6066571	micro	27	DRONO	dzscf15	Emu
+DRONO_HiC_scaffold_13	5805633	micro	28	DRONO	dzscf13	Emu
+DRONO_HiC_scaffold_18	3111746	micro	29	DRONO	dzscf18	Emu
+DRONO_HiC_scaffold_21	2652061	micro	30	DRONO	dzscf21	Emu
+DRONO_HiC_scaffold_1852	1933103	micro	31	DRONO	dzscf1852	Emu
+DRONO_HiC_scaffold_20	885575	micro	32	DRONO	dzscf20	Emu
+DRONO_HiC_scaffold_16	766861	micro	33	DRONO	dzscf16	Emu
+DRONO_HiC_scaffold_35	604634	micro	34	DRONO	dzscf35	Emu
+DRONO_HiC_scaffold_36	426872	micro	35	DRONO	dzscf36	Emu
+DRONO_HiC_scaffold_19	355229	micro	36	DRONO	dzscf19	Emu
+DRONO_HiC_scaffold_1848	313285	micro	37	DRONO	dzscf1848	Emu
+DRONO_HiC_scaffold_37	203398	micro	38	DRONO	dzscf37	Emu
+DRONO_HiC_scaffold_34	193082	micro	39	DRONO	dzscf34	Emu
+DRONO_HiC_scaffold_40	145150	micro	40	DRONO	dzscf40	Emu
+GYMCA_HiC_scaffold_1	219006665	macro	1	GYMCA	dzscf1	California condor
+GYMCA_HiC_scaffold_2	168214289	macro	2	GYMCA	dzscf2	California condor
+GYMCA_HiC_scaffold_3	128157954	macro	3	GYMCA	dzscf3	California condor
+GYMCA_HiC_scaffold_4	85534282	macro	4	GYMCA	dzscf4	California condor
+GYMCA_HiC_scaffold_5	85346818	macro	5	GYMCA	dzscf5	California condor
+GYMCA_HiC_scaffold_6	72274610	macro	6	GYMCA	dzscf6	California condor
+GYMCA_HiC_scaffold_7	45031024	macro	7	GYMCA	dzscf7	California condor
+GYMCA_HiC_scaffold_8	41967909	macro	8	GYMCA	dzscf8	California condor
+GYMCA_HiC_scaffold_9	37084468	macro	9	GYMCA	dzscf9	California condor
+GYMCA_HiC_scaffold_10	30177210	micro	10	GYMCA	dzscf10	California condor
+GYMCA_HiC_scaffold_11	25103790	micro	11	GYMCA	dzscf11	California condor
+GYMCA_HiC_scaffold_12	24950057	micro	12	GYMCA	dzscf12	California condor
+GYMCA_HiC_scaffold_13	24679327	micro	13	GYMCA	dzscf13	California condor
+GYMCA_HiC_scaffold_14	23808727	micro	14	GYMCA	dzscf14	California condor
+GYMCA_HiC_scaffold_15	22119428	micro	15	GYMCA	dzscf15	California condor
+GYMCA_HiC_scaffold_16	19636776	micro	16	GYMCA	dzscf16	California condor
+GYMCA_HiC_scaffold_17	17757371	micro	17	GYMCA	dzscf17	California condor
+GYMCA_HiC_scaffold_18	17146250	micro	18	GYMCA	dzscf18	California condor
+GYMCA_HiC_scaffold_19	14292917	micro	19	GYMCA	dzscf19	California condor
+GYMCA_HiC_scaffold_20	13139568	micro	20	GYMCA	dzscf20	California condor
+GYMCA_HiC_scaffold_21	13056196	micro	21	GYMCA	dzscf21	California condor
+GYMCA_HiC_scaffold_22	9638944	micro	22	GYMCA	dzscf22	California condor
+GYMCA_HiC_scaffold_23	8298522	micro	23	GYMCA	dzscf23	California condor
+GYMCA_HiC_scaffold_24	7973488	micro	24	GYMCA	dzscf24	California condor
+GYMCA_HiC_scaffold_25	7839570	micro	25	GYMCA	dzscf25	California condor
+GYMCA_HiC_scaffold_26	7639930	micro	26	GYMCA	dzscf26	California condor
+GYMCA_HiC_scaffold_27	6129311	micro	27	GYMCA	dzscf27	California condor
+GYMCA_HiC_scaffold_28	5869166	micro	28	GYMCA	dzscf28	California condor
+GYMCA_HiC_scaffold_29	3191501	micro	29	GYMCA	dzscf29	California condor
+GYMCA_HiC_scaffold_30	2937316	micro	30	GYMCA	dzscf30	California condor
+GYMCA_HiC_scaffold_31	2103509	micro	31	GYMCA	dzscf31	California condor
+GYMCA_HiC_scaffold_32	1971263	micro	32	GYMCA	dzscf32	California condor
+GYMCA_HiC_scaffold_33	1628504	micro	33	GYMCA	dzscf33	California condor
+GYMCA_HiC_scaffold_34	1587956	micro	34	GYMCA	dzscf34	California condor
+GYMCA_HiC_scaffold_35	1112426	micro	35	GYMCA	dzscf35	California condor
+GYMCA_HiC_scaffold_36	970910	micro	36	GYMCA	dzscf36	California condor
+GYMCA_HiC_scaffold_37	763139	micro	37	GYMCA	dzscf37	California condor
+GYMCA_HiC_scaffold_38	741914	micro	38	GYMCA	dzscf38	California condor
+GYMCA_HiC_scaffold_39	648749	micro	39	GYMCA	dzscf39	California condor
+GYMCA_HiC_scaffold_40	644554	micro	40	GYMCA	dzscf40	California condor
+GYMCA_HiC_scaffold_41	575159	micro	41	GYMCA	dzscf41	California condor
+PYTBI_HiC_scaffold_2	317910269	macro	1	PYTBI	dzscf2	Burmese python
+PYTBI_HiC_scaffold_1	241438387	macro	2	PYTBI	dzscf1	Burmese python
+PYTBI_HiC_scaffold_6	196651090	macro	3	PYTBI	dzscf6	Burmese python
+PYTBI_HiC_scaffold_4	108932528	macro	4	PYTBI	dzscf4	Burmese python
+PYTBI_HiC_scaffold_5	106496723	macro	5	PYTBI	dzscf5	Burmese python
+PYTBI_HiC_scaffold_18	93335423	macro	6	PYTBI	dzscf18	Burmese python
+PYTBI_HiC_scaffold_7	78792744	macro	7	PYTBI	dzscf7	Burmese python
+PYTBI_HiC_scaffold_8	72243982	macro	8	PYTBI	dzscf8	Burmese python
+PYTBI_HiC_scaffold_15	25188946	micro	9	PYTBI	dzscf15	Burmese python
+PYTBI_HiC_scaffold_3	24620612	micro	10	PYTBI	dzscf3	Burmese python
+PYTBI_HiC_scaffold_17	23955143	micro	11	PYTBI	dzscf17	Burmese python
+PYTBI_HiC_scaffold_16	22221336	micro	12	PYTBI	dzscf16	Burmese python
+PYTBI_HiC_scaffold_9	21648691	micro	13	PYTBI	dzscf9	Burmese python
+PYTBI_HiC_scaffold_12	18726175	micro	14	PYTBI	dzscf12	Burmese python
+PYTBI_HiC_scaffold_10	15207260	micro	15	PYTBI	dzscf10	Burmese python
+PYTBI_HiC_scaffold_11	11460064	micro	16	PYTBI	dzscf11	Burmese python
+PYTBI_HiC_scaffold_13	9923712	micro	17	PYTBI	dzscf13	Burmese python
+PYTBI_HiC_scaffold_14	9400649	micro	18	PYTBI	dzscf14	Burmese python
+SAMER_HiC_scaffold_1	414523068	macro	1	SAMER	dzscf1	Argentine black and white tegu
+SAMER_HiC_scaffold_19	363964080	macro	2	SAMER	dzscf19	Argentine black and white tegu
+SAMER_HiC_scaffold_18	314194259	macro	3	SAMER	dzscf18	Argentine black and white tegu
+SAMER_HiC_scaffold_2	286286133	macro	4	SAMER	dzscf2	Argentine black and white tegu
+SAMER_HiC_scaffold_3	222499501	macro	5	SAMER	dzscf3	Argentine black and white tegu
+SAMER_HiC_scaffold_17	74934432	micro	6	SAMER	dzscf17	Argentine black and white tegu
+SAMER_HiC_scaffold_16	43927702	micro	7	SAMER	dzscf16	Argentine black and white tegu
+SAMER_HiC_scaffold_15	27733050	micro	8	SAMER	dzscf15	Argentine black and white tegu
+SAMER_HiC_scaffold_5	26807181	micro	9	SAMER	dzscf5	Argentine black and white tegu
+SAMER_HiC_scaffold_4	23377602	micro	10	SAMER	dzscf4	Argentine black and white tegu
+SAMER_HiC_scaffold_6	22704898	micro	11	SAMER	dzscf6	Argentine black and white tegu
+SAMER_HiC_scaffold_7	22666949	micro	12	SAMER	dzscf7	Argentine black and white tegu
+SAMER_HiC_scaffold_9	18916873	micro	13	SAMER	dzscf9	Argentine black and white tegu
+SAMER_HiC_scaffold_8	15552402	micro	14	SAMER	dzscf8	Argentine black and white tegu
+SAMER_HiC_scaffold_10	12965002	micro	15	SAMER	dzscf10	Argentine black and white tegu
+SAMER_HiC_scaffold_11	11229012	micro	16	SAMER	dzscf11	Argentine black and white tegu
+SAMER_HiC_scaffold_13	10575517	micro	17	SAMER	dzscf13	Argentine black and white tegu
+SAMER_HiC_scaffold_14	10004368	micro	18	SAMER	dzscf14	Argentine black and white tegu
+SAMER_HiC_scaffold_12	5890402	micro	19	SAMER	dzscf12	Argentine black and white tegu
