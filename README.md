@@ -88,36 +88,7 @@ Process was automated using `preparegenomes.sh` script. Basic steps were as foll
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739|
 
 
-```
-##Download genomes
-for i in `cut -f3 metadata.txt | grep -v fasta`; do wget --continue $i; done
-##Download assembly report
-for i in `cut -f6 metadata.txt | grep -v assemblyreport`; do wget --continue $i; done
-##Create sequence sizes file
-for i in *.fna.gz; do gunzip -c $i | perl -lne 'if ($_ =~ />(\S+)/){ $h=$1; push (@seq, $h); } else { $l{$h}+=length($_) } END { map { print "$_\t$l{$_}" } @seq }' >`dirname $i`/`basename $i _genomic.fna.gz`.sizes; done
-##Unzip genomes
-for i in *.fna.gz; do zcat $i > `basename $i .gz`; done
-##index genome files
-for i in *.fna; do samtools faidx $i; done
-##get sequence names for the query species
-for i in *_assembly_report.txt; do seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f7 | grep -v na`; if [[ ${#seqids} -eq 0 ]]; then seqids=`awk '$2=="assembled-molecule"' $i | grep -v non-nuclear | cut -f5 | grep -v na`; fi; for j in $seqids; do if [ ! -e chrseq/$j.fa ]; then samtools faidx `basename $i _assembly_report.txt`_genomic.fna $j >chrseq/$j.fa; faToTwoBit chrseq/$j.fa chrseq/$j.2bit; fi; done; done
-```
 
-
-Create target capsule file
-```
-/g/data/te53/hrp561/wga/software/lastz-1.04.03/src/lastz_32 /g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a_genomic.fna[multiple] --writecapsule=/g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a_genomic.capsule --ambiguous=iupac
-```
-
-Create lastz commands: takes time to run per chromosome
-```
-( for i in /g/data/te53/hrp561/wga/genomes/chrseq/*.fa; do echo sh /g/data/te53/phase2_20200312/utils/runcmd.sh \"/g/data/te53/hrp561/wga/software/lastz-1.04.03/src/lastz_32 --targetcapsule=/g/data/te53/hrp561/wga/genomes/GCF_000002315.6_GRCg6a_genomic.capsule $i K=2400 L=3000 Y=9400 H=2000 --ambiguous=iupac --format=axt --output=$i.axt\" `basename $i .fa`.lastz `dirname $i`/`basename $i .fa`.lastz.done 0; done ) >lastzcmds.txt
-```
-
-Launch commands
-```
-qsub -j oe -o pbslogs/ -l walltime=48:00:00,ncpus=48,mem=190GB -N laln -V -v commandsfile=lastzcmds.txt,ncpupercmd=1,joblog=pbslogs/lastz.parallel.0.log runcmdsparallel.sh
-```
 Things to organise
 ```
 ##axtChain, default score used is 5000 in the gitlab script,
