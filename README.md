@@ -11,7 +11,7 @@ Process was automated using `preparegenomes.sh` script. Basic steps were as foll
 
 ## One-way all-vs-all whole genome alignments
 
-#### Credits
+**Credits**
 
 1. Workflow ideas for lastz alignments were borrowed from [Daren Card](https://github.com/darencard) (thanks mate) available [here](https://darencard.net/blog/2019-11-01-whole-genome-alignment-tutorial/).
 2. Lastz alignment parameters were obtained from several sources:  
@@ -53,6 +53,39 @@ Process was automated using `preparegenomes.sh` script. Basic steps were as foll
     # gap_open_penalty (O)   = 400
     # gap_extend_penalty (E) = 30
     ```
+
+*We used `K=2400 L=3000 Y=9400 H=2000 --ambiguous=iupac` as parameters for LastZ alignments for the project for all species.*
+
+**List of species included in analyses**
+|Species|Species Code|Common Name|NCBI Taxonomy ID|
+|---|---|---|---|
+|Gallus gallus|CHICK|Chicken|9031|
+|Trachemys scripta elegans|TRASE|Red-eared slider turtle|31138|
+|Gallus gallus|CHICKYO|Chicken Yeonsan Ogye|9031|
+|Corvus monedula|CORMO|Jackdaw|30423|
+|Cygnus olor|CYGOL|Mute swan|8869|
+|Naja naja |NAJNA|Indian cobra|35670|
+|Ornithorhynchus anatinus|ORNAN|Platypus|9258|
+|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|
+|Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|
+|Lacerta agilis|LACAG|Sand lizard|80427|
+|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|
+|Podarcis muralis|PODMU|Common wall lizard|64176|
+|Zootoca vivipara|ZOOVI|Common lizard|8524|
+|Crotalus viridis|CROVV|Prairie rattlesnake|8742|
+|Calypte anna|CALAN|Anna's hummingbird|9244|
+|Falco rusticolus|FALRU|Gyrfalcon|120794|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|
+|Dromaius novaehollandiae|DRONO|Emu|8790|
+|Salvator merianae|SAMER|Argentine black and white tegu|96440|
+|Python bivittatus|PYTBI|Burmese python|176946|
+|Gymnogyps californianus|GYMCA|California condor|33616|
+|Alligator mississippiensis|ALLMI|American alligator|8496|
+|Alligator sinensis|ALLSI|Chinese alligator|38654|
+|Homo sapiens|HUMAN|Human|9606|
+|Sarcophilus harrisii|SARHA|Tasmanian devil|9305|
+|Branchiostoma floridae|BRAFL|Florida lancelet|7739|
 
 
 ```
