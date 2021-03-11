@@ -3,54 +3,58 @@
 
 ## Data preparation
 
-Process was automated with `preparegenomes.sh` file. Basic steps were as follows.
+Process was automated using `preparegenomes.sh` script. Basic steps were as follows.
 
 1. Genome assemblies were downloaded from relevant sources (NCBI or DNAZoo). Check `metadata/species.txt` for details of species and download paths.
 2. `.2bit`, `.capsule`, `.sizes` files were created.
-3. Genome files were split into smaller chunks (1Mb sequence size and ~5Mb per file) without overlaps. **This step allows for embarassingly parallel lastz alignments to capitalise on large HPC facilities.**
+3. Genome files were split into smaller chunks (1Mb sequence size and ~5Mb of total sequence per file) without overlaps. **This step allows for embarassingly parallel lastz alignments to capitalise on large HPC facilities.**
 
 ## One-way all-vs-all whole genome alignments
 
-Workflow ideas for lastz alignments were borrowed from [Daren Card](https://github.com/darencard) (thanks mate) available [here](https://darencard.net/blog/2019-11-01-whole-genome-alignment-tutorial/). Command line settings were obtained from the bird genome alignment paper GitHub repo [here](https://github.com/gigascience/paper-zhang2014/blob/master/Whole_genome_alignment/pairwise/bin/lastz_CNM.pl).
+#### Credits
 
-K=2400 L=3000 Y=9400 H=2000 ## parameter choice from the link above
-https://academic-oup-com.virtual.anu.edu.au/nar/article/45/14/8369/3875570
-K = 2400, L = 3000, Y = 9400, H = 2000 for placental mammals
-K = 2400, L = 3000, Y = 3400, H = 2000 for non-placental mammals
-K = 1500, L = 2500 and W = 5  to find co-linear alignments in the un-aligning regions that are flanked by local alignments (gaps in the chains)
+1. Workflow ideas for lastz alignments were borrowed from [Daren Card](https://github.com/darencard) (thanks mate) available [here](https://darencard.net/blog/2019-11-01-whole-genome-alignment-tutorial/).
+2. Lastz alignment parameters were obtained from several sources:  
+    * The bird genome alignment paper GitHub repo [here](https://github.com/gigascience/paper-zhang2014/blob/master/Whole_genome_alignment/pairwise/bin/lastz_CNM.pl).
 
-Parameter settings for pairwise alignments in Ensembl Compara
-https://github.com/Ensembl/ensembl-compara/blob/23bcb7ecaed4b6ea3251b22b1405d9d9e0d817bc/modules/Bio/EnsEMBL/Compara/PipeConfig/Lastz_conf.pm
-```
-'pair_aligner_options' => {
-            default => 'T=1 L=3000 H=2200 O=400 E=30 --ambiguous=iupac', # ensembl genomes settings
-            # Vertebrata
-            7742    => 'T=1 K=3000 L=3000 H=2200 O=400 E=30 --ambiguous=iupac',
-            # Catarrhini, Sus, Carnivora, Triticeae
-            9526    => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 Q=' . $self->check_file_in_ensembl('ensembl-compara/scripts/pipeline/primate.matrix') . ' --ambiguous=iupac',
-            9822    => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac',
-            33554   => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac',
-            147389  => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac --identity=75..100',
-            # Vigna, Solanaceae
-            3913    => 'T=1 L=3000 H=2200 O=400 E=30 --ambiguous=iupac --matchcount=1000',
-            4070    => 'T=1 L=3000 H=2200 O=400 E=30 --ambiguous=iupac --matchcount=1000',
-            # Solanum ?
-            #4107    => 'K=5000 L=5000 H=3000 O=400 E=30 --ambiguous=iupac M=10 --notransition --step=20',
-            #4107    => 'K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac --notransition --step=20',
-        },
-```
+    ``` 
+    K=2400 L=3000 Y=9400 H=2000
+    ```
+    * Alignment sensitivity tests performed in [Sharma et al, 2017 paper](https://doi.org/10.1093/nar/gkx554).
 
-`H` or `--inner` parameter performs another round of sensitive alignments in regions where no alignments are detected.
+    ```
+    K = 2400, L = 3000, Y = 9400, H = 2000 for placental mammals
+    K = 2400, L = 3000, Y = 3400, H = 2000 for non-placental mammals
+    K = 1500, L = 2500 and W = 5  to find co-linear alignments in the un-aligning regions that are flanked by local alignments (gaps in the chains)
+    ```
+    * Ensembl Compara LastZ pairwise alignment settings for the GitHub Repo [here](https://github.com/Ensembl/ensembl-compara/blob/23bcb7ecaed4b6ea3251b22b1405d9d9e0d817bc/modules/Bio/EnsEMBL/Compara/PipeConfig/Lastz_conf.pm)
 
-Default parameters
-```
-# hsp_threshold (K)      = 3000
-# gapped_threshold (L)   = 3000
-# x_drop (X)             = 910
-# y_drop (Y)             = 9400
-# gap_open_penalty (O)   = 400
-# gap_extend_penalty (E) = 30
-```
+    ```
+    default => 'T=1 L=3000 H=2200 O=400 E=30 --ambiguous=iupac', # ensembl genomes settings
+    # Vertebrata
+    7742    => 'T=1 K=3000 L=3000 H=2200 O=400 E=30 --ambiguous=iupac',
+    # Catarrhini, Sus, Carnivora, Triticeae
+    9526    => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 Q='
+    9822    => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac',
+    33554   => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac',
+    147389  => 'T=1 K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac --identity=75..100',
+    # Vigna, Solanaceae
+    3913    => 'T=1 L=3000 H=2200 O=400 E=30 --ambiguous=iupac --matchcount=1000',
+    4070    => 'T=1 L=3000 H=2200 O=400 E=30 --ambiguous=iupac --matchcount=1000',
+    #4107    => 'K=5000 L=5000 H=3000 O=400 E=30 --ambiguous=iupac M=10 --notransition --step=20',
+    #4107    => 'K=5000 L=5000 H=3000 M=10 O=400 E=30 --ambiguous=iupac --notransition --step=20',
+    ```
+    * Default parameters of LastZ
+    ```
+    # hsp_threshold (K)      = 3000
+    # gapped_threshold (L)   = 3000
+    # x_drop (X)             = 910
+    # y_drop (Y)             = 9400
+    # gap_open_penalty (O)   = 400
+    # gap_extend_penalty (E) = 30
+    ```
+
+
 ```
 ##Download genomes
 for i in `cut -f3 metadata.txt | grep -v fasta`; do wget --continue $i; done
