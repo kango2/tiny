@@ -38,25 +38,25 @@ chr2	assembled-molecule	2	Chromosome	CM023057.1	=	NC_048299.1	Primary Assembly	2
 chr3	assembled-molecule	3	Chromosome	CM023058.1	=	NC_048300.1	Primary Assembly	201239519	na	TRASE	Red-eared slider turtle	3	630759230	NC_048300.1	56385041	41727460	41712581	56344506	42.5346466	chr3	macro
 chr4	assembled-molecule	4	Chromosome	CM023059.1	=	NC_048301.1	Primary Assembly	142343550	na	TRASE	Red-eared slider turtle	5	831998749	NC_048301.1	38552553	30204872	30158875	38431542	43.94954163	chr4	macro
 chr5	assembled-molecule	5	Chromosome	CM023060.1	=	NC_048302.1	Primary Assembly	140411086	na	TRASE	Red-eared slider turtle	4	974342299	NC_048302.1	39481608	28769568	28763745	39479989	42.15051902	chr5	macro
-chr6	assembled-molecule	6	Chromosome	CM023061.1	=	NC_048303.1	Primary Assembly	129675691	na	TRASE	Red-eared slider turtle	6	1114753385	NC_048303.1	36434823	26649031	26670242	36509645	42.22849139	chr6	macro
-chr7	assembled-molecule	7	Chromosome	CM023062.1	=	NC_048304.1	Primary Assembly	126808733	na	TRASE	Red-eared slider turtle	7	1244429076	NC_048304.1	34477576	26802121	26743235	34429739	43.72738917	chr7	macro
+chr6	assembled-molecule	6	Chromosome	CM023061.1	=	NC_048303.1	Primary Assembly	129675691	na	TRASE	Red-eared slider turtle	9	1114753385	NC_048303.1	36434823	26649031	26670242	36509645	42.22849139	chr6	macro
+chr7	assembled-molecule	7	Chromosome	CM023062.1	=	NC_048304.1	Primary Assembly	126808733	na	TRASE	Red-eared slider turtle	6	1244429076	NC_048304.1	34477576	26802121	26743235	34429739	43.72738917	chr7	macro
 chr8	assembled-molecule	8	Chromosome	CM023063.1	=	NC_048305.1	Primary Assembly	109307977	na	TRASE	Red-eared slider turtle	8	1371237809	NC_048305.1	29536527	22964439	23063308	29622883	43.75795326	chr8	macro
-chr9	assembled-molecule	9	Chromosome	CM023064.1	=	NC_048306.1	Primary Assembly	104972506	na	TRASE	Red-eared slider turtle	9	1480545786	NC_048306.1	28537643	22316444	22309730	28506762	43.89290829	chr9	macro
+chr9	assembled-molecule	9	Chromosome	CM023064.1	=	NC_048306.1	Primary Assembly	104972506	na	TRASE	Red-eared slider turtle	11	1480545786	NC_048306.1	28537643	22316444	22309730	28506762	43.89290829	chr9	macro
 chr10	assembled-molecule	10	Chromosome	CM023065.1	=	NC_048307.1	Primary Assembly	85829911	na	TRASE	Red-eared slider turtle	10	1585518292	NC_048307.1	22931003	18520598	18525458	22931796	44.68287012	chr10	macro
-chr11	assembled-molecule	11	Chromosome	CM023066.1	=	NC_048308.1	Primary Assembly	76047897	na	TRASE	Red-eared slider turtle	11	1671348203	NC_048308.1	21230732	15838960	15852690	21215899	42.74667496	chr11	macro
-chr12	assembled-molecule	12	Chromosome	CM023067.1	=	NC_048309.1	Primary Assembly	45061502	na	TRASE	Red-eared slider turtle	13	1747396100	NC_048309.1	11525953	9671094	9688220	11468673	45.70841343	chr12	micro
-chr13	assembled-molecule	13	Chromosome	CM023068.1	=	NC_048310.1	Primary Assembly	43716676	na	TRASE	Red-eared slider turtle	12	1792457602	NC_048310.1	11708784	9150899	9095170	11596357	43.91224467	chr13	macro
-chr14	assembled-molecule	14	Chromosome	CM023069.1	=	NC_048311.1	Primary Assembly	42221082	na	TRASE	Red-eared slider turtle	14	1836174278	NC_048311.1	10484284	9229630	9214069	10501159	46.77682056	chr14	micro
+chr11	assembled-molecule	11	Chromosome	CM023066.1	=	NC_048308.1	Primary Assembly	76047897	na	TRASE	Red-eared slider turtle	7	1671348203	NC_048308.1	21230732	15838960	15852690	21215899	42.74667496	chr11	macro
+chr12	assembled-molecule	12	Chromosome	CM023067.1	=	NC_048309.1	Primary Assembly	45061502	na	TRASE	Red-eared slider turtle	14	1747396100	NC_048309.1	11525953	9671094	9688220	11468673	45.70841343	chr12	micro
+chr13	assembled-molecule	13	Chromosome	CM023068.1	=	NC_048310.1	Primary Assembly	43716676	na	TRASE	Red-eared slider turtle	12	1792457602	NC_048310.1	11708784	9150899	9095170	11596357	43.91224467	chr13	micro
+chr14	assembled-molecule	14	Chromosome	CM023069.1	=	NC_048311.1	Primary Assembly	42221082	na	TRASE	Red-eared slider turtle	13	1836174278	NC_048311.1	10484284	9229630	9214069	10501159	46.77682056	chr14	micro
 chr15	assembled-molecule	15	Chromosome	CM023070.1	=	NC_048312.1	Primary Assembly	32210117	na	TRASE	Red-eared slider turtle	15	1878395360	NC_048312.1	8468724	7124817	7132525	8473039	45.69791986	chr15	micro
-chr16	assembled-molecule	16	Chromosome	CM023071.1	=	NC_048313.1	Primary Assembly	30045477	na	TRASE	Red-eared slider turtle	16	1910605477	NC_048313.1	5761218	6628089	6612994	5777877	53.43417226	chr16	micro
-chr17	assembled-molecule	17	Chromosome	CM023072.1	=	NC_048314.1	Primary Assembly	26830997	na	TRASE	Red-eared slider turtle	17	1940650954	NC_048314.1	6901885	6020946	6053722	6900966	46.66084102	chr17	micro
-chr18	assembled-molecule	18	Chromosome	CM023073.1	=	NC_048315.1	Primary Assembly	24772400	na	TRASE	Red-eared slider turtle	18	1967481951	NC_048315.1	6501042	5439338	5430754	6483668	45.56773098	chr18	micro
-chr19	assembled-molecule	19	Chromosome	CM023074.1	=	NC_048316.1	Primary Assembly	22813715	na	TRASE	Red-eared slider turtle	19	1992254351	NC_048316.1	5787018	5146751	5129429	5777483	47.05063913	chr19	micro
-chr20	assembled-molecule	20	Chromosome	CM023075.1	=	NC_048317.1	Primary Assembly	19368400	na	TRASE	Red-eared slider turtle	20	2015068066	NC_048317.1	4791667	4517761	4517898	4832326	48.42351294	chr20	micro
-chr21	assembled-molecule	21	Chromosome	CM023076.1	=	NC_048318.1	Primary Assembly	19049219	na	TRASE	Red-eared slider turtle	21	2034436466	NC_048318.1	4907143	4332500	4290068	4844147	46.92845672	chr21	micro
-chr22	assembled-molecule	22	Chromosome	CM023077.1	=	NC_048319.1	Primary Assembly	16439607	na	TRASE	Red-eared slider turtle	22	2053485685	NC_048319.1	3784089	3850739	3840069	3787975	50.38899625	chr22	micro
-chr23	assembled-molecule	23	Chromosome	CM023078.1	=	NC_048320.1	Primary Assembly	16074632	na	TRASE	Red-eared slider turtle	23	2069925292	NC_048320.1	3655009	3659989	3690042	3687767	50.02468895	chr23	micro
-chr24	assembled-molecule	24	Chromosome	CM023079.1	=	NC_048321.1	Primary Assembly	15148950	na	TRASE	Red-eared slider turtle	24	2085999924	NC_048321.1	3085769	3317556	3316136	3086032	51.80348777	chr24	micro
+chr16	assembled-molecule	16	Chromosome	CM023071.1	=	NC_048313.1	Primary Assembly	30045477	na	TRASE	Red-eared slider turtle	22	1910605477	NC_048313.1	5761218	6628089	6612994	5777877	53.43417226	chr16	micro
+chr17	assembled-molecule	17	Chromosome	CM023072.1	=	NC_048314.1	Primary Assembly	26830997	na	TRASE	Red-eared slider turtle	16	1940650954	NC_048314.1	6901885	6020946	6053722	6900966	46.66084102	chr17	micro
+chr18	assembled-molecule	18	Chromosome	CM023073.1	=	NC_048315.1	Primary Assembly	24772400	na	TRASE	Red-eared slider turtle	17	1967481951	NC_048315.1	6501042	5439338	5430754	6483668	45.56773098	chr18	micro
+chr19	assembled-molecule	19	Chromosome	CM023074.1	=	NC_048316.1	Primary Assembly	22813715	na	TRASE	Red-eared slider turtle	18	1992254351	NC_048316.1	5787018	5146751	5129429	5777483	47.05063913	chr19	micro
+chr20	assembled-molecule	20	Chromosome	CM023075.1	=	NC_048317.1	Primary Assembly	19368400	na	TRASE	Red-eared slider turtle	19	2015068066	NC_048317.1	4791667	4517761	4517898	4832326	48.42351294	chr20	micro
+chr21	assembled-molecule	21	Chromosome	CM023076.1	=	NC_048318.1	Primary Assembly	19049219	na	TRASE	Red-eared slider turtle	20	2034436466	NC_048318.1	4907143	4332500	4290068	4844147	46.92845672	chr21	micro
+chr22	assembled-molecule	22	Chromosome	CM023077.1	=	NC_048319.1	Primary Assembly	16439607	na	TRASE	Red-eared slider turtle	23	2053485685	NC_048319.1	3784089	3850739	3840069	3787975	50.38899625	chr22	micro
+chr23	assembled-molecule	23	Chromosome	CM023078.1	=	NC_048320.1	Primary Assembly	16074632	na	TRASE	Red-eared slider turtle	24	2069925292	NC_048320.1	3655009	3659989	3690042	3687767	50.02468895	chr23	micro
+chr24	assembled-molecule	24	Chromosome	CM023079.1	=	NC_048321.1	Primary Assembly	15148950	na	TRASE	Red-eared slider turtle	21	2085999924	NC_048321.1	3085769	3317556	3316136	3086032	51.80348777	chr24	micro
 chr25	assembled-molecule	25	Chromosome	CM023080.1	=	NC_048322.1	Primary Assembly	7130772	na	TRASE	Red-eared slider turtle	25	2101148874	NC_048322.1	1508237	1515157	1510015	1504364	50.10410295	chr25	micro
 Ogye_chr1	assembled-molecule	1	Chromosome	CM008828.1	<>	na	Primary Assembly	196835485	na	CHICKYO	Chicken Yeonsan Ogye	1	0	CM008828.1	57744922	38646663	38890422	58089665	40.09743733	chr1	macro
 Ogye_chr2	assembled-molecule	2	Chromosome	CM008829.1	<>	na	Primary Assembly	148035610	na	CHICKYO	Chicken Yeonsan Ogye	2	196835485	CM008829.1	44261252	29307563	29161134	44102522	39.8200048	chr2	macro
@@ -91,11 +91,11 @@ Ogye_chrZ	assembled-molecule	Z	Chromosome	CM008857.1	<>	na	Primary Assembly	7784
 chr1	assembled-molecule	1	Chromosome	CM023912.1	<>	na	Primary Assembly	117486409	na	CORMO	Jackdaw	2	0	CM023912.1	35092025	23537385	23581161	35231410	40.12070096	chr1	macro
 chr2	assembled-molecule	2	Chromosome	CM023913.1	<>	na	Primary Assembly	154487646	na	CORMO	Jackdaw	3	117486409	CM023913.1	46307896	30780840	30787188	46290666	39.93603802	chr2	macro
 chr3	assembled-molecule	3	Chromosome	CM023914.1	<>	na	Primary Assembly	110910713	na	CORMO	Jackdaw	4	271974055	CM023914.1	33036242	22455728	22413180	32988855	40.46107632	chr3	macro
-chr4	assembled-molecule	4	Chromosome	CM023915.1	<>	na	Primary Assembly	73157438	na	CORMO	Jackdaw	6	382884768	CM023915.1	21866269	14581172	14673144	22008792	40.00350776	chr4	macro
-chr5	assembled-molecule	5	Chromosome	CM023916.1	<>	na	Primary Assembly	64157287	na	CORMO	Jackdaw	7	456042206	CM023916.1	18593314	13273274	13274063	18640286	41.62268265	chr5	macro
-chr6	assembled-molecule	6	Chromosome	CM023917.1	<>	na	Primary Assembly	36532927	na	CORMO	Jackdaw	8	520199493	CM023917.1	10497307	7733864	7774130	10527626	42.44936082	chr6	macro
-chr7	assembled-molecule	7	Chromosome	CM023918.1	<>	na	Primary Assembly	38277055	na	CORMO	Jackdaw	9	556732420	CM023918.1	11158373	8015582	7988255	11086724	41.84126282	chr7	macro
-chr8	assembled-molecule	8	Chromosome	CM023919.1	<>	na	Primary Assembly	32060782	na	CORMO	Jackdaw	10	595009475	CM023919.1	9111678	6825380	6827172	9125307	42.81201072	chr8	macro
+chr4	assembled-molecule	4	Chromosome	CM023915.1	<>	na	Primary Assembly	73157438	na	CORMO	Jackdaw	5	382884768	CM023915.1	21866269	14581172	14673144	22008792	40.00350776	chr4	macro
+chr5	assembled-molecule	5	Chromosome	CM023916.1	<>	na	Primary Assembly	64157287	na	CORMO	Jackdaw	6	456042206	CM023916.1	18593314	13273274	13274063	18640286	41.62268265	chr5	macro
+chr6	assembled-molecule	6	Chromosome	CM023917.1	<>	na	Primary Assembly	36532927	na	CORMO	Jackdaw	7	520199493	CM023917.1	10497307	7733864	7774130	10527626	42.44936082	chr6	macro
+chr7	assembled-molecule	7	Chromosome	CM023918.1	<>	na	Primary Assembly	38277055	na	CORMO	Jackdaw	8	556732420	CM023918.1	11158373	8015582	7988255	11086724	41.84126282	chr7	macro
+chr8	assembled-molecule	8	Chromosome	CM023919.1	<>	na	Primary Assembly	32060782	na	CORMO	Jackdaw	9	595009475	CM023919.1	9111678	6825380	6827172	9125307	42.81201072	chr8	macro
 chr9	assembled-molecule	9	Chromosome	CM023920.1	<>	na	Primary Assembly	26026359	na	CORMO	Jackdaw	12	627070257	CM023920.1	7298803	5613643	5704777	7409136	43.48829585	chr9	micro
 chr10	assembled-molecule	10	Chromosome	CM023921.1	<>	na	Primary Assembly	20701202	na	CORMO	Jackdaw	13	653096616	CM023921.1	5819119	4534421	4535671	5810993	43.81643775	chr10	micro
 chr11	assembled-molecule	11	Chromosome	CM023922.1	<>	na	Primary Assembly	20977607	na	CORMO	Jackdaw	14	673797818	CM023922.1	5971597	4528505	4517745	5959760	43.12336483	chr11	micro
@@ -114,59 +114,59 @@ chr24	assembled-molecule	24	Chromosome	CM023934.1	<>	na	Primary Assembly	6907201
 chr26	assembled-molecule	26	Chromosome	CM023935.1	<>	na	Primary Assembly	6615938	na	CORMO	Jackdaw	27	838379215	CM023935.1	1560775	1765913	1752402	1535351	53.19141859	chr26	micro
 chr27	assembled-molecule	27	Chromosome	CM023936.1	<>	na	Primary Assembly	4573168	na	CORMO	Jackdaw	28	844995153	CM023936.1	1057234	1232231	1223830	1059873	53.70589928	chr27	micro
 chr28	assembled-molecule	28	Chromosome	CM023937.1	<>	na	Primary Assembly	5735232	na	CORMO	Jackdaw	29	849568321	CM023937.1	1238571	1447534	1435022	1225117	53.91740444	chr28	micro
-chrZ	assembled-molecule	Z	Chromosome	CM023938.1	<>	na	Primary Assembly	79982351	na	CORMO	Jackdaw	11	855303553	CM023938.1	23543654	16214607	16130044	23406986	40.79012838	chrZ	macro
+chrZ	assembled-molecule	Z	Chromosome	CM023938.1	<>	na	Primary Assembly	79982351	na	CORMO	Jackdaw	10	855303553	CM023938.1	23543654	16214607	16130044	23406986	40.79012838	chrZ	macro
 chr1A	assembled-molecule	1A	Chromosome	CM023939.1	<>	na	Primary Assembly	73777161	na	CORMO	Jackdaw	1	935285904	CM023939.1	21873696	15034106	14988393	21827064	40.72323905	chr1A	macro
-chr4A	assembled-molecule	4A	Chromosome	CM023940.1	<>	na	Primary Assembly	20605299	na	CORMO	Jackdaw	5	1009063065	CM023940.1	5745590	4587480	4550773	5720957	44.35011745	chr4A	micro
+chr4A	assembled-molecule	4A	Chromosome	CM023940.1	<>	na	Primary Assembly	20605299	na	CORMO	Jackdaw	11	1009063065	CM023940.1	5745590	4587480	4550773	5720957	44.35011745	chr4A	micro
 SUPER_scf_1	assembled-molecule	1	Chromosome	CM020065.1	<>	na	Primary Assembly	209740803	na	CYGOL	Mute swan	1	0	CM020065.1	62059296	41839185	41830559	62095208	40.25985649	chr1	macro
 SUPER_scf_4	assembled-molecule	2	Chromosome	CM020066.1	<>	na	Primary Assembly	161160915	na	CYGOL	Mute swan	2	209740803	CM020066.1	47994816	31903700	31796493	47844347	39.92757311	chr2	macro
 SUPER_scf_2	assembled-molecule	3	Chromosome	CM020067.1	<>	na	Primary Assembly	121161405	na	CYGOL	Mute swan	3	370901718	CM020067.1	35986406	24290914	24144439	35777741	40.2958024	chr3	macro
-SUPER_scf_3	assembled-molecule	4	Chromosome	CM020068.1	<>	na	Primary Assembly	77806539	na	CYGOL	Mute swan	5	492063123	CM020068.1	23335242	15394427	15392761	23288795	39.77096087	chr4	macro
-SUPER_scf_5	assembled-molecule	5	Chromosome	CM020069.1	<>	na	Primary Assembly	66085727	na	CYGOL	Mute swan	6	569869662	CM020069.1	19261073	13603726	13668009	19341396	41.39971847	chr5	macro
-SUPER_scf_6	assembled-molecule	6	Chromosome	CM020070.1	<>	na	Primary Assembly	40597510	na	CYGOL	Mute swan	8	635955389	CM020070.1	11904325	8348248	8333620	11902276	41.20152827	chr6	macro
-SUPER_scf_7	assembled-molecule	7	Chromosome	CM020071.1	<>	na	Primary Assembly	38445481	na	CYGOL	Mute swan	7	676552899	CM020071.1	11001506	7877212	8024636	11195692	41.73817896	chr7	macro
-SUPER_scf_8	assembled-molecule	8	Chromosome	CM020072.1	<>	na	Primary Assembly	33098480	na	CYGOL	Mute swan	9	714998380	CM020072.1	9622299	6988899	6898086	9486886	42.08665733	chr8	macro
+SUPER_scf_3	assembled-molecule	4	Chromosome	CM020068.1	<>	na	Primary Assembly	77806539	na	CYGOL	Mute swan	4	492063123	CM020068.1	23335242	15394427	15392761	23288795	39.77096087	chr4	macro
+SUPER_scf_5	assembled-molecule	5	Chromosome	CM020069.1	<>	na	Primary Assembly	66085727	na	CYGOL	Mute swan	5	569869662	CM020069.1	19261073	13603726	13668009	19341396	41.39971847	chr5	macro
+SUPER_scf_6	assembled-molecule	6	Chromosome	CM020070.1	<>	na	Primary Assembly	40597510	na	CYGOL	Mute swan	7	635955389	CM020070.1	11904325	8348248	8333620	11902276	41.20152827	chr6	macro
+SUPER_scf_7	assembled-molecule	7	Chromosome	CM020071.1	<>	na	Primary Assembly	38445481	na	CYGOL	Mute swan	6	676552899	CM020071.1	11001506	7877212	8024636	11195692	41.73817896	chr7	macro
+SUPER_scf_8	assembled-molecule	8	Chromosome	CM020072.1	<>	na	Primary Assembly	33098480	na	CYGOL	Mute swan	8	714998380	CM020072.1	9622299	6988899	6898086	9486886	42.08665733	chr8	macro
 SUPER_scf_9	assembled-molecule	9	Chromosome	CM020073.1	<>	na	Primary Assembly	26863093	na	CYGOL	Mute swan	11	748096860	CM020073.1	7704666	5772270	5714136	7639757	42.81047745	chr9	micro
-SUPER_scf_10	assembled-molecule	10	Chromosome	CM020074.1	<>	na	Primary Assembly	22536196	na	CYGOL	Mute swan	12	774959953	CM020074.1	6362035	4883290	4867818	6345330	43.41839269	chr10	micro
-SUPER_scf_11	assembled-molecule	11	Chromosome	CM020075.1	<>	na	Primary Assembly	22219367	na	CYGOL	Mute swan	13	797496149	CM020075.1	6319852	4813785	4790910	6294820	43.22668148	chr11	micro
-SUPER_scf_12	assembled-molecule	12	Chromosome	CM020076.1	<>	na	Primary Assembly	21853640	na	CYGOL	Mute swan	4	819715516	CM020076.1	6318859	4635235	4607743	6289629	42.2991208	chr12	micro
-SUPER_scf_13	assembled-molecule	13	Chromosome	CM020077.1	<>	na	Primary Assembly	21469910	na	CYGOL	Mute swan	14	841569156	CM020077.1	6117818	4589183	4586830	6114938	42.86100242	chr13	micro
+SUPER_scf_10	assembled-molecule	10	Chromosome	CM020074.1	<>	na	Primary Assembly	22536196	na	CYGOL	Mute swan	14	774959953	CM020074.1	6362035	4883290	4867818	6345330	43.41839269	chr10	micro
+SUPER_scf_11	assembled-molecule	11	Chromosome	CM020075.1	<>	na	Primary Assembly	22219367	na	CYGOL	Mute swan	12	797496149	CM020075.1	6319852	4813785	4790910	6294820	43.22668148	chr11	micro
+SUPER_scf_12	assembled-molecule	12	Chromosome	CM020076.1	<>	na	Primary Assembly	21853640	na	CYGOL	Mute swan	13	819715516	CM020076.1	6318859	4635235	4607743	6289629	42.2991208	chr12	micro
+SUPER_scf_13	assembled-molecule	13	Chromosome	CM020077.1	<>	na	Primary Assembly	21469910	na	CYGOL	Mute swan	10	841569156	CM020077.1	6117818	4589183	4586830	6114938	42.86100242	chr13	micro
 SUPER_scf_14	assembled-molecule	14	Chromosome	CM020078.1	<>	na	Primary Assembly	20170086	na	CYGOL	Mute swan	15	863039066	CM020078.1	5585051	4521665	4506255	5557115	44.75895641	chr14	micro
 SUPER_scf_15	assembled-molecule	15	Chromosome	CM020079.1	<>	na	Primary Assembly	18104235	na	CYGOL	Mute swan	16	883209152	CM020079.1	4915641	4014236	4109293	5054161	44.89791847	chr15	micro
-SUPER_scf_16	assembled-molecule	16	Chromosome	CM020080.1	<>	na	Primary Assembly	16327272	na	CYGOL	Mute swan	17	901313387	CM020080.1	4408043	3756881	3734273	4378838	46.02001409	chr16	micro
-SUPER_scf_17	assembled-molecule	17	Chromosome	CM020081.1	<>	na	Primary Assembly	15594031	na	CYGOL	Mute swan	18	917640659	CM020081.1	4207898	3534697	3549085	4227105	45.64649874	chr17	micro
+SUPER_scf_16	assembled-molecule	16	Chromosome	CM020080.1	<>	na	Primary Assembly	16327272	na	CYGOL	Mute swan	21	901313387	CM020080.1	4408043	3756881	3734273	4378838	46.02001409	chr16	micro
+SUPER_scf_17	assembled-molecule	17	Chromosome	CM020081.1	<>	na	Primary Assembly	15594031	na	CYGOL	Mute swan	17	917640659	CM020081.1	4207898	3534697	3549085	4227105	45.64649874	chr17	micro
 SUPER_scf_18	assembled-molecule	18	Chromosome	CM020082.1	<>	na	Primary Assembly	13182687	na	CYGOL	Mute swan	19	933234690	CM020082.1	3454508	3099927	3119950	3488085	47.25463382	chr18	micro
-SUPER_scf_19	assembled-molecule	19	Chromosome	CM020083.1	<>	na	Primary Assembly	12196948	na	CYGOL	Mute swan	20	946417377	CM020083.1	3131515	2931065	2967123	3167245	48.35790068	chr19	micro
-SUPER_scf_20	assembled-molecule	20	Chromosome	CM020084.1	<>	na	Primary Assembly	12179101	na	CYGOL	Mute swan	21	958614325	CM020084.1	3243790	2865753	2844041	3225517	46.8819004	chr20	micro
+SUPER_scf_19	assembled-molecule	19	Chromosome	CM020083.1	<>	na	Primary Assembly	12196948	na	CYGOL	Mute swan	18	946417377	CM020083.1	3131515	2931065	2967123	3167245	48.35790068	chr19	micro
+SUPER_scf_20	assembled-molecule	20	Chromosome	CM020084.1	<>	na	Primary Assembly	12179101	na	CYGOL	Mute swan	20	958614325	CM020084.1	3243790	2865753	2844041	3225517	46.8819004	chr20	micro
 SUPER_scf_23	assembled-molecule	21	Chromosome	CM020085.1	<>	na	Primary Assembly	9107981	na	CYGOL	Mute swan	22	970793426	CM020085.1	2306249	2109922	2109333	2296744	47.82516882	chr21	micro
-SUPER_scf_24	assembled-molecule	22	Chromosome	CM020086.1	<>	na	Primary Assembly	7827656	na	CYGOL	Mute swan	23	979901407	CM020086.1	1992022	1943600	1920753	1971281	49.36794616	chr22	micro
+SUPER_scf_24	assembled-molecule	22	Chromosome	CM020086.1	<>	na	Primary Assembly	7827656	na	CYGOL	Mute swan	25	979901407	CM020086.1	1992022	1943600	1920753	1971281	49.36794616	chr22	micro
 SUPER_scf_25	assembled-molecule	23	Chromosome	CM020087.1	<>	na	Primary Assembly	7743145	na	CYGOL	Mute swan	24	987729063	CM020087.1	1909654	1984161	1963038	1886292	50.9766897	chr23	micro
-SUPER_scf_26	assembled-molecule	24	Chromosome	CM020088.1	<>	na	Primary Assembly	7030754	na	CYGOL	Mute swan	25	995472208	CM020088.1	1680673	1821531	1843626	1684924	52.13035472	chr24	micro
-SUPER_scf_28	assembled-molecule	25	Chromosome	CM020089.1	<>	na	Primary Assembly	6682846	na	CYGOL	Mute swan	26	1002502962	CM020089.1	1618046	1747147	1704652	1575744	51.94120491	chr25	micro
-SUPER_scf_27	assembled-molecule	26	Chromosome	CM020090.1	<>	na	Primary Assembly	5979446	na	CYGOL	Mute swan	27	1009185808	CM020090.1	1371621	1544054	1532090	1370503	52.87044186	chr26	micro
-SUPER_scf_31	assembled-molecule	27	Chromosome	CM020091.1	<>	na	Primary Assembly	5774404	na	CYGOL	Mute swan	28	1015165254	CM020091.1	1466352	1410731	1409598	1469395	48.99742463	chr27	micro
-SUPER_scf_38	assembled-molecule	28	Chromosome	CM020092.1	<>	na	Primary Assembly	3067530	na	CYGOL	Mute swan	29	1020939658	CM020092.1	640253	896945	884994	632666	58.33132015	chr28	micro
+SUPER_scf_26	assembled-molecule	24	Chromosome	CM020088.1	<>	na	Primary Assembly	7030754	na	CYGOL	Mute swan	27	995472208	CM020088.1	1680673	1821531	1843626	1684924	52.13035472	chr24	micro
+SUPER_scf_28	assembled-molecule	25	Chromosome	CM020089.1	<>	na	Primary Assembly	6682846	na	CYGOL	Mute swan	28	1002502962	CM020089.1	1618046	1747147	1704652	1575744	51.94120491	chr25	micro
+SUPER_scf_27	assembled-molecule	26	Chromosome	CM020090.1	<>	na	Primary Assembly	5979446	na	CYGOL	Mute swan	29	1009185808	CM020090.1	1371621	1544054	1532090	1370503	52.87044186	chr26	micro
+SUPER_scf_31	assembled-molecule	27	Chromosome	CM020091.1	<>	na	Primary Assembly	5774404	na	CYGOL	Mute swan	23	1015165254	CM020091.1	1466352	1410731	1409598	1469395	48.99742463	chr27	micro
+SUPER_scf_38	assembled-molecule	28	Chromosome	CM020092.1	<>	na	Primary Assembly	3067530	na	CYGOL	Mute swan	26	1020939658	CM020092.1	640253	896945	884994	632666	58.33132015	chr28	micro
 SUPER_scf_42	assembled-molecule	29	Chromosome	CM020093.1	<>	na	Primary Assembly	2501788	na	CYGOL	Mute swan	30	1024007188	CM020093.1	525983	724909	726938	522058	58.07648183	chr29	micro
-SUPER_scf_60	assembled-molecule	Z	Chromosome	CM020094.1	<>	na	Primary Assembly	81035313	na	CYGOL	Mute swan	10	1026508976	CM020094.1	23413307	15707083	15662938	23315854	40.16690085	chrZ	macro
+SUPER_scf_60	assembled-molecule	Z	Chromosome	CM020094.1	<>	na	Primary Assembly	81035313	na	CYGOL	Mute swan	9	1026508976	CM020094.1	23413307	15707083	15662938	23315854	40.16690085	chrZ	macro
 SUPER_scf_80	assembled-molecule	W	Chromosome	CM020095.1	<>	na	Primary Assembly	4360214	na	CYGOL	Mute swan	31	1107544289	CM020095.1	1190695	950106	951690	1173789	44.57738358	chrW	macro
 ScVE01q_1090;HRSCAF=1250	assembled-molecule	1	Chromosome	CM019148.1	<>	na	Primary Assembly	375026955	na	NAJNA	Indian cobra	1	0	CM019148.1	109577482	72293840	72318572	109640566	39.74719764	chr1	macro
 ScVE01q_1317;HRSCAF=1506	assembled-molecule	2	Chromosome	CM019149.1	<>	na	Primary Assembly	309871788	na	NAJNA	Indian cobra	2	375026955	CM019149.1	88774050	59971990	59914666	88815365	40.30127721	chr2	macro
 ScVE01q_965;HRSCAF=1107	assembled-molecule	3	Chromosome	CM019150.1	<>	na	Primary Assembly	224088900	na	NAJNA	Indian cobra	3	684898743	CM019150.1	65757060	42813109	42771165	65687509	39.43451608	chr3	macro
-ScVE01q_3;HRSCAF=25	assembled-molecule	4	Chromosome	CM019151.1	<>	na	Primary Assembly	191024962	na	NAJNA	Indian cobra	4	908987643	CM019151.1	54681386	36213415	36207417	54699231	39.83512365	chr4	macro
+ScVE01q_3;HRSCAF=25	assembled-molecule	4	Chromosome	CM019151.1	<>	na	Primary Assembly	191024962	na	NAJNA	Indian cobra	6	908987643	CM019151.1	54681386	36213415	36207417	54699231	39.83512365	chr4	macro
 ScVE01q_1539;HRSCAF=1758	assembled-molecule	5	Chromosome	CM019152.1	<>	na	Primary Assembly	62775154	na	NAJNA	Indian cobra	5	1100012605	CM019152.1	18168936	11726830	11721741	18144915	39.23631308	chr5	macro
-ScVE01q_1725;HRSCAF=1971	assembled-molecule	6	Chromosome	CM019153.1	<>	na	Primary Assembly	54008553	na	NAJNA	Indian cobra	6	1162787759	CM019153.1	16105828	10461484	10459363	16119094	39.36502829	chr6	macro
+ScVE01q_1725;HRSCAF=1971	assembled-molecule	6	Chromosome	CM019153.1	<>	na	Primary Assembly	54008553	na	NAJNA	Indian cobra	4	1162787759	CM019153.1	16105828	10461484	10459363	16119094	39.36502829	chr6	macro
 ScVE01q_1377;HRSCAF=1575	assembled-molecule	7	Chromosome	CM019154.1	<>	na	Primary Assembly	53796468	na	NAJNA	Indian cobra	7	1216796312	CM019154.1	15523726	10347336	10359257	15533721	40.00188741	chr7	macro
-ScVE01q_1465;HRSCAF=1671	assembled-molecule	Z	Chromosome	CM019155.1	<>	na	Primary Assembly	154607413	na	NAJNA	Indian cobra	19	1270592780	CM019155.1	39868735	26648194	26620923	39834389	40.06032883	chrZ	macro
-ScVE01q_1043;HRSCAF=1199	assembled-molecule	MIC_1	Chromosome	CM019156.1	<>	na	Primary Assembly	32026552	na	NAJNA	Indian cobra	8	1425200193	CM019156.1	8808496	6564584	6575650	8782703	42.75828595	chrMIC_1	micro
-ScVE01q_1635;HRSCAF=1871	assembled-molecule	MIC_2	Chromosome	CM019159.1	<>	na	Primary Assembly	30264392	na	NAJNA	Indian cobra	9	1457226745	CM019159.1	8504289	5803281	5798099	8509995	40.54206116	chrMIC_2	micro
-ScVE01q_2;HRSCAF=16	assembled-molecule	MIC_3	Chromosome	CM019160.1	<>	na	Primary Assembly	29932115	na	NAJNA	Indian cobra	10	1487491137	CM019160.1	8096875	6292837	6288858	8096537	43.72423359	chrMIC_3	micro
-ScVE01q_533;HRSCAF=621	assembled-molecule	MIC_4	Chromosome	CM019161.1	<>	na	Primary Assembly	25974797	na	NAJNA	Indian cobra	11	1517423252	CM019161.1	7286056	5415787	5420812	7289352	42.64361725	chrMIC_4	micro
-ScVE01q_1130;HRSCAF=1298	assembled-molecule	MIC_5	Chromosome	CM019162.1	<>	na	Primary Assembly	25174854	na	NAJNA	Indian cobra	12	1543398049	CM019162.1	6766480	5072833	5095918	6799620	42.84312128	chrMIC_5	micro
-ScVE01q_807;HRSCAF=927	assembled-molecule	MIC_6	Chromosome	CM019163.1	<>	na	Primary Assembly	23367679	na	NAJNA	Indian cobra	13	1568572903	CM019163.1	6473023	4930350	4909478	6442287	43.24222512	chrMIC_6	micro
-ScVE01q_1131;HRSCAF=1299	assembled-molecule	MIC_7	Chromosome	CM019164.1	<>	na	Primary Assembly	20042958	na	NAJNA	Indian cobra	14	1591940582	CM019164.1	5399706	4331092	4323565	5433799	44.40981659	chrMIC_7	micro
-ScVE01q_768;HRSCAF=884	assembled-molecule	MIC_8	Chromosome	CM019165.1	<>	na	Primary Assembly	17750283	na	NAJNA	Indian cobra	15	1611983540	CM019165.1	4443438	3687862	3667943	4428264	45.32923634	chrMIC_8	micro
-ScVE01q_6;HRSCAF=32	assembled-molecule	MIC_9	Chromosome	CM019166.1	<>	na	Primary Assembly	15339066	na	NAJNA	Indian cobra	16	1629733823	CM019166.1	2775388	2404554	2420303	2760935	46.56667484	chrMIC_9	micro
-ScVE01q_1;HRSCAF=4	assembled-molecule	MIC_10	Chromosome	CM019157.1	<>	na	Primary Assembly	11847348	na	NAJNA	Indian cobra	17	1645072889	CM019157.1	2857956	2453087	2443631	2871851	46.08014379	chrMIC_10	micro
-ScVE01q_221;HRSCAF=275	assembled-molecule	MIC_11	Chromosome	CM019158.1	<>	na	Primary Assembly	10772589	na	NAJNA	Indian cobra	18	1656920237	CM019158.1	2072451	1814827	1826976	2080067	46.72380057	chrMIC_11	micro
+ScVE01q_1465;HRSCAF=1671	assembled-molecule	Z	Chromosome	CM019155.1	<>	na	Primary Assembly	154607413	na	NAJNA	Indian cobra	8	1270592780	CM019155.1	39868735	26648194	26620923	39834389	40.06032883	chrZ	macro
+ScVE01q_1043;HRSCAF=1199	assembled-molecule	MIC_1	Chromosome	CM019156.1	<>	na	Primary Assembly	32026552	na	NAJNA	Indian cobra	9	1425200193	CM019156.1	8808496	6564584	6575650	8782703	42.75828595	chrMIC_1	micro
+ScVE01q_1635;HRSCAF=1871	assembled-molecule	MIC_2	Chromosome	CM019159.1	<>	na	Primary Assembly	30264392	na	NAJNA	Indian cobra	10	1457226745	CM019159.1	8504289	5803281	5798099	8509995	40.54206116	chrMIC_2	micro
+ScVE01q_2;HRSCAF=16	assembled-molecule	MIC_3	Chromosome	CM019160.1	<>	na	Primary Assembly	29932115	na	NAJNA	Indian cobra	11	1487491137	CM019160.1	8096875	6292837	6288858	8096537	43.72423359	chrMIC_3	micro
+ScVE01q_533;HRSCAF=621	assembled-molecule	MIC_4	Chromosome	CM019161.1	<>	na	Primary Assembly	25974797	na	NAJNA	Indian cobra	12	1517423252	CM019161.1	7286056	5415787	5420812	7289352	42.64361725	chrMIC_4	micro
+ScVE01q_1130;HRSCAF=1298	assembled-molecule	MIC_5	Chromosome	CM019162.1	<>	na	Primary Assembly	25174854	na	NAJNA	Indian cobra	13	1543398049	CM019162.1	6766480	5072833	5095918	6799620	42.84312128	chrMIC_5	micro
+ScVE01q_807;HRSCAF=927	assembled-molecule	MIC_6	Chromosome	CM019163.1	<>	na	Primary Assembly	23367679	na	NAJNA	Indian cobra	14	1568572903	CM019163.1	6473023	4930350	4909478	6442287	43.24222512	chrMIC_6	micro
+ScVE01q_1131;HRSCAF=1299	assembled-molecule	MIC_7	Chromosome	CM019164.1	<>	na	Primary Assembly	20042958	na	NAJNA	Indian cobra	15	1591940582	CM019164.1	5399706	4331092	4323565	5433799	44.40981659	chrMIC_7	micro
+ScVE01q_768;HRSCAF=884	assembled-molecule	MIC_8	Chromosome	CM019165.1	<>	na	Primary Assembly	17750283	na	NAJNA	Indian cobra	16	1611983540	CM019165.1	4443438	3687862	3667943	4428264	45.32923634	chrMIC_8	micro
+ScVE01q_6;HRSCAF=32	assembled-molecule	MIC_9	Chromosome	CM019166.1	<>	na	Primary Assembly	15339066	na	NAJNA	Indian cobra	17	1629733823	CM019166.1	2775388	2404554	2420303	2760935	46.56667484	chrMIC_9	micro
+ScVE01q_1;HRSCAF=4	assembled-molecule	MIC_10	Chromosome	CM019157.1	<>	na	Primary Assembly	11847348	na	NAJNA	Indian cobra	18	1645072889	CM019157.1	2857956	2453087	2443631	2871851	46.08014379	chrMIC_10	micro
+ScVE01q_221;HRSCAF=275	assembled-molecule	MIC_11	Chromosome	CM019158.1	<>	na	Primary Assembly	10772589	na	NAJNA	Indian cobra	19	1656920237	CM019158.1	2072451	1814827	1826976	2080067	46.72380057	chrMIC_11	micro
 Super_Scaffold_1	assembled-molecule	1	Chromosome	CM014200.1	=	NC_041728.1	Primary Assembly	186506016	na	ORNAN	Platypus	1	0	NC_041728.1	51109932	41631458	41828651	51174841	44.93265607	chr1	macro
 Super_Scaffold_2	assembled-molecule	2	Chromosome	CM014201.1	=	NC_041729.1	Primary Assembly	171719663	na	ORNAN	Platypus	2	186506016	NC_041729.1	46936447	38831971	38809046	46833642	45.295208	chr2	macro
 Super_Scaffold_3	assembled-molecule	3	Chromosome	CM014202.1	=	NC_041730.1	Primary Assembly	141987082	na	ORNAN	Platypus	3	358225679	NC_041730.1	38436810	32445921	32342915	38327403	45.77000387	chr3	macro
@@ -179,68 +179,68 @@ Super_Scaffold_9	assembled-molecule	9	Chromosome	CM014208.1	=	NC_041736.1	Primar
 Super_Scaffold_10	assembled-molecule	10	Chromosome	CM014209.1	=	NC_041737.1	Primary Assembly	59444696	na	ORNAN	Platypus	10	1014242752	NC_041737.1	16011678	13595381	13608307	16012876	45.93026415	chr10	macro
 Super_Scaffold_11	assembled-molecule	11	Chromosome	CM014210.1	=	NC_041738.1	Primary Assembly	63506031	na	ORNAN	Platypus	11	1073687448	NC_041738.1	16367347	15450615	15394084	16292970	48.57049245	chr11	macro
 Super_Scaffold_12	assembled-molecule	12	Chromosome	CM014211.1	=	NC_041739.1	Primary Assembly	60456049	na	ORNAN	Platypus	12	1137193479	NC_041739.1	16306134	13388611	13399050	16317574	45.08844258	chr12	macro
-Super_Scaffold_13	assembled-molecule	13	Chromosome	CM014212.1	=	NC_041740.1	Primary Assembly	42294642	na	ORNAN	Platypus	13	1197649528	NC_041740.1	11046976	9856100	9817005	11002835	47.15179783	chr13	micro
+Super_Scaffold_13	assembled-molecule	13	Chromosome	CM014212.1	=	NC_041740.1	Primary Assembly	42294642	na	ORNAN	Platypus	13	1197649528	NC_041740.1	11046976	9856100	9817005	11002835	47.15179783	chr13	macro
 Super_Scaffold_14	assembled-molecule	14	Chromosome	CM014213.1	=	NC_041741.1	Primary Assembly	52889406	na	ORNAN	Platypus	14	1239944170	NC_041741.1	14365877	12049780	12095345	14378006	45.65244445	chr14	macro
-Super_Scaffold_15	assembled-molecule	15	Chromosome	CM014214.1	=	NC_041742.1	Primary Assembly	26375019	na	ORNAN	Platypus	15	1292833576	NC_041742.1	6920487	6355702	6291667	6806072	47.95405902	chr15	micro
-Super_Scaffold_16	assembled-molecule	16	Chromosome	CM014215.1	=	NC_041743.1	Primary Assembly	46397275	na	ORNAN	Platypus	16	1319208595	NC_041743.1	12168035	10995471	11006635	12226042	47.42223299	chr16	micro
-Super_Scaffold_17	assembled-molecule	17	Chromosome	CM014216.1	=	NC_041744.1	Primary Assembly	45536670	na	ORNAN	Platypus	17	1365605870	NC_041744.1	11909122	10432369	10457850	11864406	46.77220431	chr17	micro
-Super_Scaffold_18	assembled-molecule	18	Chromosome	CM014217.1	=	NC_041745.1	Primary Assembly	44684501	na	ORNAN	Platypus	18	1411142540	NC_041745.1	11597505	10261194	10212467	11599342	46.88212237	chr18	micro
-Super_Scaffold_19	assembled-molecule	19	Chromosome	CM014218.1	=	NC_041746.1	Primary Assembly	35120541	na	ORNAN	Platypus	19	1455827041	NC_041746.1	9457843	8014974	7999985	9444169	45.86583126	chr19	micro
-Super_Scaffold_20	assembled-molecule	20	Chromosome	CM014219.1	=	NC_041747.1	Primary Assembly	30535534	na	ORNAN	Platypus	20	1490947582	NC_041747.1	7744775	6758348	6761526	7719373	46.64595549	chr20	micro
-Super_Scaffold_21	assembled-molecule	21	Chromosome	CM014220.1	=	NC_041748.1	Primary Assembly	24514859	na	ORNAN	Platypus	21	1521483116	NC_041748.1	5959958	6272350	6314876	5957562	51.36648223	chr21	micro
+Super_Scaffold_15	assembled-molecule	15	Chromosome	CM014214.1	=	NC_041742.1	Primary Assembly	26375019	na	ORNAN	Platypus	15	1292833576	NC_041742.1	6920487	6355702	6291667	6806072	47.95405902	chr15	macro
+Super_Scaffold_16	assembled-molecule	16	Chromosome	CM014215.1	=	NC_041743.1	Primary Assembly	46397275	na	ORNAN	Platypus	16	1319208595	NC_041743.1	12168035	10995471	11006635	12226042	47.42223299	chr16	macro
+Super_Scaffold_17	assembled-molecule	17	Chromosome	CM014216.1	=	NC_041744.1	Primary Assembly	45536670	na	ORNAN	Platypus	17	1365605870	NC_041744.1	11909122	10432369	10457850	11864406	46.77220431	chr17	macro
+Super_Scaffold_18	assembled-molecule	18	Chromosome	CM014217.1	=	NC_041745.1	Primary Assembly	44684501	na	ORNAN	Platypus	18	1411142540	NC_041745.1	11597505	10261194	10212467	11599342	46.88212237	chr18	macro
+Super_Scaffold_19	assembled-molecule	19	Chromosome	CM014218.1	=	NC_041746.1	Primary Assembly	35120541	na	ORNAN	Platypus	19	1455827041	NC_041746.1	9457843	8014974	7999985	9444169	45.86583126	chr19	macro
+Super_Scaffold_20	assembled-molecule	20	Chromosome	CM014219.1	=	NC_041747.1	Primary Assembly	30535534	na	ORNAN	Platypus	20	1490947582	NC_041747.1	7744775	6758348	6761526	7719373	46.64595549	chr20	macro
+Super_Scaffold_21	assembled-molecule	21	Chromosome	CM014220.1	=	NC_041748.1	Primary Assembly	24514859	na	ORNAN	Platypus	21	1521483116	NC_041748.1	5959958	6272350	6314876	5957562	51.36648223	chr21	macro
 Super_Scaffold_X1	assembled-molecule	X1	Chromosome	CM014221.1	=	NC_041749.1	Primary Assembly	125040914	na	ORNAN	Platypus	22	1545997975	NC_041749.1	33811908	28173333	28182481	33790389	45.46359536	chrX1	macro
-Super_Scaffold_X2	assembled-molecule	X2	Chromosome	CM014222.1	=	NC_041750.1	Primary Assembly	29662106	na	ORNAN	Platypus	23	1671038889	NC_041750.1	7598778	7258786	7247465	7555794	48.90710888	chrX2	micro
-Super_Scaffold_X3	assembled-molecule	X3	Chromosome	CM014223.1	=	NC_041751.1	Primary Assembly	33863336	na	ORNAN	Platypus	24	1700700995	NC_041751.1	9291650	7514274	7554154	9339527	44.7139603	chrX3	micro
-Super_Scaffold_X4	assembled-molecule	X4	Chromosome	CM014224.1	=	NC_041752.1	Primary Assembly	8639456	na	ORNAN	Platypus	25	1734564331	NC_041752.1	1857509	2122165	2120343	1845273	53.39651542	chrX4	micro
+Super_Scaffold_X2	assembled-molecule	X2	Chromosome	CM014222.1	=	NC_041750.1	Primary Assembly	29662106	na	ORNAN	Platypus	23	1671038889	NC_041750.1	7598778	7258786	7247465	7555794	48.90710888	chrX2	macro
+Super_Scaffold_X3	assembled-molecule	X3	Chromosome	CM014223.1	=	NC_041751.1	Primary Assembly	33863336	na	ORNAN	Platypus	24	1700700995	NC_041751.1	9291650	7514274	7554154	9339527	44.7139603	chrX3	macro
+Super_Scaffold_X4	assembled-molecule	X4	Chromosome	CM014224.1	=	NC_041752.1	Primary Assembly	8639456	na	ORNAN	Platypus	25	1734564331	NC_041752.1	1857509	2122165	2120343	1845273	53.39651542	chrX4	macro
 Super_Scaffold_X5	assembled-molecule	X5	Chromosome	CM014225.1	=	NC_041753.1	Primary Assembly	70139320	na	ORNAN	Platypus	26	1743203787	NC_041753.1	18566942	15865201	15899173	18569491	46.10159936	chrX5	macro
 scaffold_1	assembled-molecule	1	Chromosome	CM017296.1	=	NC_044322.1	Primary Assembly	370335144	na	GOPEV	Goodes thornscrub tortoise	1	0	NC_044322.1	105073238	79409744	79275768	104843468	43.05061235	chr1	macro
 scaffold_3	assembled-molecule	2	Chromosome	CM017297.1	=	NC_044323.1	Primary Assembly	299447175	na	GOPEV	Goodes thornscrub tortoise	2	370335144	NC_044323.1	84221448	63386434	63443818	84300391	42.94205318	chr2	macro
 scaffold_2	assembled-molecule	3	Chromosome	CM017298.1	=	NC_044324.1	Primary Assembly	225143049	na	GOPEV	Goodes thornscrub tortoise	3	669782319	NC_044324.1	63751906	48587165	48634811	63787482	43.25564424	chr3	macro
 scaffold_4	assembled-molecule	4	Chromosome	CM017299.1	=	NC_044325.1	Primary Assembly	155918640	na	GOPEV	Goodes thornscrub tortoise	5	894925368	NC_044325.1	43349757	34424297	34419651	43301477	44.27400715	chr4	macro
 scaffold_4_arrow_ctg1	assembled-molecule	5	Chromosome	CM017300.1	=	NC_044326.1	Primary Assembly	147425149	na	GOPEV	Goodes thornscrub tortoise	4	1050844008	NC_044326.1	42084620	30859951	30842517	41991223	42.32623329	chr5	macro
-scaffold_5_arrow_ctg1	assembled-molecule	6	Chromosome	CM017301.1	=	NC_044327.1	Primary Assembly	137797752	na	GOPEV	Goodes thornscrub tortoise	6	1198269157	NC_044327.1	39499547	29304615	29260316	39447749	42.58888993	chr6	macro
-scaffold_6_arrow_ctg1	assembled-molecule	7	Chromosome	CM017302.1	=	NC_044328.1	Primary Assembly	131611970	na	GOPEV	Goodes thornscrub tortoise	7	1336066909	NC_044328.1	36854748	28818292	28918574	36899405	43.90936084	chr7	macro
+scaffold_5_arrow_ctg1	assembled-molecule	6	Chromosome	CM017301.1	=	NC_044327.1	Primary Assembly	137797752	na	GOPEV	Goodes thornscrub tortoise	9	1198269157	NC_044327.1	39499547	29304615	29260316	39447749	42.58888993	chr6	macro
+scaffold_6_arrow_ctg1	assembled-molecule	7	Chromosome	CM017302.1	=	NC_044328.1	Primary Assembly	131611970	na	GOPEV	Goodes thornscrub tortoise	6	1336066909	NC_044328.1	36854748	28818292	28918574	36899405	43.90936084	chr7	macro
 scaffold_9_arrow_ctg1	assembled-molecule	8	Chromosome	CM017303.1	=	NC_044329.1	Primary Assembly	113972862	na	GOPEV	Goodes thornscrub tortoise	8	1467678879	NC_044329.1	31753048	24827876	24920279	31842219	43.89152376	chr8	macro
-scaffold_10_arrow_ctg1	assembled-molecule	9	Chromosome	CM017304.1	=	NC_044330.1	Primary Assembly	108927930	na	GOPEV	Goodes thornscrub tortoise	9	1581651741	NC_044330.1	30239573	23632333	23635773	30241910	43.86847916	chr9	macro
+scaffold_10_arrow_ctg1	assembled-molecule	9	Chromosome	CM017304.1	=	NC_044330.1	Primary Assembly	108927930	na	GOPEV	Goodes thornscrub tortoise	11	1581651741	NC_044330.1	30239573	23632333	23635773	30241910	43.86847916	chr9	macro
 scaffold_5	assembled-molecule	10	Chromosome	CM017305.1	=	NC_044331.1	Primary Assembly	86493507	na	GOPEV	Goodes thornscrub tortoise	10	1690579671	NC_044331.1	23275839	18676416	18662668	23285302	44.5041524	chr10	macro
-scaffold_12_arrow_ctg1	assembled-molecule	11	Chromosome	CM017306.1	=	NC_044332.1	Primary Assembly	81157593	na	GOPEV	Goodes thornscrub tortoise	11	1777073178	NC_044332.1	22889612	17356200	17334546	22928356	43.08943005	chr11	macro
-scaffold_14_arrow_ctg1	assembled-molecule	12	Chromosome	CM017307.1	=	NC_044333.1	Primary Assembly	44291995	na	GOPEV	Goodes thornscrub tortoise	12	1858230771	NC_044333.1	12329354	9699088	9746025	12467452	43.95178473	chr12	macro
-scaffold_16_arrow_ctg1	assembled-molecule	13	Chromosome	CM017308.1	=	NC_044334.1	Primary Assembly	34052379	na	GOPEV	Goodes thornscrub tortoise	13	1902522766	NC_044334.1	9215487	7762986	7741433	9208184	45.69788338	chr13	micro
+scaffold_12_arrow_ctg1	assembled-molecule	11	Chromosome	CM017306.1	=	NC_044332.1	Primary Assembly	81157593	na	GOPEV	Goodes thornscrub tortoise	7	1777073178	NC_044332.1	22889612	17356200	17334546	22928356	43.08943005	chr11	macro
+scaffold_14_arrow_ctg1	assembled-molecule	12	Chromosome	CM017307.1	=	NC_044333.1	Primary Assembly	44291995	na	GOPEV	Goodes thornscrub tortoise	12	1858230771	NC_044333.1	12329354	9699088	9746025	12467452	43.95178473	chr12	micro
+scaffold_16_arrow_ctg1	assembled-molecule	13	Chromosome	CM017308.1	=	NC_044334.1	Primary Assembly	34052379	na	GOPEV	Goodes thornscrub tortoise	16	1902522766	NC_044334.1	9215487	7762986	7741433	9208184	45.69788338	chr13	micro
 scaffold_17_arrow_ctg1	assembled-molecule	14	Chromosome	CM017309.1	=	NC_044335.1	Primary Assembly	34023795	na	GOPEV	Goodes thornscrub tortoise	14	1936575145	NC_044335.1	9305380	7724556	7726909	9266825	45.41386923	chr14	micro
-scaffold_19_arrow_ctg1	assembled-molecule	15	Chromosome	CM017310.1	=	NC_044336.1	Primary Assembly	30016314	na	GOPEV	Goodes thornscrub tortoise	15	1970598940	NC_044336.1	8011231	6784953	6802647	8021025	45.87328176	chr15	micro
-scaffold_21_arrow_ctg1	assembled-molecule	16	Chromosome	CM017311.1	=	NC_044337.1	Primary Assembly	26755340	na	GOPEV	Goodes thornscrub tortoise	16	2000615254	NC_044337.1	7121803	6196475	6222768	7213683	46.41887047	chr16	micro
-scaffold_22_arrow_ctg1	assembled-molecule	17	Chromosome	CM017312.1	=	NC_044338.1	Primary Assembly	24966275	na	GOPEV	Goodes thornscrub tortoise	17	2027370594	NC_044338.1	6792294	5736063	5675937	6761883	45.70984176	chr17	micro
-scaffold_23_arrow_ctg1	assembled-molecule	18	Chromosome	CM017313.1	=	NC_044339.1	Primary Assembly	23166772	na	GOPEV	Goodes thornscrub tortoise	18	2052336869	NC_044339.1	6143683	5418847	5450681	6153263	46.91921611	chr18	micro
-scaffold_24_arrow_ctg1	assembled-molecule	19	Chromosome	CM017314.1	=	NC_044340.1	Primary Assembly	22456854	na	GOPEV	Goodes thornscrub tortoise	19	2075503641	NC_044340.1	5787653	5039012	4976023	5731030	46.50861964	chr19	micro
+scaffold_19_arrow_ctg1	assembled-molecule	15	Chromosome	CM017310.1	=	NC_044336.1	Primary Assembly	30016314	na	GOPEV	Goodes thornscrub tortoise	13	1970598940	NC_044336.1	8011231	6784953	6802647	8021025	45.87328176	chr15	micro
+scaffold_21_arrow_ctg1	assembled-molecule	16	Chromosome	CM017311.1	=	NC_044337.1	Primary Assembly	26755340	na	GOPEV	Goodes thornscrub tortoise	17	2000615254	NC_044337.1	7121803	6196475	6222768	7213683	46.41887047	chr16	micro
+scaffold_22_arrow_ctg1	assembled-molecule	17	Chromosome	CM017312.1	=	NC_044338.1	Primary Assembly	24966275	na	GOPEV	Goodes thornscrub tortoise	18	2027370594	NC_044338.1	6792294	5736063	5675937	6761883	45.70984176	chr17	micro
+scaffold_23_arrow_ctg1	assembled-molecule	18	Chromosome	CM017313.1	=	NC_044339.1	Primary Assembly	23166772	na	GOPEV	Goodes thornscrub tortoise	19	2052336869	NC_044339.1	6143683	5418847	5450681	6153263	46.91921611	chr18	micro
+scaffold_24_arrow_ctg1	assembled-molecule	19	Chromosome	CM017314.1	=	NC_044340.1	Primary Assembly	22456854	na	GOPEV	Goodes thornscrub tortoise	21	2075503641	NC_044340.1	5787653	5039012	4976023	5731030	46.50861964	chr19	micro
 scaffold_25_arrow_ctg1	assembled-molecule	20	Chromosome	CM017315.1	=	NC_044341.1	Primary Assembly	19814809	na	GOPEV	Goodes thornscrub tortoise	20	2097960495	NC_044341.1	5100369	4756172	4758787	5150957	48.13731564	chr20	micro
-scaffold_26_arrow_ctg1	assembled-molecule	21	Chromosome	CM017316.1	=	NC_044342.1	Primary Assembly	18349496	na	GOPEV	Goodes thornscrub tortoise	21	2117775304	NC_044342.1	3403614	2928196	2939840	3416690	46.24746815	chr21	micro
-scaffold_27_arrow_ctg1	assembled-molecule	22	Chromosome	CM017317.1	=	NC_044343.1	Primary Assembly	17272090	na	GOPEV	Goodes thornscrub tortoise	22	2136124800	NC_044343.1	4266295	4337515	4302263	4267584	50.30831814	chr22	micro
-scaffold_28_arrow_ctg1	assembled-molecule	23	Chromosome	CM017318.1	=	NC_044344.1	Primary Assembly	15774734	na	GOPEV	Goodes thornscrub tortoise	23	2153396890	NC_044344.1	3958050	3949897	3938268	3928519	50.00505872	chr23	micro
-scaffold_29_arrow_ctg1	assembled-molecule	24	Chromosome	CM017319.1	=	NC_044345.1	Primary Assembly	12531862	na	GOPEV	Goodes thornscrub tortoise	24	2169171624	NC_044345.1	3040200	3232724	3222510	3036316	51.51103397	chr24	micro
+scaffold_26_arrow_ctg1	assembled-molecule	21	Chromosome	CM017316.1	=	NC_044342.1	Primary Assembly	18349496	na	GOPEV	Goodes thornscrub tortoise	15	2117775304	NC_044342.1	3403614	2928196	2939840	3416690	46.24746815	chr21	micro
+scaffold_27_arrow_ctg1	assembled-molecule	22	Chromosome	CM017317.1	=	NC_044343.1	Primary Assembly	17272090	na	GOPEV	Goodes thornscrub tortoise	23	2136124800	NC_044343.1	4266295	4337515	4302263	4267584	50.30831814	chr22	micro
+scaffold_28_arrow_ctg1	assembled-molecule	23	Chromosome	CM017318.1	=	NC_044344.1	Primary Assembly	15774734	na	GOPEV	Goodes thornscrub tortoise	24	2153396890	NC_044344.1	3958050	3949897	3938268	3928519	50.00505872	chr23	micro
+scaffold_29_arrow_ctg1	assembled-molecule	24	Chromosome	CM017319.1	=	NC_044345.1	Primary Assembly	12531862	na	GOPEV	Goodes thornscrub tortoise	22	2169171624	NC_044345.1	3040200	3232724	3222510	3036316	51.51103397	chr24	micro
 SUPER_1	assembled-molecule	1	Chromosome	CM019935.1	<>	na	Primary Assembly	354662658	na	DERCO	Leatherback sea turtle	1	0	CM019935.1	101891000	75049734	74880380	101632853	42.41856875	chr1	macro
 SUPER_2	assembled-molecule	2	Chromosome	CM019936.2	<>	na	Primary Assembly	272817678	na	DERCO	Leatherback sea turtle	2	354662658	CM019936.2	78535331	57245876	57241423	78566582	42.15458271	chr2	macro
 SUPER_3	assembled-molecule	3	Chromosome	CM019937.1	<>	na	Primary Assembly	212050211	na	DERCO	Leatherback sea turtle	3	627480336	CM019937.1	61150207	44784682	44779046	61223165	42.25957985	chr3	macro
 SUPER_4	assembled-molecule	4	Chromosome	CM019938.1	<>	na	Primary Assembly	146539771	na	DERCO	Leatherback sea turtle	4	839530547	CM019938.1	42276291	30591101	30580767	42369698	41.95087574	chr4	macro
-SUPER_5	assembled-molecule	5	Chromosome	CM019939.1	<>	na	Primary Assembly	137794460	na	DERCO	Leatherback sea turtle	6	986070318	CM019939.1	39882348	28939474	28975224	39887597	42.06329532	chr5	macro
+SUPER_5	assembled-molecule	5	Chromosome	CM019939.1	<>	na	Primary Assembly	137794460	na	DERCO	Leatherback sea turtle	9	986070318	CM019939.1	39882348	28939474	28975224	39887597	42.06329532	chr5	macro
 SUPER_6	assembled-molecule	6	Chromosome	CM019940.1	<>	na	Primary Assembly	131086080	na	DERCO	Leatherback sea turtle	5	1123864778	CM019940.1	37136142	28241792	28275007	37197085	43.19204262	chr6	macro
-SUPER_7	assembled-molecule	7	Chromosome	CM019941.1	<>	na	Primary Assembly	127676845	na	DERCO	Leatherback sea turtle	7	1254950858	CM019941.1	36206034	27531871	27456545	36169337	43.17429412	chr7	macro
+SUPER_7	assembled-molecule	7	Chromosome	CM019941.1	<>	na	Primary Assembly	127676845	na	DERCO	Leatherback sea turtle	6	1254950858	CM019941.1	36206034	27531871	27456545	36169337	43.17429412	chr7	macro
 SUPER_8	assembled-molecule	8	Chromosome	CM019942.1	<>	na	Primary Assembly	109335348	na	DERCO	Leatherback sea turtle	8	1382627703	CM019942.1	31018627	23528422	23616510	31109797	43.14403229	chr8	macro
-SUPER_9	assembled-molecule	9	Chromosome	CM019943.1	<>	na	Primary Assembly	105199287	na	DERCO	Leatherback sea turtle	9	1491963051	CM019943.1	29786594	22621073	22592644	29814627	43.13671111	chr9	macro
+SUPER_9	assembled-molecule	9	Chromosome	CM019943.1	<>	na	Primary Assembly	105199287	na	DERCO	Leatherback sea turtle	11	1491963051	CM019943.1	29786594	22621073	22592644	29814627	43.13671111	chr9	macro
 SUPER_10	assembled-molecule	10	Chromosome	CM019944.1	<>	na	Primary Assembly	86542267	na	DERCO	Leatherback sea turtle	10	1597162338	CM019944.1	24229313	18940806	18944410	24243230	43.87007773	chr10	macro
-SUPER_11	assembled-molecule	11	Chromosome	CM019945.1	<>	na	Primary Assembly	79983232	na	DERCO	Leatherback sea turtle	11	1683704605	CM019945.1	22992939	16876009	16894418	22945957	42.36697256	chr11	macro
-SUPER_12	assembled-molecule	12	Chromosome	CM019946.1	<>	na	Primary Assembly	43630627	na	DERCO	Leatherback sea turtle	12	1763687837	CM019946.1	12300264	9419074	9456250	12400727	43.315558	chr12	macro
-SUPER_13	assembled-molecule	13	Chromosome	CM019947.1	<>	na	Primary Assembly	41066444	na	DERCO	Leatherback sea turtle	13	1807318464	CM019947.1	11229384	9281114	9289860	11217234	45.27563198	chr13	micro
-SUPER_14	assembled-molecule	14	Chromosome	CM019948.1	<>	na	Primary Assembly	40016649	na	DERCO	Leatherback sea turtle	14	1848384908	CM019948.1	10618854	9283209	9291321	10612747	46.66248523	chr14	micro
+SUPER_11	assembled-molecule	11	Chromosome	CM019945.1	<>	na	Primary Assembly	79983232	na	DERCO	Leatherback sea turtle	7	1683704605	CM019945.1	22992939	16876009	16894418	22945957	42.36697256	chr11	macro
+SUPER_12	assembled-molecule	12	Chromosome	CM019946.1	<>	na	Primary Assembly	43630627	na	DERCO	Leatherback sea turtle	12	1763687837	CM019946.1	12300264	9419074	9456250	12400727	43.315558	chr12	micro
+SUPER_13	assembled-molecule	13	Chromosome	CM019947.1	<>	na	Primary Assembly	41066444	na	DERCO	Leatherback sea turtle	14	1807318464	CM019947.1	11229384	9281114	9289860	11217234	45.27563198	chr13	micro
+SUPER_14	assembled-molecule	14	Chromosome	CM019948.1	<>	na	Primary Assembly	40016649	na	DERCO	Leatherback sea turtle	13	1848384908	CM019948.1	10618854	9283209	9291321	10612747	46.66248523	chr14	micro
 SUPER_15	assembled-molecule	15	Chromosome	CM019949.1	<>	na	Primary Assembly	33196092	na	DERCO	Leatherback sea turtle	15	1888401557	CM019949.1	9179451	7418361	7424213	9173867	44.71208064	chr15	micro
 SUPER_16	assembled-molecule	16	Chromosome	CM019950.1	<>	na	Primary Assembly	26398386	na	DERCO	Leatherback sea turtle	16	1921597649	CM019950.1	7121098	5970783	6026577	7200202	45.58499559	chr16	micro
 SUPER_17	assembled-molecule	17	Chromosome	CM019951.1	<>	na	Primary Assembly	25425890	na	DERCO	Leatherback sea turtle	17	1947996035	CM019951.1	7024710	5720980	5681595	6998305	44.84684525	chr17	micro
 SUPER_18	assembled-molecule	18	Chromosome	CM019952.1	<>	na	Primary Assembly	23663727	na	DERCO	Leatherback sea turtle	18	1973421925	CM019952.1	6370125	5450967	5470214	6371821	46.15273797	chr18	micro
 SUPER_19	assembled-molecule	19	Chromosome	CM019953.2	<>	na	Primary Assembly	20022023	na	DERCO	Leatherback sea turtle	19	1997085652	CM019953.2	5245618	4727922	4722787	5284875	47.29800039	chr19	micro
 SUPER_20	assembled-molecule	20	Chromosome	CM019954.2	<>	na	Primary Assembly	19364816	na	DERCO	Leatherback sea turtle	20	2017107675	CM019954.2	5231134	4485817	4432467	5176450	46.14687423	chr20	micro
-SUPER_21	assembled-molecule	21	Chromosome	CM019955.2	<>	na	Primary Assembly	19206221	na	DERCO	Leatherback sea turtle	21	2036472491	CM019955.2	4587099	4999258	4999512	4579073	52.17219024	chr21	micro
-SUPER_22	assembled-molecule	22	Chromosome	CM019956.2	<>	na	Primary Assembly	18857141	na	DERCO	Leatherback sea turtle	22	2055678712	CM019956.2	5012132	4421657	4433485	4989367	46.96033615	chr22	micro
-SUPER_23	assembled-molecule	23	Chromosome	CM019957.1	<>	na	Primary Assembly	17225972	na	DERCO	Leatherback sea turtle	23	2074535853	CM019957.1	4005720	4587704	4614523	4016862	53.42426148	chr23	micro
-SUPER_24	assembled-molecule	24	Chromosome	CM019958.1	<>	na	Primary Assembly	16948695	na	DERCO	Leatherback sea turtle	24	2091761825	CM019958.1	4063125	4329080	4339764	4041203	51.68279441	chr24	micro
+SUPER_21	assembled-molecule	21	Chromosome	CM019955.2	<>	na	Primary Assembly	19206221	na	DERCO	Leatherback sea turtle	23	2036472491	CM019955.2	4587099	4999258	4999512	4579073	52.17219024	chr21	micro
+SUPER_22	assembled-molecule	22	Chromosome	CM019956.2	<>	na	Primary Assembly	18857141	na	DERCO	Leatherback sea turtle	24	2055678712	CM019956.2	5012132	4421657	4433485	4989367	46.96033615	chr22	micro
+SUPER_23	assembled-molecule	23	Chromosome	CM019957.1	<>	na	Primary Assembly	17225972	na	DERCO	Leatherback sea turtle	22	2074535853	CM019957.1	4005720	4587704	4614523	4016862	53.42426148	chr23	micro
+SUPER_24	assembled-molecule	24	Chromosome	CM019958.1	<>	na	Primary Assembly	16948695	na	DERCO	Leatherback sea turtle	21	2091761825	CM019958.1	4063125	4329080	4339764	4041203	51.68279441	chr24	micro
 SUPER_25	assembled-molecule	25	Chromosome	CM019959.1	<>	na	Primary Assembly	16477667	na	DERCO	Leatherback sea turtle	25	2108710520	CM019959.1	4189993	4046337	4051378	4189359	49.14536671	chr25	micro
 SUPER_26	assembled-molecule	26	Chromosome	CM019960.1	<>	na	Primary Assembly	16471034	na	DERCO	Leatherback sea turtle	26	2125188187	CM019960.1	4376977	3808605	3810721	4372848	46.54686123	chr26	micro
 SUPER_27	assembled-molecule	27	Chromosome	CM019961.2	<>	na	Primary Assembly	16292121	na	DERCO	Leatherback sea turtle	27	2141659221	CM019961.2	4141105	3974595	4003069	4172852	48.96789583	chr27	micro
@@ -250,15 +250,15 @@ SUPER_2	assembled-molecule	2	Chromosome	CM026899.1	=	NC_051242.1	Primary Assembl
 SUPER_3	assembled-molecule	3	Chromosome	CM026900.1	=	NC_051243.1	Primary Assembly	204120564	na	CHEMY	Green sea turtle	3	610779368	CM026900.1	58459771	43592310	43537209	58528040	42.6859978	chr3	macro
 SUPER_4	assembled-molecule	4	Chromosome	CM026901.1	=	NC_051244.1	Primary Assembly	142324156	na	CHEMY	Green sea turtle	4	814899932	CM026901.1	40858885	30101911	30168464	40961970	42.41667484	chr4	macro
 SUPER_5	assembled-molecule	5	Chromosome	CM026902.1	=	NC_051245.1	Primary Assembly	134428053	na	CHEMY	Green sea turtle	5	957224088	CM026902.1	36620297	28721541	28724214	36683775	43.93562601	chr5	macro
-SUPER_6	assembled-molecule	6	Chromosome	CM026903.1	=	NC_051246.1	Primary Assembly	133272604	na	CHEMY	Green sea turtle	6	1091652141	CM026903.1	38283520	28273145	28280449	38327413	42.46896322	chr6	macro
-SUPER_7	assembled-molecule	7	Chromosome	CM026904.1	=	NC_051247.1	Primary Assembly	123872898	na	CHEMY	Green sea turtle	7	1224924745	CM026904.1	34876536	27110188	27045412	34827729	43.72328357	chr7	macro
+SUPER_6	assembled-molecule	6	Chromosome	CM026903.1	=	NC_051246.1	Primary Assembly	133272604	na	CHEMY	Green sea turtle	9	1091652141	CM026903.1	38283520	28273145	28280449	38327413	42.46896322	chr6	macro
+SUPER_7	assembled-molecule	7	Chromosome	CM026904.1	=	NC_051247.1	Primary Assembly	123872898	na	CHEMY	Green sea turtle	6	1224924745	CM026904.1	34876536	27110188	27045412	34827729	43.72328357	chr7	macro
 SUPER_8	assembled-molecule	8	Chromosome	CM026905.1	=	NC_051248.1	Primary Assembly	106505537	na	CHEMY	Green sea turtle	8	1348797643	CM026905.1	29938609	23206507	23327955	30028043	43.69387347	chr8	macro
-SUPER_9	assembled-molecule	9	Chromosome	CM026906.1	=	NC_051249.1	Primary Assembly	101620591	na	CHEMY	Green sea turtle	9	1455303180	CM026906.1	28611198	22187452	22183046	28638595	43.66302986	chr9	macro
+SUPER_9	assembled-molecule	9	Chromosome	CM026906.1	=	NC_051249.1	Primary Assembly	101620591	na	CHEMY	Green sea turtle	11	1455303180	CM026906.1	28611198	22187452	22183046	28638595	43.66302986	chr9	macro
 SUPER_10	assembled-molecule	10	Chromosome	CM026907.1	=	NC_051250.1	Primary Assembly	84054250	na	CHEMY	Green sea turtle	10	1556923771	CM026907.1	23330022	18685072	18645719	23320555	44.45127757	chr10	macro
-SUPER_11	assembled-molecule	11	Chromosome	CM026908.1	=	NC_051251.1	Primary Assembly	79522289	na	CHEMY	Green sea turtle	11	1640978021	CM026908.1	22292733	16904294	16868641	22338095	43.07565569	chr11	macro
+SUPER_11	assembled-molecule	11	Chromosome	CM026908.1	=	NC_051251.1	Primary Assembly	79522289	na	CHEMY	Green sea turtle	7	1640978021	CM026908.1	22292733	16904294	16868641	22338095	43.07565569	chr11	macro
 SUPER_12	assembled-molecule	12	Chromosome	CM026909.1	=	NC_051252.1	Primary Assembly	44456234	na	CHEMY	Green sea turtle	13	1720500310	CM026909.1	11553016	10612206	10594898	11530147	47.8820866	chr12	micro
 SUPER_13	assembled-molecule	13	Chromosome	CM026910.1	=	NC_051253.1	Primary Assembly	42953438	na	CHEMY	Green sea turtle	14	1764956544	CM026910.1	11220714	9668179	9657247	11237134	46.25158383	chr13	micro
-SUPER_14	assembled-molecule	14	Chromosome	CM026911.1	=	NC_051254.1	Primary Assembly	42626581	na	CHEMY	Green sea turtle	12	1807909982	CM026911.1	11838372	9310593	9361020	11966607	43.95741777	chr14	macro
+SUPER_14	assembled-molecule	14	Chromosome	CM026911.1	=	NC_051254.1	Primary Assembly	42626581	na	CHEMY	Green sea turtle	12	1807909982	CM026911.1	11838372	9310593	9361020	11966607	43.95741777	chr14	micro
 SUPER_15	assembled-molecule	15	Chromosome	CM026912.1	=	NC_051255.1	Primary Assembly	33324608	na	CHEMY	Green sea turtle	15	1850536563	CM026912.1	9048025	7611406	7616294	9048883	45.69506114	chr15	micro
 SUPER_16	assembled-molecule	16	Chromosome	CM026913.1	=	NC_051256.1	Primary Assembly	25690524	na	CHEMY	Green sea turtle	16	1883861171	CM026913.1	6836084	5950144	5997350	6906723	46.50585449	chr16	micro
 SUPER_17	assembled-molecule	17	Chromosome	CM026914.1	=	NC_051257.1	Primary Assembly	25202864	na	CHEMY	Green sea turtle	17	1909551695	CM026914.1	6824587	5760192	5770496	6847489	45.75168025	chr17	micro
@@ -266,62 +266,62 @@ SUPER_18	assembled-molecule	18	Chromosome	CM026915.1	=	NC_051258.1	Primary Assem
 SUPER_19	assembled-molecule	19	Chromosome	CM026916.1	=	NC_051259.1	Primary Assembly	19769559	na	CHEMY	Green sea turtle	19	1958141093	CM026916.1	5124359	4788792	4765677	5090731	48.32919642	chr19	micro
 SUPER_20	assembled-molecule	20	Chromosome	CM026917.1	=	NC_051260.1	Primary Assembly	19256569	na	CHEMY	Green sea turtle	20	1977910652	CM026917.1	5060596	4506239	4558056	5126712	47.083326	chr20	micro
 SUPER_21	assembled-molecule	21	Chromosome	CM026918.1	=	NC_051261.1	Primary Assembly	19202859	na	CHEMY	Green sea turtle	21	1997167221	CM026918.1	4533098	5025727	5041420	4510504	52.6779301	chr21	micro
-SUPER_22	assembled-molecule	22	Chromosome	CM026919.1	=	NC_051262.1	Primary Assembly	11152253	na	CHEMY	Green sea turtle	22	2016370080	CM026919.1	2547050	2904009	2898316	2535008	53.30871764	chr22	micro
-SUPER_23	assembled-molecule	23	Chromosome	CM026920.1	=	NC_051263.1	Primary Assembly	9977174	na	CHEMY	Green sea turtle	23	2027522333	CM026920.1	1882978	2292694	2284116	1878654	54.88807142	chr23	micro
+SUPER_22	assembled-molecule	22	Chromosome	CM026919.1	=	NC_051262.1	Primary Assembly	11152253	na	CHEMY	Green sea turtle	23	2016370080	CM026919.1	2547050	2904009	2898316	2535008	53.30871764	chr22	micro
+SUPER_23	assembled-molecule	23	Chromosome	CM026920.1	=	NC_051263.1	Primary Assembly	9977174	na	CHEMY	Green sea turtle	22	2027522333	CM026920.1	1882978	2292694	2284116	1878654	54.88807142	chr23	micro
 SUPER_24	assembled-molecule	24	Chromosome	CM026921.1	=	NC_051264.1	Primary Assembly	18854909	na	CHEMY	Green sea turtle	24	2037499507	CM026921.1	4899199	4525147	4525933	4904530	48.00409275	chr24	micro
 SUPER_25	assembled-molecule	25	Chromosome	CM026922.1	=	NC_051265.1	Primary Assembly	16433863	na	CHEMY	Green sea turtle	25	2056354416	CM026922.1	4079831	4130671	4142666	4080595	50.34353361	chr25	micro
 SUPER_26	assembled-molecule	26	Chromosome	CM026923.1	=	NC_051266.1	Primary Assembly	16225734	na	CHEMY	Green sea turtle	26	2072788279	CM026923.1	4268926	3865018	3847195	4244395	47.53133549	chr26	micro
 SUPER_27	assembled-molecule	27	Chromosome	CM026924.1	=	NC_051267.1	Primary Assembly	16135183	na	CHEMY	Green sea turtle	27	2089014013	CM026924.1	4011420	4027491	4059970	4036056	50.12390814	chr27	micro
 SUPER_28	assembled-molecule	28	Chromosome	CM026925.1	=	NC_051268.1	Primary Assembly	7864902	na	CHEMY	Green sea turtle	28	2105149196	CM026925.1	1739442	1946631	1942887	1724409	52.89436719	chr28	micro
-Super_scaffold_1	assembled-molecule	1	Chromosome	CM020416.1	=	NC_046312.1	Primary Assembly	133750839	na	LACAG	Sand lizard	1	0	NC_046312.1	38032244	28735243	28743206	37993339	43.05371766	chr1	macro
-Super_scaffold_3	assembled-molecule	2	Chromosome	CM020417.1	=	NC_046313.1	Primary Assembly	120754861	na	LACAG	Sand lizard	2	133750839	NC_046313.1	33777053	26434405	26459950	33863875	43.88288116	chr2	macro
-Super_scaffold_2	assembled-molecule	3	Chromosome	CM020418.1	=	NC_046314.1	Primary Assembly	118060892	na	LACAG	Sand lizard	3	254505700	NC_046314.1	33621852	25225637	25223882	33680827	42.84380237	chr3	macro
-Super_scaffold_4	assembled-molecule	4	Chromosome	CM020419.1	=	NC_046315.1	Primary Assembly	100704004	na	LACAG	Sand lizard	4	372566592	NC_046315.1	28776689	21439566	21459149	28831840	42.68221204	chr4	macro
-Super_scaffold_5	assembled-molecule	5	Chromosome	CM020420.1	=	NC_046316.1	Primary Assembly	95883647	na	LACAG	Sand lizard	5	473270596	NC_046316.1	27274894	20646072	20653943	27190308	43.12632112	chr5	macro
+Super_scaffold_1	assembled-molecule	1	Chromosome	CM020416.1	=	NC_046312.1	Primary Assembly	133750839	na	LACAG	Sand lizard	2	0	NC_046312.1	38032244	28735243	28743206	37993339	43.05371766	chr1	macro
+Super_scaffold_3	assembled-molecule	2	Chromosome	CM020417.1	=	NC_046313.1	Primary Assembly	120754861	na	LACAG	Sand lizard	4	133750839	NC_046313.1	33777053	26434405	26459950	33863875	43.88288116	chr2	macro
+Super_scaffold_2	assembled-molecule	3	Chromosome	CM020418.1	=	NC_046314.1	Primary Assembly	118060892	na	LACAG	Sand lizard	1	254505700	NC_046314.1	33621852	25225637	25223882	33680827	42.84380237	chr3	macro
+Super_scaffold_4	assembled-molecule	4	Chromosome	CM020419.1	=	NC_046315.1	Primary Assembly	100704004	na	LACAG	Sand lizard	7	372566592	NC_046315.1	28776689	21439566	21459149	28831840	42.68221204	chr4	macro
+Super_scaffold_5	assembled-molecule	5	Chromosome	CM020420.1	=	NC_046316.1	Primary Assembly	95883647	na	LACAG	Sand lizard	8	473270596	NC_046316.1	27274894	20646072	20653943	27190308	43.12632112	chr5	macro
 Super_scaffold_6	assembled-molecule	6	Chromosome	CM020421.1	=	NC_046317.1	Primary Assembly	95499011	na	LACAG	Sand lizard	6	569154243	NC_046317.1	26789812	20647066	20626875	26812439	43.50294856	chr6	macro
-Super_scaffold_7	assembled-molecule	7	Chromosome	CM020422.1	=	NC_046318.1	Primary Assembly	86565987	na	LACAG	Sand lizard	7	664653254	NC_046318.1	24688549	18544160	18544677	24692226	42.89233656	chr7	macro
-Super_scaffold_8	assembled-molecule	8	Chromosome	CM020423.1	=	NC_046319.1	Primary Assembly	84102018	na	LACAG	Sand lizard	8	751219241	NC_046319.1	22852946	19088540	19061337	22844563	45.49918467	chr8	macro
+Super_scaffold_7	assembled-molecule	7	Chromosome	CM020422.1	=	NC_046318.1	Primary Assembly	86565987	na	LACAG	Sand lizard	5	664653254	NC_046318.1	24688549	18544160	18544677	24692226	42.89233656	chr7	macro
+Super_scaffold_8	assembled-molecule	8	Chromosome	CM020423.1	=	NC_046319.1	Primary Assembly	84102018	na	LACAG	Sand lizard	11	751219241	NC_046319.1	22852946	19088540	19061337	22844563	45.49918467	chr8	macro
 Super_scaffold_10	assembled-molecule	9	Chromosome	CM020424.1	=	NC_046320.1	Primary Assembly	74758939	na	LACAG	Sand lizard	9	835321259	NC_046320.1	21331536	16058733	16079353	21284804	42.99154942	chr9	macro
 Super_scaffold_9	assembled-molecule	10	Chromosome	CM020425.1	=	NC_046321.1	Primary Assembly	70688303	na	LACAG	Sand lizard	10	910080198	NC_046321.1	20029274	15327266	15290072	19986055	43.34727726	chr10	macro
-Super_scaffold_18	assembled-molecule	11	Chromosome	CM020426.1	=	NC_046322.1	Primary Assembly	61599656	na	LACAG	Sand lizard	11	980768501	NC_046322.1	17512458	13268717	13264167	17519066	43.09776519	chr11	macro
+Super_scaffold_18	assembled-molecule	11	Chromosome	CM020426.1	=	NC_046322.1	Primary Assembly	61599656	na	LACAG	Sand lizard	3	980768501	NC_046322.1	17512458	13268717	13264167	17519066	43.09776519	chr11	macro
 Super_scaffold_13	assembled-molecule	12	Chromosome	CM020427.1	=	NC_046323.1	Primary Assembly	56660093	na	LACAG	Sand lizard	12	1042368157	NC_046323.1	16022868	12284557	12298946	15969653	43.4521574	chr12	macro
-Super_scaffold_12	assembled-molecule	13	Chromosome	CM020428.1	=	NC_046324.1	Primary Assembly	52485139	na	LACAG	Sand lizard	13	1099028250	NC_046324.1	14394403	11845775	11811195	14337002	45.15690742	chr13	macro
-Super_scaffold_11	assembled-molecule	14	Chromosome	CM020429.1	=	NC_046325.1	Primary Assembly	51720411	na	LACAG	Sand lizard	14	1151513389	NC_046325.1	13856640	11518067	11502236	13876280	45.35732243	chr14	macro
+Super_scaffold_12	assembled-molecule	13	Chromosome	CM020428.1	=	NC_046324.1	Primary Assembly	52485139	na	LACAG	Sand lizard	14	1099028250	NC_046324.1	14394403	11845775	11811195	14337002	45.15690742	chr13	macro
+Super_scaffold_11	assembled-molecule	14	Chromosome	CM020429.1	=	NC_046325.1	Primary Assembly	51720411	na	LACAG	Sand lizard	13	1151513389	NC_046325.1	13856640	11518067	11502236	13876280	45.35732243	chr14	macro
 Super_scaffold_15	assembled-molecule	15	Chromosome	CM020430.1	=	NC_046326.1	Primary Assembly	43910048	na	LACAG	Sand lizard	16	1203233800	NC_046326.1	11946444	9982113	10006348	11973743	45.52283414	chr15	micro
-Super_scaffold_16	assembled-molecule	16	Chromosome	CM020431.1	=	NC_046327.1	Primary Assembly	40449263	na	LACAG	Sand lizard	17	1247143848	NC_046327.1	11306228	8962864	8934924	11230132	44.26404137	chr16	micro
-Super_scaffold_17	assembled-molecule	17	Chromosome	CM020432.1	=	NC_046328.1	Primary Assembly	40056199	na	LACAG	Sand lizard	18	1287593111	NC_046328.1	10639456	9307945	9311494	10709647	46.58523446	chr17	micro
+Super_scaffold_16	assembled-molecule	16	Chromosome	CM020431.1	=	NC_046327.1	Primary Assembly	40449263	na	LACAG	Sand lizard	18	1247143848	NC_046327.1	11306228	8962864	8934924	11230132	44.26404137	chr16	micro
+Super_scaffold_17	assembled-molecule	17	Chromosome	CM020432.1	=	NC_046328.1	Primary Assembly	40056199	na	LACAG	Sand lizard	17	1287593111	NC_046328.1	10639456	9307945	9311494	10709647	46.58523446	chr17	micro
 Super_scaffold_19	assembled-molecule	18	Chromosome	CM020433.1	=	NC_046329.1	Primary Assembly	12095641	na	LACAG	Sand lizard	19	1327649310	NC_046329.1	3119673	2930431	2919236	3124288	48.36982748	chr18	micro
 Super_scaffold_20	assembled-molecule	W	Chromosome	CM020435.1	=	NC_046330.1	Primary Assembly	3982059	na	LACAG	Sand lizard	20	1339744951	NC_046330.1	1108342	860997	856353	1115759	43.57151719	chrW	macro
 Super_scaffold_14	assembled-molecule	Z	Chromosome	CM020434.1	=	NC_046331.1	Primary Assembly	47440541	na	LACAG	Sand lizard	15	1343727010	NC_046331.1	13233615	10464415	10475033	13231399	44.17189251	chrZ	macro
-Super_Scaffold_2	assembled-molecule	1	Chromosome	CM020096.1	=	NC_045541.1	Primary Assembly	186725308	na	THAEL	Western terrestrial garter snake	1	0	NC_045541.1	55077431	36743452	36735479	55208530	39.98529327	chr1	macro
-Super_Scaffold_1	assembled-molecule	2	Chromosome	CM020097.1	=	NC_045542.1	Primary Assembly	174860051	na	THAEL	Western terrestrial garter snake	2	186725308	NC_045542.1	51588935	35318340	35358732	51630285	40.6432312	chr2	macro
-Super_Scaffold_4	assembled-molecule	3	Chromosome	CM020098.1	=	NC_045543.1	Primary Assembly	152012178	na	THAEL	Western terrestrial garter snake	3	361585359	NC_045543.1	44791445	29868721	29908111	44772369	40.02716849	chr3	macro
-Super_Scaffold_3	assembled-molecule	4	Chromosome	CM020099.1	=	NC_045544.1	Primary Assembly	142845885	na	THAEL	Western terrestrial garter snake	4	513597537	NC_045544.1	42173720	28313355	28334262	42265463	40.15089789	chr4	macro
+Super_Scaffold_2	assembled-molecule	1	Chromosome	CM020096.1	=	NC_045541.1	Primary Assembly	186725308	na	THAEL	Western terrestrial garter snake	2	0	NC_045541.1	55077431	36743452	36735479	55208530	39.98529327	chr1	macro
+Super_Scaffold_1	assembled-molecule	2	Chromosome	CM020097.1	=	NC_045542.1	Primary Assembly	174860051	na	THAEL	Western terrestrial garter snake	3	186725308	NC_045542.1	51588935	35318340	35358732	51630285	40.6432312	chr2	macro
+Super_Scaffold_4	assembled-molecule	3	Chromosome	CM020098.1	=	NC_045543.1	Primary Assembly	152012178	na	THAEL	Western terrestrial garter snake	4	361585359	NC_045543.1	44791445	29868721	29908111	44772369	40.02716849	chr3	macro
+Super_Scaffold_3	assembled-molecule	4	Chromosome	CM020099.1	=	NC_045544.1	Primary Assembly	142845885	na	THAEL	Western terrestrial garter snake	1	513597537	NC_045544.1	42173720	28313355	28334262	42265463	40.15089789	chr4	macro
 Super_Scaffold_6	assembled-molecule	5	Chromosome	CM020100.1	=	NC_045545.1	Primary Assembly	100851885	na	THAEL	Western terrestrial garter snake	5	656443422	NC_045545.1	29605277	19897534	19884664	29622182	40.180119	chr5	macro
-Super_Scaffold_7	assembled-molecule	6	Chromosome	CM020101.1	=	NC_045546.1	Primary Assembly	88492469	na	THAEL	Western terrestrial garter snake	6	757295307	NC_045546.1	26318610	17477119	17499778	26310689	39.92514068	chr6	macro
-Super_Scaffold_8	assembled-molecule	7	Chromosome	CM020102.1	=	NC_045547.1	Primary Assembly	85988580	na	THAEL	Western terrestrial garter snake	7	845787776	NC_045547.1	24474748	16898471	16905771	24395350	40.88843286	chr7	macro
-Super_Scaffold_9	assembled-molecule	8	Chromosome	CM020103.1	=	NC_045548.1	Primary Assembly	80819035	na	THAEL	Western terrestrial garter snake	8	931776356	NC_045548.1	24063837	16163321	16140554	24054486	40.16785888	chr8	macro
+Super_Scaffold_7	assembled-molecule	6	Chromosome	CM020101.1	=	NC_045546.1	Primary Assembly	88492469	na	THAEL	Western terrestrial garter snake	8	757295307	NC_045546.1	26318610	17477119	17499778	26310689	39.92514068	chr6	macro
+Super_Scaffold_8	assembled-molecule	7	Chromosome	CM020102.1	=	NC_045547.1	Primary Assembly	85988580	na	THAEL	Western terrestrial garter snake	11	845787776	NC_045547.1	24474748	16898471	16905771	24395350	40.88843286	chr7	macro
+Super_Scaffold_9	assembled-molecule	8	Chromosome	CM020103.1	=	NC_045548.1	Primary Assembly	80819035	na	THAEL	Western terrestrial garter snake	6	931776356	NC_045548.1	24063837	16163321	16140554	24054486	40.16785888	chr8	macro
 Super_Scaffold_10	assembled-molecule	9	Chromosome	CM020104.1	=	NC_045549.1	Primary Assembly	77618485	na	THAEL	Western terrestrial garter snake	9	1012595391	NC_045549.1	22198243	15220434	15198842	22279241	40.61494249	chr9	macro
 Super_Scaffold_11	assembled-molecule	10	Chromosome	CM020105.1	=	NC_045550.1	Primary Assembly	71714719	na	THAEL	Western terrestrial garter snake	10	1090213876	NC_045550.1	21145871	13920278	13925173	21113516	39.71972805	chr10	macro
-Super_Scaffold_12	assembled-molecule	11	Chromosome	CM020106.1	=	NC_045551.1	Primary Assembly	71291765	na	THAEL	Western terrestrial garter snake	11	1161928595	NC_045551.1	21084532	14239971	14293751	21044245	40.38028998	chr11	macro
-Super_Scaffold_13	assembled-molecule	12	Chromosome	CM020107.1	=	NC_045552.1	Primary Assembly	60626299	na	THAEL	Western terrestrial garter snake	13	1233220360	NC_045552.1	16598923	13085104	13055971	16659359	44.00902016	chr12	micro
+Super_Scaffold_12	assembled-molecule	11	Chromosome	CM020106.1	=	NC_045551.1	Primary Assembly	71291765	na	THAEL	Western terrestrial garter snake	7	1161928595	NC_045551.1	21084532	14239971	14293751	21044245	40.38028998	chr11	macro
+Super_Scaffold_13	assembled-molecule	12	Chromosome	CM020107.1	=	NC_045552.1	Primary Assembly	60626299	na	THAEL	Western terrestrial garter snake	16	1233220360	NC_045552.1	16598923	13085104	13055971	16659359	44.00902016	chr12	micro
 Super_Scaffold_14	assembled-molecule	13	Chromosome	CM020108.1	=	NC_045553.1	Primary Assembly	50576291	na	THAEL	Western terrestrial garter snake	14	1293846659	NC_045553.1	13764592	10876513	10896287	13688710	44.23019316	chr13	micro
 Super_Scaffold_15	assembled-molecule	14	Chromosome	CM020109.1	=	NC_045554.1	Primary Assembly	49402056	na	THAEL	Western terrestrial garter snake	15	1344422950	NC_045554.1	13255833	10432227	10450984	13190757	44.1227526	chr14	micro
-Super_Scaffold_16	assembled-molecule	15	Chromosome	CM020110.1	=	NC_045555.1	Primary Assembly	49092584	na	THAEL	Western terrestrial garter snake	16	1393825006	NC_045555.1	13375910	10117473	10141297	13362541	43.10631473	chr15	micro
+Super_Scaffold_16	assembled-molecule	15	Chromosome	CM020110.1	=	NC_045555.1	Primary Assembly	49092584	na	THAEL	Western terrestrial garter snake	13	1393825006	NC_045555.1	13375910	10117473	10141297	13362541	43.10631473	chr15	micro
 Super_Scaffold_17	assembled-molecule	16	Chromosome	CM020111.1	=	NC_045556.1	Primary Assembly	39734741	na	THAEL	Western terrestrial garter snake	17	1442917590	NC_045556.1	10199729	8364675	8329768	10228479	44.97104207	chr16	micro
 Super_Scaffold_18	assembled-molecule	17	Chromosome	CM020112.1	=	NC_045557.1	Primary Assembly	17174197	na	THAEL	Western terrestrial garter snake	18	1482652331	NC_045557.1	3737310	3357610	3328409	3754414	47.1585569	chr17	micro
 Super_Scaffold_5	assembled-molecule	Z	Chromosome	CM020113.1	=	NC_045558.1	Primary Assembly	145130870	na	THAEL	Western terrestrial garter snake	12	1499826528	NC_045558.1	41485680	28279183	28268637	41583223	40.50218254	chrZ	macro
-chrom01	assembled-molecule	1	Chromosome	CM014743.1	=	NC_041312.1	Primary Assembly	140209921	na	PODMU	Common wall lizard	1	0	NC_041312.1	39606818	30389251	30410879	39550769	43.44178464	chr1	macro
-chrom02	assembled-molecule	2	Chromosome	CM014744.1	=	NC_041313.1	Primary Assembly	128038163	na	PODMU	Common wall lizard	2	140209921	NC_041313.1	35558540	28260034	28311849	35630228	44.27958261	chr2	macro
-chrom03	assembled-molecule	3	Chromosome	CM014745.1	=	NC_041314.1	Primary Assembly	124954059	na	PODMU	Common wall lizard	3	268248084	NC_041314.1	35370228	26979067	26967159	35411729	43.25103173	chr3	macro
-chrom04	assembled-molecule	4	Chromosome	CM014746.1	=	NC_041315.1	Primary Assembly	107526675	na	PODMU	Common wall lizard	4	393202143	NC_041315.1	30461980	23137497	23172141	30525889	43.16003167	chr4	macro
-chrom05	assembled-molecule	5	Chromosome	CM014747.1	=	NC_041316.1	Primary Assembly	100393251	na	PODMU	Common wall lizard	5	500728818	NC_041316.1	28312787	21818461	21810034	28291857	43.52701655	chr5	macro
+chrom01	assembled-molecule	1	Chromosome	CM014743.1	=	NC_041312.1	Primary Assembly	140209921	na	PODMU	Common wall lizard	2	0	NC_041312.1	39606818	30389251	30410879	39550769	43.44178464	chr1	macro
+chrom02	assembled-molecule	2	Chromosome	CM014744.1	=	NC_041313.1	Primary Assembly	128038163	na	PODMU	Common wall lizard	4	140209921	NC_041313.1	35558540	28260034	28311849	35630228	44.27958261	chr2	macro
+chrom03	assembled-molecule	3	Chromosome	CM014745.1	=	NC_041314.1	Primary Assembly	124954059	na	PODMU	Common wall lizard	1	268248084	NC_041314.1	35370228	26979067	26967159	35411729	43.25103173	chr3	macro
+chrom04	assembled-molecule	4	Chromosome	CM014746.1	=	NC_041315.1	Primary Assembly	107526675	na	PODMU	Common wall lizard	7	393202143	NC_041315.1	30461980	23137497	23172141	30525889	43.16003167	chr4	macro
+chrom05	assembled-molecule	5	Chromosome	CM014747.1	=	NC_041316.1	Primary Assembly	100393251	na	PODMU	Common wall lizard	8	500728818	NC_041316.1	28312787	21818461	21810034	28291857	43.52701655	chr5	macro
 chrom06	assembled-molecule	6	Chromosome	CM014748.1	=	NC_041317.1	Primary Assembly	99678440	na	PODMU	Common wall lizard	6	601122069	NC_041317.1	27931934	21814686	21808806	27950547	43.8400738	chr6	macro
-chrom07	assembled-molecule	7	Chromosome	CM014749.1	=	NC_041318.1	Primary Assembly	92398148	na	PODMU	Common wall lizard	7	700800509	NC_041318.1	26111890	19990311	20001293	26097629	43.37431335	chr7	macro
-chrom08	assembled-molecule	8	Chromosome	CM014750.1	=	NC_041319.1	Primary Assembly	90342841	na	PODMU	Common wall lizard	8	793198657	NC_041319.1	24411587	20673648	20667326	24412486	45.85033267	chr8	macro
+chrom07	assembled-molecule	7	Chromosome	CM014749.1	=	NC_041318.1	Primary Assembly	92398148	na	PODMU	Common wall lizard	5	700800509	NC_041318.1	26111890	19990311	20001293	26097629	43.37431335	chr7	macro
+chrom08	assembled-molecule	8	Chromosome	CM014750.1	=	NC_041319.1	Primary Assembly	90342841	na	PODMU	Common wall lizard	11	793198657	NC_041319.1	24411587	20673648	20667326	24412486	45.85033267	chr8	macro
 chrom09	assembled-molecule	9	Chromosome	CM014751.1	=	NC_041320.1	Primary Assembly	79135106	na	PODMU	Common wall lizard	9	883541498	NC_041320.1	22343593	17155269	17149462	22309460	43.44692728	chr9	macro
 chrom10	assembled-molecule	10	Chromosome	CM014752.1	=	NC_041321.1	Primary Assembly	76280819	na	PODMU	Common wall lizard	10	962676604	NC_041321.1	21341782	16668167	16693922	21440825	43.81406815	chr10	macro
-chrom11	assembled-molecule	11	Chromosome	CM014753.1	=	NC_041322.1	Primary Assembly	65231656	na	PODMU	Common wall lizard	11	1038957423	NC_041322.1	18381429	14196848	14195795	18333652	43.60871684	chr11	macro
+chrom11	assembled-molecule	11	Chromosome	CM014753.1	=	NC_041322.1	Primary Assembly	65231656	na	PODMU	Common wall lizard	3	1038957423	NC_041322.1	18381429	14196848	14195795	18333652	43.60871684	chr11	macro
 chrom12	assembled-molecule	12	Chromosome	CM014754.1	=	NC_041323.1	Primary Assembly	60949594	na	PODMU	Common wall lizard	12	1104189079	NC_041323.1	17046777	13346555	13353154	17071956	43.90067901	chr12	macro
 chrom13	assembled-molecule	13	Chromosome	CM014755.1	=	NC_041324.1	Primary Assembly	56546671	na	PODMU	Common wall lizard	13	1165138673	NC_041324.1	15329055	12880192	12874543	15328698	45.65431505	chr13	macro
 chrom14	assembled-molecule	14	Chromosome	CM014756.1	=	NC_041325.1	Primary Assembly	54988359	na	PODMU	Common wall lizard	14	1221685344	NC_041325.1	14966940	12517423	12488396	14913851	45.55905165	chr14	macro
@@ -330,76 +330,76 @@ chrom16	assembled-molecule	16	Chromosome	CM014758.1	=	NC_041327.1	Primary Assemb
 chrom17	assembled-molecule	17	Chromosome	CM014759.1	=	NC_041328.1	Primary Assembly	42925489	na	PODMU	Common wall lizard	18	1366773764	NC_041328.1	11817734	9596087	9604179	11821251	44.81933169	chr17	micro
 chrom18	assembled-molecule	18	Chromosome	CM014760.1	=	NC_041329.1	Primary Assembly	14237138	na	PODMU	Common wall lizard	19	1409699253	NC_041329.1	3633820	3456630	3461308	3637293	48.75546645	chr18	micro
 chromZ	assembled-molecule	Z	Chromosome	CM014761.1	=	NC_041330.1	Primary Assembly	50871175	na	PODMU	Common wall lizard	15	1423936391	NC_041330.1	14096846	11303658	11307994	14088809	44.51348572	chrZ	macro
-LG1	assembled-molecule	LG1	Linkage Group	CM022339.1	=	NC_048605.1	Primary Assembly	131769443	na	ZOOVI	Common lizard	1	0	NC_048605.1	37043965	28173083	28162237	36967125	43.21969435	LG1	macro
-LG2	assembled-molecule	LG2	Linkage Group	CM022340.1	=	NC_048606.1	Primary Assembly	117834363	na	ZOOVI	Common lizard	2	131769443	NC_048606.1	32422599	25562665	25593094	32516792	44.06364865	LG2	macro
-LG3	assembled-molecule	LG3	Linkage Group	CM022341.1	=	NC_048607.1	Primary Assembly	116371480	na	ZOOVI	Common lizard	3	249603806	NC_048607.1	32750626	24729117	24734732	32739603	43.02922511	LG3	macro
-LG4	assembled-molecule	LG4	Linkage Group	CM022342.1	=	NC_048608.1	Primary Assembly	100631306	na	ZOOVI	Common lizard	4	365975286	NC_048608.1	27926860	21245466	21306866	28020173	43.20061556	LG4	macro
-LG5	assembled-molecule	LG5	Linkage Group	CM022343.1	=	NC_048609.1	Primary Assembly	98023110	na	ZOOVI	Common lizard	5	466606592	NC_048609.1	27625035	20685684	20718023	27674045	42.81542268	LG5	macro
-LG6	assembled-molecule	LG6	Linkage Group	CM022344.1	=	NC_048610.1	Primary Assembly	94199661	na	ZOOVI	Common lizard	6	564629702	NC_048610.1	25140480	21357574	21365835	25132896	45.94073763	LG6	macro
+LG1	assembled-molecule	LG1	Linkage Group	CM022339.1	=	NC_048605.1	Primary Assembly	131769443	na	ZOOVI	Common lizard	2	0	NC_048605.1	37043965	28173083	28162237	36967125	43.21969435	LG1	macro
+LG2	assembled-molecule	LG2	Linkage Group	CM022340.1	=	NC_048606.1	Primary Assembly	117834363	na	ZOOVI	Common lizard	5	131769443	NC_048606.1	32422599	25562665	25593094	32516792	44.06364865	LG2	macro
+LG3	assembled-molecule	LG3	Linkage Group	CM022341.1	=	NC_048607.1	Primary Assembly	116371480	na	ZOOVI	Common lizard	1	249603806	NC_048607.1	32750626	24729117	24734732	32739603	43.02922511	LG3	macro
+LG4	assembled-molecule	LG4	Linkage Group	CM022342.1	=	NC_048608.1	Primary Assembly	100631306	na	ZOOVI	Common lizard	11	365975286	NC_048608.1	27926860	21245466	21306866	28020173	43.20061556	LG4	macro
+LG5	assembled-molecule	LG5	Linkage Group	CM022343.1	=	NC_048609.1	Primary Assembly	98023110	na	ZOOVI	Common lizard	8	466606592	NC_048609.1	27625035	20685684	20718023	27674045	42.81542268	LG5	macro
+LG6	assembled-molecule	LG6	Linkage Group	CM022344.1	=	NC_048610.1	Primary Assembly	94199661	na	ZOOVI	Common lizard	13	564629702	NC_048610.1	25140480	21357574	21365835	25132896	45.94073763	LG6	macro
 LG7	assembled-molecule	LG7	Linkage Group	CM022345.1	=	NC_048611.1	Primary Assembly	92810032	na	ZOOVI	Common lizard	7	658829363	NC_048611.1	25877772	20002005	20015965	25867682	43.60993548	LG7	macro
-LG8	assembled-molecule	LG8	Linkage Group	CM022346.1	=	NC_048612.1	Primary Assembly	79626714	na	ZOOVI	Common lizard	8	751639395	NC_048612.1	22486756	16957425	16930087	22505167	42.96114951	LG8	macro
-LG9	assembled-molecule	LG9	Linkage Group	CM022347.1	=	NC_048613.1	Primary Assembly	69679922	na	ZOOVI	Common lizard	9	831266109	NC_048613.1	19428124	14958227	14976555	19439812	43.50813873	LG9	macro
-LG10	assembled-molecule	LG10	Linkage Group	CM022348.1	=	NC_048614.1	Primary Assembly	54413957	na	ZOOVI	Common lizard	10	900946031	NC_048614.1	15122111	11725685	11733974	15151315	43.65961679	LG10	macro
-LG11	assembled-molecule	LG11	Linkage Group	CM022349.1	=	NC_048615.1	Primary Assembly	51059636	na	ZOOVI	Common lizard	11	955359988	NC_048615.1	13778179	11434776	11467528	13819375	45.35122455	LG11	macro
-LG12	assembled-molecule	LG12	Linkage Group	CM022350.1	=	NC_048616.1	Primary Assembly	49589567	na	ZOOVI	Common lizard	12	1006419624	NC_048616.1	13794261	10698532	10707906	13794702	43.69070885	LG12	micro
-LG13	assembled-molecule	LG13	Linkage Group	CM022351.1	=	NC_048617.1	Primary Assembly	48213930	na	ZOOVI	Common lizard	13	1056009191	NC_048617.1	12764698	10856422	10832023	12761068	45.93626483	LG13	micro
-LG14	assembled-molecule	LG14	Linkage Group	CM022352.1	=	NC_048618.1	Primary Assembly	46006402	na	ZOOVI	Common lizard	14	1104223121	NC_048618.1	13005022	9777333	9782126	13022150	42.90612965	LG14	micro
-LG15	assembled-molecule	LG15	Linkage Group	CM022353.1	=	NC_048619.1	Primary Assembly	44540502	na	ZOOVI	Common lizard	15	1150229523	NC_048619.1	11979010	10060389	10052149	11915683	45.7028028	LG15	micro
-LG16	assembled-molecule	LG16	Linkage Group	CM022354.1	=	NC_048620.1	Primary Assembly	40703745	na	ZOOVI	Common lizard	16	1194770025	NC_048620.1	11148326	8947547	8934842	11081197	44.5812431	LG16	micro
-LG17	assembled-molecule	LG17	Linkage Group	CM022355.1	=	NC_048621.1	Primary Assembly	39436030	na	ZOOVI	Common lizard	17	1235473770	NC_048621.1	10308652	9052784	9049869	10328517	46.72879757	LG17	micro
-LG18	assembled-molecule	LG18	Linkage Group	CM022356.1	=	NC_048622.1	Primary Assembly	35462695	na	ZOOVI	Common lizard	18	1274909800	NC_048622.1	10132860	7459671	7438921	10117175	42.38740819	LG18	micro
-LG19	assembled-molecule	LG19	Linkage Group	CM022357.1	=	NC_048623.1	Primary Assembly	24898947	na	ZOOVI	Common lizard	19	1310372495	NC_048623.1	6799662	5480831	5470608	6791149	44.62279946	LG19	micro
+LG8	assembled-molecule	LG8	Linkage Group	CM022346.1	=	NC_048612.1	Primary Assembly	79626714	na	ZOOVI	Common lizard	6	751639395	NC_048612.1	22486756	16957425	16930087	22505167	42.96114951	LG8	macro
+LG9	assembled-molecule	LG9	Linkage Group	CM022347.1	=	NC_048613.1	Primary Assembly	69679922	na	ZOOVI	Common lizard	12	831266109	NC_048613.1	19428124	14958227	14976555	19439812	43.50813873	LG9	macro
+LG10	assembled-molecule	LG10	Linkage Group	CM022348.1	=	NC_048614.1	Primary Assembly	54413957	na	ZOOVI	Common lizard	14	900946031	NC_048614.1	15122111	11725685	11733974	15151315	43.65961679	LG10	macro
+LG11	assembled-molecule	LG11	Linkage Group	CM022349.1	=	NC_048615.1	Primary Assembly	51059636	na	ZOOVI	Common lizard	16	955359988	NC_048615.1	13778179	11434776	11467528	13819375	45.35122455	LG11	macro
+LG12	assembled-molecule	LG12	Linkage Group	CM022350.1	=	NC_048616.1	Primary Assembly	49589567	na	ZOOVI	Common lizard	10	1006419624	NC_048616.1	13794261	10698532	10707906	13794702	43.69070885	LG12	micro
+LG13	assembled-molecule	LG13	Linkage Group	CM022351.1	=	NC_048617.1	Primary Assembly	48213930	na	ZOOVI	Common lizard	15	1056009191	NC_048617.1	12764698	10856422	10832023	12761068	45.93626483	LG13	micro
+LG14	assembled-molecule	LG14	Linkage Group	CM022352.1	=	NC_048618.1	Primary Assembly	46006402	na	ZOOVI	Common lizard	9	1104223121	NC_048618.1	13005022	9777333	9782126	13022150	42.90612965	LG14	micro
+LG15	assembled-molecule	LG15	Linkage Group	CM022353.1	=	NC_048619.1	Primary Assembly	44540502	na	ZOOVI	Common lizard	17	1150229523	NC_048619.1	11979010	10060389	10052149	11915683	45.7028028	LG15	micro
+LG16	assembled-molecule	LG16	Linkage Group	CM022354.1	=	NC_048620.1	Primary Assembly	40703745	na	ZOOVI	Common lizard	19	1194770025	NC_048620.1	11148326	8947547	8934842	11081197	44.5812431	LG16	micro
+LG17	assembled-molecule	LG17	Linkage Group	CM022355.1	=	NC_048621.1	Primary Assembly	39436030	na	ZOOVI	Common lizard	18	1235473770	NC_048621.1	10308652	9052784	9049869	10328517	46.72879757	LG17	micro
+LG18	assembled-molecule	LG18	Linkage Group	CM022356.1	=	NC_048622.1	Primary Assembly	35462695	na	ZOOVI	Common lizard	4	1274909800	NC_048622.1	10132860	7459671	7438921	10117175	42.38740819	LG18	micro
+LG19	assembled-molecule	LG19	Linkage Group	CM022357.1	=	NC_048623.1	Primary Assembly	24898947	na	ZOOVI	Common lizard	3	1310372495	NC_048623.1	6799662	5480831	5470608	6791149	44.62279946	LG19	micro
 scaffold-ma1	assembled-molecule	1	Chromosome	CM012306.1	<>	na	Primary Assembly	311712589	na	CROVV	Prairie rattlesnake	1	0	CM012306.1	91481195	56530653	56533521	91503823	38.19100915	chr1	macro
 scaffold-ma2	assembled-molecule	2	Chromosome	CM012307.1	<>	na	Primary Assembly	230514893	na	CROVV	Prairie rattlesnake	2	311712589	CM012307.1	67043634	41973287	41982396	67045552	38.50385629	chr2	macro
 scaffold-ma3	assembled-molecule	3	Chromosome	CM012308.1	<>	na	Primary Assembly	179897795	na	CROVV	Prairie rattlesnake	3	542227482	CM012308.1	53229812	32127022	32109189	53272041	37.62266568	chr3	macro
 scaffold-ma4	assembled-molecule	4	Chromosome	CM012309.1	<>	na	Primary Assembly	103290658	na	CROVV	Prairie rattlesnake	4	722125277	CM012309.1	29969544	18298580	18276306	29961644	37.89905079	chr4	macro
-scaffold-ma5	assembled-molecule	5	Chromosome	CM012310.1	<>	na	Primary Assembly	87326383	na	CROVV	Prairie rattlesnake	5	825415935	CM012310.1	25404066	15638094	15645084	25374768	38.12138801	chr5	macro
-scaffold-ma6	assembled-molecule	6	Chromosome	CM012311.1	<>	na	Primary Assembly	69529916	na	CROVV	Prairie rattlesnake	6	912742318	CM012311.1	19870361	12596130	12592410	19969257	38.73482008	chr6	macro
-scaffold-ma7	assembled-molecule	7	Chromosome	CM012312.1	<>	na	Primary Assembly	61662597	na	CROVV	Prairie rattlesnake	7	982272234	CM012312.1	17608614	10822423	10830585	17636659	38.0556453	chr7	macro
-scaffold-mi1	assembled-molecule	9	Chromosome	CM012313.1	<>	na	Primary Assembly	22521304	na	CROVV	Prairie rattlesnake	9	1043934831	CM012313.1	6102935	4370649	4382675	6123111	41.72348359	chr9	micro
-scaffold-mi2	assembled-molecule	10	Chromosome	CM012314.1	<>	na	Primary Assembly	19978502	na	CROVV	Prairie rattlesnake	10	1066456135	CM012314.1	5246312	3831334	3819201	5218043	42.23340578	chr10	micro
-scaffold-mi3	assembled-molecule	11	Chromosome	CM012315.1	<>	na	Primary Assembly	16785021	na	CROVV	Prairie rattlesnake	11	1086434637	CM012315.1	4431786	3255534	3258182	4424248	42.38010378	chr11	micro
-scaffold-mi4	assembled-molecule	12	Chromosome	CM012316.1	<>	na	Primary Assembly	16736725	na	CROVV	Prairie rattlesnake	12	1103219658	CM012316.1	4445974	3139212	3146006	4469382	41.34855697	chr12	micro
-scaffold-mi5	assembled-molecule	13	Chromosome	CM012317.1	<>	na	Primary Assembly	13784772	na	CROVV	Prairie rattlesnake	13	1119956383	CM012317.1	3544803	2657413	2654523	3502665	42.97890092	chr13	micro
-scaffold-mi6	assembled-molecule	14	Chromosome	CM012318.1	<>	na	Primary Assembly	13760810	na	CROVV	Prairie rattlesnake	14	1133741155	CM012318.1	3776826	2545211	2551371	3789316	40.24870162	chr14	micro
-scaffold-mi7	assembled-molecule	15	Chromosome	CM012319.1	<>	na	Primary Assembly	12380204	na	CROVV	Prairie rattlesnake	15	1147501965	CM012319.1	2913837	2629408	2621969	2937711	47.29723924	chr15	micro
-scaffold-mi8	assembled-molecule	16	Chromosome	CM012320.1	<>	na	Primary Assembly	10971997	na	CROVV	Prairie rattlesnake	16	1159882169	CM012320.1	2762086	2379423	2374638	2750167	46.30737965	chr16	micro
-scaffold-mi9	assembled-molecule	17	Chromosome	CM012321.1	<>	na	Primary Assembly	6767157	na	CROVV	Prairie rattlesnake	17	1170854166	CM012321.1	1612470	1302359	1306203	1624834	44.62233654	chr17	micro
-scaffold-mi10	assembled-molecule	18	Chromosome	CM012322.1	<>	na	Primary Assembly	5372825	na	CROVV	Prairie rattlesnake	18	1177621323	CM012322.1	1305210	1098631	1093457	1288592	45.80314215	chr18	micro
+scaffold-ma5	assembled-molecule	5	Chromosome	CM012310.1	<>	na	Primary Assembly	87326383	na	CROVV	Prairie rattlesnake	6	825415935	CM012310.1	25404066	15638094	15645084	25374768	38.12138801	chr5	macro
+scaffold-ma6	assembled-molecule	6	Chromosome	CM012311.1	<>	na	Primary Assembly	69529916	na	CROVV	Prairie rattlesnake	7	912742318	CM012311.1	19870361	12596130	12592410	19969257	38.73482008	chr6	macro
+scaffold-ma7	assembled-molecule	7	Chromosome	CM012312.1	<>	na	Primary Assembly	61662597	na	CROVV	Prairie rattlesnake	5	982272234	CM012312.1	17608614	10822423	10830585	17636659	38.0556453	chr7	macro
+scaffold-mi1	assembled-molecule	9	Chromosome	CM012313.1	<>	na	Primary Assembly	22521304	na	CROVV	Prairie rattlesnake	10	1043934831	CM012313.1	6102935	4370649	4382675	6123111	41.72348359	chr9	micro
+scaffold-mi2	assembled-molecule	10	Chromosome	CM012314.1	<>	na	Primary Assembly	19978502	na	CROVV	Prairie rattlesnake	9	1066456135	CM012314.1	5246312	3831334	3819201	5218043	42.23340578	chr10	micro
+scaffold-mi3	assembled-molecule	11	Chromosome	CM012315.1	<>	na	Primary Assembly	16785021	na	CROVV	Prairie rattlesnake	14	1086434637	CM012315.1	4431786	3255534	3258182	4424248	42.38010378	chr11	micro
+scaffold-mi4	assembled-molecule	12	Chromosome	CM012316.1	<>	na	Primary Assembly	16736725	na	CROVV	Prairie rattlesnake	11	1103219658	CM012316.1	4445974	3139212	3146006	4469382	41.34855697	chr12	micro
+scaffold-mi5	assembled-molecule	13	Chromosome	CM012317.1	<>	na	Primary Assembly	13784772	na	CROVV	Prairie rattlesnake	15	1119956383	CM012317.1	3544803	2657413	2654523	3502665	42.97890092	chr13	micro
+scaffold-mi6	assembled-molecule	14	Chromosome	CM012318.1	<>	na	Primary Assembly	13760810	na	CROVV	Prairie rattlesnake	12	1133741155	CM012318.1	3776826	2545211	2551371	3789316	40.24870162	chr14	micro
+scaffold-mi7	assembled-molecule	15	Chromosome	CM012319.1	<>	na	Primary Assembly	12380204	na	CROVV	Prairie rattlesnake	18	1147501965	CM012319.1	2913837	2629408	2621969	2937711	47.29723924	chr15	micro
+scaffold-mi8	assembled-molecule	16	Chromosome	CM012320.1	<>	na	Primary Assembly	10971997	na	CROVV	Prairie rattlesnake	13	1159882169	CM012320.1	2762086	2379423	2374638	2750167	46.30737965	chr16	micro
+scaffold-mi9	assembled-molecule	17	Chromosome	CM012321.1	<>	na	Primary Assembly	6767157	na	CROVV	Prairie rattlesnake	16	1170854166	CM012321.1	1612470	1302359	1306203	1624834	44.62233654	chr17	micro
+scaffold-mi10	assembled-molecule	18	Chromosome	CM012322.1	<>	na	Primary Assembly	5372825	na	CROVV	Prairie rattlesnake	17	1177621323	CM012322.1	1305210	1098631	1093457	1288592	45.80314215	chr18	micro
 scaffold-Z	assembled-molecule	Z	Chromosome	CM012323.1	<>	na	Primary Assembly	113984505	na	CROVV	Prairie rattlesnake	8	1182994148	CM012323.1	33055071	20981725	20949088	33114772	38.78867581	chrZ	macro
 Superscaffold_1	assembled-molecule	1	Chromosome	CM012114.1	=	NC_044244.1	Primary Assembly	197551010	na	CALAN	Anna's hummingbird	1	0	NC_044244.1	59315898	39161846	39193919	59293013	39.78163323	chr1	macro
 Superscaffold_2	assembled-molecule	2	Chromosome	CM012115.1	=	NC_044245.1	Primary Assembly	151342139	na	CALAN	Anna's hummingbird	2	197551010	NC_044245.1	45616320	29862325	29797710	45522557	39.56264287	chr2	macro
 Superscaffold_3	assembled-molecule	3	Chromosome	CM012116.1	=	NC_044246.1	Primary Assembly	114810999	na	CALAN	Anna's hummingbird	3	348893149	NC_044246.1	34518797	22936479	22843377	34325861	39.93897501	chr3	macro
-Superscaffold_4	assembled-molecule	4	Chromosome	CM012117.1	=	NC_044247.1	Primary Assembly	18597117	na	CALAN	Anna's hummingbird	4	463704148	NC_044247.1	5322486	4030791	3981277	5262363	43.08277549	chr4	micro
-Superscaffold_4A	assembled-molecule	4A	Chromosome	CM012143.1	=	NC_044248.1	Primary Assembly	44745344	na	CALAN	Anna's hummingbird	5	482301265	NC_044248.1	13584739	8857154	8798631	13498123	39.46428018	chr4A	macro
-Superscaffold_4B	assembled-molecule	4B	Chromosome	CM012144.1	=	NC_044249.1	Primary Assembly	23291945	na	CALAN	Anna's hummingbird	6	527046609	NC_044249.1	6869294	4831399	4758655	6772398	41.27995373	chr4B	micro
+Superscaffold_4	assembled-molecule	4	Chromosome	CM012117.1	=	NC_044247.1	Primary Assembly	18597117	na	CALAN	Anna's hummingbird	12	463704148	NC_044247.1	5322486	4030791	3981277	5262363	43.08277549	chr4	micro
+Superscaffold_4A	assembled-molecule	4A	Chromosome	CM012143.1	=	NC_044248.1	Primary Assembly	44745344	na	CALAN	Anna's hummingbird	4	482301265	NC_044248.1	13584739	8857154	8798631	13498123	39.46428018	chr4A	macro
+Superscaffold_4B	assembled-molecule	4B	Chromosome	CM012144.1	=	NC_044249.1	Primary Assembly	23291945	na	CALAN	Anna's hummingbird	5	527046609	NC_044249.1	6869294	4831399	4758655	6772398	41.27995373	chr4B	micro
 Superscaffold_5	assembled-molecule	5	Chromosome	CM012118.1	=	NC_044250.1	Primary Assembly	16645885	na	CALAN	Anna's hummingbird	7	550338554	NC_044250.1	4655712	3322650	3318256	4615934	41.73375836	chr5	micro
-Superscaffold_5A	assembled-molecule	5A	Chromosome	CM012145.1	=	NC_044251.1	Primary Assembly	43880846	na	CALAN	Anna's hummingbird	8	566984439	NC_044251.1	12876998	9058274	9089482	12855285	41.35765695	chr5A	macro
-Superscaffold_6	assembled-molecule	6	Chromosome	CM012119.1	=	NC_044252.1	Primary Assembly	35401958	na	CALAN	Anna's hummingbird	9	610865285	NC_044252.1	10275933	7301157	7397377	10427391	41.51910332	chr6	macro
-Superscaffold_7	assembled-molecule	7	Chromosome	CM012120.1	=	NC_044253.1	Primary Assembly	39139214	na	CALAN	Anna's hummingbird	10	646267243	NC_044253.1	11459211	8040651	8041459	11434787	41.26145689	chr7	macro
-Superscaffold_8	assembled-molecule	8	Chromosome	CM012121.1	=	NC_044254.1	Primary Assembly	31090148	na	CALAN	Anna's hummingbird	11	685406457	NC_044254.1	9056782	6431932	6482457	9069977	41.60409596	chr8	macro
-Superscaffold_9	assembled-molecule	9	Chromosome	CM012122.1	=	NC_044255.1	Primary Assembly	25686456	na	CALAN	Anna's hummingbird	12	716496605	NC_044255.1	7277471	5393711	5340899	7199832	42.57753071	chr9	micro
-Superscaffold_10	assembled-molecule	10	Chromosome	CM012123.1	=	NC_044256.1	Primary Assembly	22664390	na	CALAN	Anna's hummingbird	13	742183061	NC_044256.1	6345375	4826572	4794516	6297684	43.21336901	chr10	micro
-Superscaffold_11	assembled-molecule	11	Chromosome	CM012124.1	=	NC_044257.1	Primary Assembly	20302349	na	CALAN	Anna's hummingbird	14	764847451	NC_044257.1	5819369	4236610	4310693	5935180	42.10109994	chr11	micro
-Superscaffold_12	assembled-molecule	12	Chromosome	CM012125.1	=	NC_044258.1	Primary Assembly	21352500	na	CALAN	Anna's hummingbird	15	785149800	NC_044258.1	6090369	4606106	4576228	6056677	43.05016836	chr12	micro
-Superscaffold_13	assembled-molecule	13	Chromosome	CM012126.1	=	NC_044259.1	Primary Assembly	17696115	na	CALAN	Anna's hummingbird	16	806502300	NC_044259.1	4914159	3886660	3875799	4926709	44.09654493	chr13	micro
-Superscaffold_14	assembled-molecule	14	Chromosome	CM012127.1	=	NC_044260.1	Primary Assembly	15497061	na	CALAN	Anna's hummingbird	17	824198415	NC_044260.1	4312745	3455627	3442996	4285593	44.51597316	chr14	micro
-Superscaffold_15	assembled-molecule	15	Chromosome	CM012128.1	=	NC_044261.1	Primary Assembly	13887164	na	CALAN	Anna's hummingbird	18	839695476	NC_044261.1	3860254	3141282	3101019	3784509	44.95047333	chr15	micro
-Superscaffold_17	assembled-molecule	17	Chromosome	CM012129.1	=	NC_044262.1	Primary Assembly	10473655	na	CALAN	Anna's hummingbird	19	853582640	NC_044262.1	2761824	2471698	2465931	2774003	47.14421868	chr17	micro
-Superscaffold_18	assembled-molecule	18	Chromosome	CM012130.1	=	NC_044263.1	Primary Assembly	11617720	na	CALAN	Anna's hummingbird	20	864056295	NC_044263.1	3103010	2675262	2711158	3127895	46.36540684	chr18	micro
-Superscaffold_19	assembled-molecule	19	Chromosome	CM012131.1	=	NC_044264.1	Primary Assembly	11166003	na	CALAN	Anna's hummingbird	21	875674015	NC_044264.1	3023928	2594306	2561740	2985929	46.1767042	chr19	micro
-Superscaffold_20	assembled-molecule	20	Chromosome	CM012132.1	=	NC_044265.1	Primary Assembly	15116875	na	CALAN	Anna's hummingbird	22	886840018	NC_044265.1	4135460	3412188	3426858	4141969	45.24233328	chr20	micro
-Superscaffold_21	assembled-molecule	21	Chromosome	CM012133.1	=	NC_044266.1	Primary Assembly	7710055	na	CALAN	Anna's hummingbird	23	901956893	NC_044266.1	2003254	1770452	1775103	1996855	46.98797879	chr21	micro
-Superscaffold_22	assembled-molecule	22	Chromosome	CM012134.1	=	NC_044267.1	Primary Assembly	5198135	na	CALAN	Anna's hummingbird	24	909666948	NC_044267.1	1190795	1104920	1136322	1238226	47.98963142	chr22	micro
-Superscaffold_23	assembled-molecule	23	Chromosome	CM012135.1	=	NC_044268.1	Primary Assembly	6423903	na	CALAN	Anna's hummingbird	25	914865083	NC_044268.1	1588860	1574788	1542693	1544526	49.87277765	chr23	micro
-Superscaffold_24	assembled-molecule	24	Chromosome	CM012136.1	=	NC_044269.1	Primary Assembly	6461084	na	CALAN	Anna's hummingbird	26	921288986	NC_044269.1	1662759	1538737	1563314	1695474	48.01725435	chr24	micro
-Superscaffold_25	assembled-molecule	25	Chromosome	CM012137.1	=	NC_044270.1	Primary Assembly	2161911	na	CALAN	Anna's hummingbird	27	927750070	NC_044270.1	436397	516005	511094	430899	54.21778457	chr25	micro
-Superscaffold_26	assembled-molecule	26	Chromosome	CM012138.1	=	NC_044271.1	Primary Assembly	6306732	na	CALAN	Anna's hummingbird	28	929911981	NC_044271.1	1443192	1484307	1475347	1431086	50.73171919	chr26	micro
-Superscaffold_27	assembled-molecule	27	Chromosome	CM012139.1	=	NC_044272.1	Primary Assembly	5749075	na	CALAN	Anna's hummingbird	29	936218713	NC_044272.1	1254655	1299853	1302940	1263010	50.83125377	chr27	micro
-Superscaffold_28	assembled-molecule	28	Chromosome	CM012140.1	=	NC_044273.1	Primary Assembly	5713987	na	CALAN	Anna's hummingbird	30	941967788	NC_044273.1	1293471	1366741	1366400	1289876	51.40876834	chr28	micro
-Superscaffold_Z	assembled-molecule	Z	Chromosome	CM012142.1	=	NC_044274.1	Primary Assembly	74081004	na	CALAN	Anna's hummingbird	32	947681775	NC_044274.1	21268077	14005450	14055773	21327689	39.71471669	chrZ	macro
+Superscaffold_5A	assembled-molecule	5A	Chromosome	CM012145.1	=	NC_044251.1	Primary Assembly	43880846	na	CALAN	Anna's hummingbird	6	566984439	NC_044251.1	12876998	9058274	9089482	12855285	41.35765695	chr5A	macro
+Superscaffold_6	assembled-molecule	6	Chromosome	CM012119.1	=	NC_044252.1	Primary Assembly	35401958	na	CALAN	Anna's hummingbird	8	610865285	NC_044252.1	10275933	7301157	7397377	10427391	41.51910332	chr6	macro
+Superscaffold_7	assembled-molecule	7	Chromosome	CM012120.1	=	NC_044253.1	Primary Assembly	39139214	na	CALAN	Anna's hummingbird	9	646267243	NC_044253.1	11459211	8040651	8041459	11434787	41.26145689	chr7	macro
+Superscaffold_8	assembled-molecule	8	Chromosome	CM012121.1	=	NC_044254.1	Primary Assembly	31090148	na	CALAN	Anna's hummingbird	10	685406457	NC_044254.1	9056782	6431932	6482457	9069977	41.60409596	chr8	macro
+Superscaffold_9	assembled-molecule	9	Chromosome	CM012122.1	=	NC_044255.1	Primary Assembly	25686456	na	CALAN	Anna's hummingbird	13	716496605	NC_044255.1	7277471	5393711	5340899	7199832	42.57753071	chr9	micro
+Superscaffold_10	assembled-molecule	10	Chromosome	CM012123.1	=	NC_044256.1	Primary Assembly	22664390	na	CALAN	Anna's hummingbird	14	742183061	NC_044256.1	6345375	4826572	4794516	6297684	43.21336901	chr10	micro
+Superscaffold_11	assembled-molecule	11	Chromosome	CM012124.1	=	NC_044257.1	Primary Assembly	20302349	na	CALAN	Anna's hummingbird	15	764847451	NC_044257.1	5819369	4236610	4310693	5935180	42.10109994	chr11	micro
+Superscaffold_12	assembled-molecule	12	Chromosome	CM012125.1	=	NC_044258.1	Primary Assembly	21352500	na	CALAN	Anna's hummingbird	16	785149800	NC_044258.1	6090369	4606106	4576228	6056677	43.05016836	chr12	micro
+Superscaffold_13	assembled-molecule	13	Chromosome	CM012126.1	=	NC_044259.1	Primary Assembly	17696115	na	CALAN	Anna's hummingbird	17	806502300	NC_044259.1	4914159	3886660	3875799	4926709	44.09654493	chr13	micro
+Superscaffold_14	assembled-molecule	14	Chromosome	CM012127.1	=	NC_044260.1	Primary Assembly	15497061	na	CALAN	Anna's hummingbird	18	824198415	NC_044260.1	4312745	3455627	3442996	4285593	44.51597316	chr14	micro
+Superscaffold_15	assembled-molecule	15	Chromosome	CM012128.1	=	NC_044261.1	Primary Assembly	13887164	na	CALAN	Anna's hummingbird	19	839695476	NC_044261.1	3860254	3141282	3101019	3784509	44.95047333	chr15	micro
+Superscaffold_17	assembled-molecule	17	Chromosome	CM012129.1	=	NC_044262.1	Primary Assembly	10473655	na	CALAN	Anna's hummingbird	20	853582640	NC_044262.1	2761824	2471698	2465931	2774003	47.14421868	chr17	micro
+Superscaffold_18	assembled-molecule	18	Chromosome	CM012130.1	=	NC_044263.1	Primary Assembly	11617720	na	CALAN	Anna's hummingbird	21	864056295	NC_044263.1	3103010	2675262	2711158	3127895	46.36540684	chr18	micro
+Superscaffold_19	assembled-molecule	19	Chromosome	CM012131.1	=	NC_044264.1	Primary Assembly	11166003	na	CALAN	Anna's hummingbird	22	875674015	NC_044264.1	3023928	2594306	2561740	2985929	46.1767042	chr19	micro
+Superscaffold_20	assembled-molecule	20	Chromosome	CM012132.1	=	NC_044265.1	Primary Assembly	15116875	na	CALAN	Anna's hummingbird	23	886840018	NC_044265.1	4135460	3412188	3426858	4141969	45.24233328	chr20	micro
+Superscaffold_21	assembled-molecule	21	Chromosome	CM012133.1	=	NC_044266.1	Primary Assembly	7710055	na	CALAN	Anna's hummingbird	24	901956893	NC_044266.1	2003254	1770452	1775103	1996855	46.98797879	chr21	micro
+Superscaffold_22	assembled-molecule	22	Chromosome	CM012134.1	=	NC_044267.1	Primary Assembly	5198135	na	CALAN	Anna's hummingbird	25	909666948	NC_044267.1	1190795	1104920	1136322	1238226	47.98963142	chr22	micro
+Superscaffold_23	assembled-molecule	23	Chromosome	CM012135.1	=	NC_044268.1	Primary Assembly	6423903	na	CALAN	Anna's hummingbird	26	914865083	NC_044268.1	1588860	1574788	1542693	1544526	49.87277765	chr23	micro
+Superscaffold_24	assembled-molecule	24	Chromosome	CM012136.1	=	NC_044269.1	Primary Assembly	6461084	na	CALAN	Anna's hummingbird	27	921288986	NC_044269.1	1662759	1538737	1563314	1695474	48.01725435	chr24	micro
+Superscaffold_25	assembled-molecule	25	Chromosome	CM012137.1	=	NC_044270.1	Primary Assembly	2161911	na	CALAN	Anna's hummingbird	28	927750070	NC_044270.1	436397	516005	511094	430899	54.21778457	chr25	micro
+Superscaffold_26	assembled-molecule	26	Chromosome	CM012138.1	=	NC_044271.1	Primary Assembly	6306732	na	CALAN	Anna's hummingbird	29	929911981	NC_044271.1	1443192	1484307	1475347	1431086	50.73171919	chr26	micro
+Superscaffold_27	assembled-molecule	27	Chromosome	CM012139.1	=	NC_044272.1	Primary Assembly	5749075	na	CALAN	Anna's hummingbird	30	936218713	NC_044272.1	1254655	1299853	1302940	1263010	50.83125377	chr27	micro
+Superscaffold_28	assembled-molecule	28	Chromosome	CM012140.1	=	NC_044273.1	Primary Assembly	5713987	na	CALAN	Anna's hummingbird	31	941967788	NC_044273.1	1293471	1366741	1366400	1289876	51.40876834	chr28	micro
+Superscaffold_Z	assembled-molecule	Z	Chromosome	CM012142.1	=	NC_044274.1	Primary Assembly	74081004	na	CALAN	Anna's hummingbird	11	947681775	NC_044274.1	21268077	14005450	14055773	21327689	39.71471669	chrZ	macro
 scaffold_176_arrow_ctg1	assembled-molecule	W	Chromosome	CM012146.1	=	NC_044276.1	Primary Assembly	26448777	na	CALAN	Anna's hummingbird	33	1021762779	NC_044276.1	5561346	4594711	4595499	5485417	45.41296764	chrW	macro
-Superscaffold_33	assembled-molecule	33	Chromosome	CM012141.1	=	NC_044275.1	Primary Assembly	1888140	na	CALAN	Anna's hummingbird	31	1048211556	NC_044275.1	312416	383249	386698	319114	54.93825443	chr33	micro
+Superscaffold_33	assembled-molecule	33	Chromosome	CM012141.1	=	NC_044275.1	Primary Assembly	1888140	na	CALAN	Anna's hummingbird	32	1048211556	NC_044275.1	312416	383249	386698	319114	54.93825443	chr33	micro
 SUPER_1	assembled-molecule	1	Chromosome	CM026666.1	=	NC_051187.1	Primary Assembly	126922963	na	FALRU	Gyrfalcon	1	0	NC_051187.1	36478409	26765570	26839550	36617887	42.30822487	chr1	macro
 SUPER_2	assembled-molecule	2	Chromosome	CM026667.1	=	NC_051188.1	Primary Assembly	122153554	na	FALRU	Gyrfalcon	2	126922963	NC_051188.1	36451847	24551620	24538388	36476195	40.23175915	chr2	macro
 SUPER_3	assembled-molecule	3	Chromosome	CM026668.1	=	NC_051189.1	Primary Assembly	121276792	na	FALRU	Gyrfalcon	3	249076517	NC_051189.1	35432034	25102580	25149003	35419695	41.49480487	chr3	macro
@@ -451,3 +451,53 @@ Super_Scaffold_2	assembled-molecule	24	Chromosome	LR606204.1	<>	na	Primary Assem
 scaffold_25_ctg1	assembled-molecule	25	Chromosome	LR606205.1	<>	na	Primary Assembly	19844373	na	AQUCH	Golden eagle	26	1065806615	LR606205.1	5569275	4421924	4374249	5478925	44.3257794	chr25	micro
 scaffold_27_ctg1	assembled-molecule	26	Chromosome	LR606206.1	<>	na	Primary Assembly	17717355	na	AQUCH	Golden eagle	27	1085650988	LR606206.1	5276696	3607367	3576715	5220214	40.63166818	chr26	micro
 Super_Scaffold_7	assembled-molecule	Z	Chromosome	LR606180.1	<>	na	Primary Assembly	88216475	na	AQUCH	Golden eagle	13	1103368343	LR606180.1	25873596	17662377	17682035	25855275	40.59156929	chrZ	macro
+chr1	assembled-molecule	1	Chromosome	na	<>	NC_045426.1	Primary Assembly	716413629	na	SARHA	Tasmainian devil	1	0	NC_045426.1	na	na	na	na	na	chr1	macro
+chr2	assembled-molecule	2	Chromosome	na	<>	NC_045427.1	Primary Assembly	662751787	na	SARHA	Tasmainian devil	2	716413629	NC_045427.1	na	na	na	na	na	chr2	macro
+chr3	assembled-molecule	3	Chromosome	na	<>	NC_045428.1	Primary Assembly	611347268	na	SARHA	Tasmainian devil	3	1379165416	NC_045428.1	na	na	na	na	na	chr3	macro
+chr4	assembled-molecule	4	Chromosome	na	<>	NC_045429.1	Primary Assembly	464895054	na	SARHA	Tasmainian devil	4	1990512684	NC_045429.1	na	na	na	na	na	chr4	macro
+chr4	assembled-molecule	5	Chromosome	na	<>	NC_045430.1	Primary Assembly	288121652	na	SARHA	Tasmainian devil	5	2455407738	NC_045430.1	na	na	na	na	na	chr4	macro
+chr6	assembled-molecule	6	Chromosome	na	<>	NC_045431.1	Primary Assembly	254895979	na	SARHA	Tasmainian devil	6	2743529390	NC_045431.1	na	na	na	na	na	chr6	macro
+chrX	assembled-molecule	X	Chromosome	na	<>	NC_045432.1	Primary Assembly	83081154	na	SARHA	Tasmainian devil	7	2998425369	NC_045432.1	na	na	na	na	na	chrX	macro
+chr1	assembled-molecule	1	Chromosome	na	<>	na	Primary Assembly	248956422	na	HUMAN	Human	1	0	na	na	na	na	na	na	chr1	macro
+chr2	assembled-molecule	2	Chromosome	na	<>	na	Primary Assembly	242193529	na	HUMAN	Human	2	248956422	na	na	na	na	na	na	chr2	macro
+chr3	assembled-molecule	3	Chromosome	na	<>	na	Primary Assembly	198295559	na	HUMAN	Human	3	491149951	na	na	na	na	na	na	chr3	macro
+chr4	assembled-molecule	4	Chromosome	na	<>	na	Primary Assembly	190214555	na	HUMAN	Human	4	689445510	na	na	na	na	na	na	chr4	macro
+chr5	assembled-molecule	5	Chromosome	na	<>	na	Primary Assembly	181538259	na	HUMAN	Human	5	879660065	na	na	na	na	na	na	chr5	macro
+chr6	assembled-molecule	6	Chromosome	na	<>	na	Primary Assembly	170805979	na	HUMAN	Human	6	1061198324	na	na	na	na	na	na	chr6	macro
+chr7	assembled-molecule	7	Chromosome	na	<>	na	Primary Assembly	159345973	na	HUMAN	Human	7	1232004303	na	na	na	na	na	na	chr7	macro
+chr8	assembled-molecule	8	Chromosome	na	<>	na	Primary Assembly	145138636	na	HUMAN	Human	8	1391350276	na	na	na	na	na	na	chr8	macro
+chr9	assembled-molecule	9	Chromosome	na	<>	na	Primary Assembly	138394717	na	HUMAN	Human	9	1536488912	na	na	na	na	na	na	chr9	macro
+chr10	assembled-molecule	10	Chromosome	na	<>	na	Primary Assembly	133797422	na	HUMAN	Human	10	1674883629	na	na	na	na	na	na	chr10	macro
+chr11	assembled-molecule	11	Chromosome	na	<>	na	Primary Assembly	135086622	na	HUMAN	Human	11	1808681051	na	na	na	na	na	na	chr11	macro
+chr12	assembled-molecule	12	Chromosome	na	<>	na	Primary Assembly	133275309	na	HUMAN	Human	12	1943767673	na	na	na	na	na	na	chr12	macro
+chr13	assembled-molecule	13	Chromosome	na	<>	na	Primary Assembly	114364328	na	HUMAN	Human	13	2077042982	na	na	na	na	na	na	chr13	macro
+chr14	assembled-molecule	14	Chromosome	na	<>	na	Primary Assembly	107043718	na	HUMAN	Human	14	2191407310	na	na	na	na	na	na	chr14	macro
+chr15	assembled-molecule	15	Chromosome	na	<>	na	Primary Assembly	101991189	na	HUMAN	Human	15	2298451028	na	na	na	na	na	na	chr15	macro
+chr16	assembled-molecule	16	Chromosome	na	<>	na	Primary Assembly	90338345	na	HUMAN	Human	16	2400442217	na	na	na	na	na	na	chr16	macro
+chr17	assembled-molecule	17	Chromosome	na	<>	na	Primary Assembly	83257441	na	HUMAN	Human	17	2490780562	na	na	na	na	na	na	chr17	macro
+chr18	assembled-molecule	18	Chromosome	na	<>	na	Primary Assembly	80373285	na	HUMAN	Human	18	2574038003	na	na	na	na	na	na	chr18	macro
+chr19	assembled-molecule	19	Chromosome	na	<>	na	Primary Assembly	58617616	na	HUMAN	Human	19	2654411288	na	na	na	na	na	na	chr19	macro
+chr20	assembled-molecule	20	Chromosome	na	<>	na	Primary Assembly	64444167	na	HUMAN	Human	20	2713028904	na	na	na	na	na	na	chr20	macro
+chr21	assembled-molecule	21	Chromosome	na	<>	na	Primary Assembly	46709983	na	HUMAN	Human	21	2777473071	na	na	na	na	na	na	chr21	macro
+chr22	assembled-molecule	22	Chromosome	na	<>	na	Primary Assembly	50818468	na	HUMAN	Human	22	2824183054	na	na	na	na	na	na	chr22	macro
+chrX	assembled-molecule	X	Chromosome	na	<>	na	Primary Assembly	156040895	na	HUMAN	Human	23	2875001522	na	na	na	na	na	na	chrX	macro
+chrY	assembled-molecule	Y	Chromosome	na	<>	na	Primary Assembly	57227415	na	HUMAN	Human	24	3031042417	na	na	na	na	na	na	chrY	macro
+chr1	assembled-molecule	1	Chromosome	na	<>	NC_049979.1	Primary Assembly	35335272	na	BRAFL	Florida lancelet	1	0	NC_049979.1	na	na	na	na	na	chr1	micro
+chr2	assembled-molecule	2	Chromosome	na	<>	NC_049980.1	Primary Assembly	35136500	na	BRAFL	Florida lancelet	2	35335272	NC_049980.1	na	na	na	na	na	chr2	micro
+chr3	assembled-molecule	3	Chromosome	na	<>	NC_049981.1	Primary Assembly	34247348	na	BRAFL	Florida lancelet	3	70471772	NC_049981.1	na	na	na	na	na	chr3	micro
+chr4	assembled-molecule	4	Chromosome	na	<>	NC_049982.1	Primary Assembly	34244393	na	BRAFL	Florida lancelet	4	104719120	NC_049982.1	na	na	na	na	na	chr4	micro
+chr5	assembled-molecule	5	Chromosome	na	<>	NC_049983.1	Primary Assembly	29550017	na	BRAFL	Florida lancelet	5	138963513	NC_049983.1	na	na	na	na	na	chr5	micro
+chr6	assembled-molecule	6	Chromosome	na	<>	NC_049984.1	Primary Assembly	28086088	na	BRAFL	Florida lancelet	6	168513530	NC_049984.1	na	na	na	na	na	chr6	micro
+chr7	assembled-molecule	7	Chromosome	na	<>	NC_049985.1	Primary Assembly	25954402	na	BRAFL	Florida lancelet	7	196599618	NC_049985.1	na	na	na	na	na	chr7	micro
+chr8	assembled-molecule	8	Chromosome	na	<>	NC_049986.1	Primary Assembly	25575982	na	BRAFL	Florida lancelet	8	222554020	NC_049986.1	na	na	na	na	na	chr8	micro
+chr9	assembled-molecule	9	Chromosome	na	<>	NC_049987.1	Primary Assembly	25441410	na	BRAFL	Florida lancelet	9	248130002	NC_049987.1	na	na	na	na	na	chr9	micro
+chr10	assembled-molecule	10	Chromosome	na	<>	NC_049988.1	Primary Assembly	23931428	na	BRAFL	Florida lancelet	10	273571412	NC_049988.1	na	na	na	na	na	chr10	micro
+chr11	assembled-molecule	11	Chromosome	na	<>	NC_049989.1	Primary Assembly	23529748	na	BRAFL	Florida lancelet	11	297502840	NC_049989.1	na	na	na	na	na	chr11	micro
+chr12	assembled-molecule	12	Chromosome	na	<>	NC_049990.1	Primary Assembly	22973701	na	BRAFL	Florida lancelet	12	321032588	NC_049990.1	na	na	na	na	na	chr12	micro
+chr13	assembled-molecule	13	Chromosome	na	<>	NC_049991.1	Primary Assembly	22407120	na	BRAFL	Florida lancelet	13	344006289	NC_049991.1	na	na	na	na	na	chr13	micro
+chr14	assembled-molecule	14	Chromosome	na	<>	NC_049992.1	Primary Assembly	21813864	na	BRAFL	Florida lancelet	14	366413409	NC_049992.1	na	na	na	na	na	chr14	micro
+chr15	assembled-molecule	15	Chromosome	na	<>	NC_049993.1	Primary Assembly	21514203	na	BRAFL	Florida lancelet	15	388227273	NC_049993.1	na	na	na	na	na	chr15	micro
+chr16	assembled-molecule	16	Chromosome	na	<>	NC_049994.1	Primary Assembly	19152309	na	BRAFL	Florida lancelet	16	409741476	NC_049994.1	na	na	na	na	na	chr16	micro
+chr17	assembled-molecule	17	Chromosome	na	<>	NC_049995.1	Primary Assembly	19122194	na	BRAFL	Florida lancelet	17	428893785	NC_049995.1	na	na	na	na	na	chr17	micro
+chr18	assembled-molecule	18	Chromosome	na	<>	NC_049996.1	Primary Assembly	18554083	na	BRAFL	Florida lancelet	18	448015979	NC_049996.1	na	na	na	na	na	chr18	micro
+chr19	assembled-molecule	19	Chromosome	na	<>	NC_049997.1	Primary Assembly	17116508	na	BRAFL	Florida lancelet	19	466570062	NC_049997.1	na	na	na	na	na	chr19	micro
