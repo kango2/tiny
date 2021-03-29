@@ -4,11 +4,11 @@ Contributors: Hardip Patel, Paul Waters, Arthur Georges, Jenny Graves
 
 ## Data preparation
 
-Process was automated using `preparegenomes.sh` script. Basic steps were as follows.
+The process was automated using the `preparegenomes.sh` script. Basic steps were as follows.
 
 1. Genome assemblies were downloaded from relevant sources (NCBI or DNAZoo). Check `metadata/species.txt` for details of species and download paths.
 2. `.2bit`, `.capsule`, `.sizes` files were created.
-3. Genome files were split into smaller chunks (1Mb sequence size and ~5Mb of total sequence per file) without overlaps. **This step allows for embarassingly parallel lastz alignments to capitalise on large HPC facilities.**
+3. Genome files were split into smaller regions (1Mb sequence size and ~5Mb of total sequence per file) without overlap. **This step allows for embarassingly parallel lastz alignments to capitalise on large HPC facilities.**
 
 ## One-way all-vs-all whole genome alignments
 
