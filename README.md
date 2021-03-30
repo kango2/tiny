@@ -26,16 +26,16 @@ We used the following parameters for LastZ alignments:
 |Naja naja |NAJNA|Indian cobra|35670|https://doi.org/10.1038/s41588-019-0559-8|
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258||
 |Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|Genome10K??|
-|Dermochelys coriacea|DERCO|Leatherback sea turtle|27794||
-|Chelonia mydas|CHEMY|Green sea turtle|8469||
-|Lacerta agilis|LACAG|Sand lizard|80427||
-|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005||
-|Podarcis muralis|PODMU|Common wall lizard|64176||
-|Zootoca vivipara|ZOOVI|Common lizard|8524||
-|Crotalus viridis|CROVV|Prairie rattlesnake|8742||
-|Calypte anna|CALAN|Anna's hummingbird|9244||
-|Falco rusticolus|FALRU|Gyrfalcon|120794||
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781||
+|Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP??|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP??|
+|Lacerta agilis|LACAG|Sand lizard|80427|VGP??|
+|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP??|
+|Podarcis muralis|PODMU|Common wall lizard|64176|https://doi.org/10.1073/pnas.1820320116|
+|Zootoca vivipara|ZOOVI|Common lizard|8524|https://doi.org/10.1093/gbe/evaa161|
+|Crotalus viridis|CROVV|Prairie rattlesnake|8742|https://doi.org/10.1038/s41467-018-05279-1|
+|Calypte anna|CALAN|Anna's hummingbird|9244|VGP??|
+|Falco rusticolus|FALRU|Gyrfalcon|120794|VGP??|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Wellcome Sanger Policy??|
 |Dromaius novaehollandiae|DRONO|Emu|8790||
 |Salvator merianae|SAMER|Argentine black and white tegu|96440||
 |Python bivittatus|PYTBI|Burmese python|176946||
