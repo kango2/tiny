@@ -27,7 +27,7 @@ We used the following parameters for LastZ alignments:
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258||
 |Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|Genome10K??|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP??|
-|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP??|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP?? DNAzoo|
 |Lacerta agilis|LACAG|Sand lizard|80427|VGP??|
 |Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP??|
 |Podarcis muralis|PODMU|Common wall lizard|64176|https://doi.org/10.1073/pnas.1820320116|
