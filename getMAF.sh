@@ -5,6 +5,9 @@ set -e
 ##load Jim Kent's Utilities available at http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/ with download instructions
 #module load kentutils
 
+#typical command
+#sh getMAF.sh SARHA.vs.HUMAN GCA_000001405.15_GRCh38_no_alt_analysis_set.fna.2bit GCF_902635505.1_mSarHar1.11_genomic.fna.2bit GCA_000001405.15_GRCh38_no_alt_analysis_set.fna.sizes GCF_902635505.1_mSarHar1.11_genomic.fna.sizes HUMAN SARHA
+
 pairbase=$1
 target2bit=$2
 query2bit=$3
