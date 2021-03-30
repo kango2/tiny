@@ -23,9 +23,9 @@ We used the following parameters for LastZ alignments:
 |Gallus gallus|CHICKYO|Chicken Yeonsan Ogye|9031|
 |Corvus monedula|CORMO|Jackdaw|30423|https://doi.org/10.1038/s41467-020-17195-4|
 |Cygnus olor|CYGOL|Mute swan|8869|Genome10K??|
-|Naja naja |NAJNA|Indian cobra|35670||
+|Naja naja |NAJNA|Indian cobra|35670|https://doi.org/10.1038/s41588-019-0559-8|
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258||
-|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980||
+|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|Genome10K??|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794||
 |Chelonia mydas|CHEMY|Green sea turtle|8469||
 |Lacerta agilis|LACAG|Sand lizard|80427||
