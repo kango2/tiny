@@ -34,7 +34,7 @@ We used the following parameters for LastZ alignments:
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP??|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP??|
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Wellcome Sanger Policy??|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Wellcome Sanger Policy?? Also DNAzoo|
 |Dromaius novaehollandiae|DRONO|Emu|8790||
 |Salvator merianae|SAMER|Argentine black and white tegu|96440||
 |Python bivittatus|PYTBI|Burmese python|176946||
