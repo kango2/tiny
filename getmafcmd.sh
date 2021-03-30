@@ -5,15 +5,15 @@ set -ex
 full_path=$(realpath $0)
 basepath=`dirname $full_path`
 
-lastzbin="/g/data/te53/hrp561/wga/software/lastz-1.04.03/src/lastz_32"
-export PATH=$PATH:/g/data/te53/hrp561/wga/software/kentutils
+lastzbin=`which lastz_32`
+
+module load kentutils
 
 input="$basepath/metadata/species.txt"
 alndir=$(realpath "$basepath/../lastzaln")
 mkdir -p $alndir
 
 mafcmd=$alndir/getmaf.cmds.txt
-rm -rf $mafcmd
 
 targetcapsules=()
 splitsdir=()
