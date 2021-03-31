@@ -38,7 +38,7 @@ We used the following parameters for LastZ alignments:
 |Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo. Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
 |Salvator merianae|SAMER|Argentine black and white tegu|96440|[DNAzoo.](https://www.dnazoo.org/assemblies/Salvator_merianae) Draft genome: [Roscito, J.G. et al, 2018](https://doi.org/10.1093/gigascience/giy141)|
 |Python bivittatus|PYTBI|Burmese python|176946|[DNAzoo.](https://www.dnazoo.org/assemblies/Python_bivittatus) Draft genome: [Castoe, T.A. et al, 2013](https://doi.org/10.1073/pnas.1314475110)|
-|Gymnogyps californianus|GYMCA|California condor|33616|DNAzoo. Draft genome: Unpublished|
+|Gymnogyps californianus|GYMCA|California condor|33616|[DNAzoo.](https://www.dnazoo.org/assemblies/Gymnogyps_californianus) Draft genome: Unpublished|
 |Alligator mississippiensis|ALLMI|American alligator|8496|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_mississippiensis) Draft genome: [St John, J.A., et al, 2017](https://doi.org/10.1101/gr.213595.116)|
 |Alligator sinensis|ALLSI|Chinese alligator|38654|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_sinensis) Draft genome: [Wan, Q.H. et al, 2013](https://doi.org/10.1038/cr.2013.104)|
 |Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis|
