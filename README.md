@@ -18,7 +18,7 @@ We used the following parameters for LastZ alignments:
 **List of species included in analyses**
 |Species|Species Code|Common Name|NCBI Taxonomy ID|Citation|
 |:---|:---|:---|---:|:---|
-|Gallus gallus|CHICK|Chicken|9031||
+|Gallus gallus|CHICK|Chicken|9031|VGP & B10K trio: Wes Warren, Erich Jarvis|
 |Trachemys scripta elegans|TRASE|Red-eared slider turtle|31138|[Simison, W.B. et al, 2020](https://doi.org/10.1093/gbe/evaa063)|
 |Corvus monedula|CORMO|Jackdaw|30423|[Weissensteiner, M.H. et al, 2020](https://doi.org/10.1038/s41467-020-17195-4)|
 |Cygnus olor|CYGOL|Mute swan|8869|VGP & B10K: Robert Kraus. Unpublished|
@@ -33,7 +33,7 @@ We used the following parameters for LastZ alignments:
 |Zootoca vivipara|ZOOVI|Common lizard|8524|[Yurchenko, A.A. et al, 2020](https://doi.org/10.1093/gbe/evaa161)|
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
-|Falco rusticolus|FALRU|Gyrfalcon|120794|VGP??|
+|Falco rusticolus|FALRU|Gyrfalcon|120794|VGP & B10K: Qasim Ayub. Unpublished|
 |Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. Also at DNAzoo|
 |Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo|
 |Salvator merianae|SAMER|Argentine black and white tegu|96440|DNAzoo|
@@ -41,9 +41,9 @@ We used the following parameters for LastZ alignments:
 |Gymnogyps californianus|GYMCA|California condor|33616|DNAzoo|
 |Alligator mississippiensis|ALLMI|American alligator|8496|DNAzoo|
 |Alligator sinensis|ALLSI|Chinese alligator|38654|DNAzoo|
-|Homo sapiens|HUMAN|Human|9606||
-|Sarcophilus harrisii|SARHA|Tasmanian devil|9305||
-|Branchiostoma floridae|BRAFL|Florida lancelet|7739||
+|Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis|
+|Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute Data Sharing|
+|Branchiostoma floridae|BRAFL|Florida lancelet|7739|[Simakov, O. et al, 2020](https://doi.org/10.1038/s41559-020-1156-z)|
 
 **Typical workflow**
 
