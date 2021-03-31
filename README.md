@@ -26,7 +26,7 @@ We used the following parameters for LastZ alignments:
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP + G10K??|
 |Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|Genome10K??|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP??|
-|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP?? DNAzoo|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP. Unpublished. Also at DNAzoo|
 |Lacerta agilis|LACAG|Sand lizard|80427|VGP??|
 |Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP??|
 |Podarcis muralis|PODMU|Common wall lizard|64176|[Andrade, P. et al, 2019](https://doi.org/10.1073/pnas.1820320116)|
@@ -34,13 +34,13 @@ We used the following parameters for LastZ alignments:
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP??|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP??|
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Wellcome Sanger Policy?? Also DNAzoo|
-|Dromaius novaehollandiae|DRONO|Emu|8790||
-|Salvator merianae|SAMER|Argentine black and white tegu|96440||
-|Python bivittatus|PYTBI|Burmese python|176946||
-|Gymnogyps californianus|GYMCA|California condor|33616||
-|Alligator mississippiensis|ALLMI|American alligator|8496||
-|Alligator sinensis|ALLSI|Chinese alligator|38654||
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Wellcome Sanger Policy. Also DNAzoo|
+|Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo|
+|Salvator merianae|SAMER|Argentine black and white tegu|96440|DNAzoo|
+|Python bivittatus|PYTBI|Burmese python|176946|DNAzoo|
+|Gymnogyps californianus|GYMCA|California condor|33616|DNAzoo|
+|Alligator mississippiensis|ALLMI|American alligator|8496|DNAzoo|
+|Alligator sinensis|ALLSI|Chinese alligator|38654|DNAzoo|
 |Homo sapiens|HUMAN|Human|9606||
 |Sarcophilus harrisii|SARHA|Tasmanian devil|9305||
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739||
