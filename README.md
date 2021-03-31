@@ -24,7 +24,7 @@ We used the following parameters for LastZ alignments:
 |Cygnus olor|CYGOL|Mute swan|8869|VGP & B10K: Robert Kraus. Unpublished|
 |Naja naja |NAJNA|Indian cobra|35670|[Kushal Suryamohan, K. et al, 2020](https://doi.org/10.1038/s41588-019-0559-8)|
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP. [Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
-|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VVGP: Bob Murphy. Unpublished|
+|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VGP: Bob Murphy. Unpublished|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Lisa Komoroske. Unpublished|
 |Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. Also at DNAzoo|
 |Lacerta agilis|LACAG|Sand lizard|80427|VGP: Neil Gemmell. Unpublished|
@@ -34,7 +34,7 @@ We used the following parameters for LastZ alignments:
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP??|
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Wellcome Sanger Policy. Also DNAzoo|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. Also at DNAzoo|
 |Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo|
 |Salvator merianae|SAMER|Argentine black and white tegu|96440|DNAzoo|
 |Python bivittatus|PYTBI|Burmese python|176946|DNAzoo|
