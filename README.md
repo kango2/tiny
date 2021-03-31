@@ -26,21 +26,21 @@ We used the following parameters for LastZ alignments:
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP: Guojie Zhang. [Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
 |Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VGP: Bob Murphy. Unpublished|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Lisa Komoroske. Unpublished|
-|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. Also at DNAzoo|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. [Also at DNAzoo.](https://www.dnazoo.org/assemblies/Chelonia_mydas) Draft genome: [Zhuo, W. et al, 2013](https://doi.org/10.1038/ng.2615)|
 |Lacerta agilis|LACAG|Sand lizard|80427|VGP: Neil Gemmell. Unpublished|
-|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP: Anne Bronikowski|
+|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP: Anne Bronikowski. Unpublished|
 |Podarcis muralis|PODMU|Common wall lizard|64176|[Andrade, P. et al, 2019](https://doi.org/10.1073/pnas.1820320116)|
 |Zootoca vivipara|ZOOVI|Common lizard|8524|[Yurchenko, A.A. et al, 2020](https://doi.org/10.1093/gbe/evaa161)|
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP & B10K: Qasim Ayub. Unpublished|
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. Also at DNAzoo|
-|Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo. [Sackton, T.B., et al, 2019](https://doi.org/10.1126/science.aat7244)|
-|Salvator merianae|SAMER|Argentine black and white tegu|96440|DNAzoo|
-|Python bivittatus|PYTBI|Burmese python|176946|DNAzoo|
-|Gymnogyps californianus|GYMCA|California condor|33616|DNAzoo|
-|Alligator mississippiensis|ALLMI|American alligator|8496|DNAzoo|
-|Alligator sinensis|ALLSI|Chinese alligator|38654|DNAzoo|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. [Also at DNAzoo.](https://www.dnazoo.org/assemblies/Aquila_chrysaetos)Draft genome: [Bussche, R.A. et al, 2017](https://doi.org/10.3356/JRR-16-47.1)|
+|Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo. Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
+|Salvator merianae|SAMER|Argentine black and white tegu|96440|[DNAzoo.](https://www.dnazoo.org/assemblies/Salvator_merianae) Draft genome: [Roscito, J.G. et al, 2018](https://doi.org/10.1093/gigascience/giy141)|
+|Python bivittatus|PYTBI|Burmese python|176946|[DNAzoo.](https://www.dnazoo.org/assemblies/Python_bivittatus) Draft genome: [Castoe, T.A. et al, 2013](https://doi.org/10.1073/pnas.1314475110)|
+|Gymnogyps californianus|GYMCA|California condor|33616|DNAzoo. Draft genome: Unpublished|
+|Alligator mississippiensis|ALLMI|American alligator|8496|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_mississippiensis) Draft genome: [St John, J.A., et al, 2017](https://doi.org/10.1101/gr.213595.116)|
+|Alligator sinensis|ALLSI|Chinese alligator|38654|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_sinensis) Draft genome: [Wan, Q.H. et al, 2013](https://doi.org/10.1038/cr.2013.104)|
 |Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis|
 |Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute Data Sharing|
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739|[Simakov, O. et al, 2020](https://doi.org/10.1038/s41559-020-1156-z)|
