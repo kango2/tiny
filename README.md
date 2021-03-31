@@ -21,18 +21,18 @@ We used the following parameters for LastZ alignments:
 |Gallus gallus|CHICK|Chicken|9031||
 |Trachemys scripta elegans|TRASE|Red-eared slider turtle|31138|[Simison, W.B. et al, 2020](https://doi.org/10.1093/gbe/evaa063)|
 |Corvus monedula|CORMO|Jackdaw|30423|[Weissensteiner, M.H. et al, 2020](https://doi.org/10.1038/s41467-020-17195-4)|
-|Cygnus olor|CYGOL|Mute swan|8869|Genome10K??|
+|Cygnus olor|CYGOL|Mute swan|8869|VGP & B10K: Robert Kraus. Unpublished|
 |Naja naja |NAJNA|Indian cobra|35670|[Kushal Suryamohan, K. et al, 2020](https://doi.org/10.1038/s41588-019-0559-8)|
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP. [Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
-|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|Genome10K??|
-|Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP??|
-|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP. Unpublished. Also at DNAzoo|
-|Lacerta agilis|LACAG|Sand lizard|80427|VGP??|
-|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP??|
+|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VVGP: Bob Murphy. Unpublished|
+|Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Lisa Komoroske. Unpublished|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. Also at DNAzoo|
+|Lacerta agilis|LACAG|Sand lizard|80427|VGP: Neil Gemmell. Unpublished|
+|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP: Anne Bronikowski|
 |Podarcis muralis|PODMU|Common wall lizard|64176|[Andrade, P. et al, 2019](https://doi.org/10.1073/pnas.1820320116)|
 |Zootoca vivipara|ZOOVI|Common lizard|8524|[Yurchenko, A.A. et al, 2020](https://doi.org/10.1093/gbe/evaa161)|
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
-|Calypte anna|CALAN|Anna's hummingbird|9244|VGP??|
+|Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP??|
 |Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Wellcome Sanger Policy. Also DNAzoo|
 |Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo|
