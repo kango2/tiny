@@ -18,7 +18,7 @@ We used the following parameters for LastZ alignments:
 **List of species included in analyses**
 |Species|Species Code|Common Name|NCBI Taxonomy ID|Citation|
 |:---|:---|:---|---:|:---|
-|Gallus gallus|CHICK|Chicken|9031|VGP & B10K trio: Wes Warren, Erich Jarvis|
+|Gallus gallus|CHICK|Chicken|9031|VGP & B10K trio: Wes Warren, Erich Jarvis: [Hillier, L.W. et al, 2004](https://doi.org/10.1038/nature03154)|
 |Trachemys scripta elegans|TRASE|Red-eared slider turtle|31138|[Simison, W.B. et al, 2020](https://doi.org/10.1093/gbe/evaa063)|
 |Corvus monedula|CORMO|Jackdaw|30423|[Weissensteiner, M.H. et al, 2020](https://doi.org/10.1038/s41467-020-17195-4)|
 |Cygnus olor|CYGOL|Mute swan|8869|VGP & B10K: Robert Kraus. Unpublished|
