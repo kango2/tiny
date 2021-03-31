@@ -23,7 +23,7 @@ We used the following parameters for LastZ alignments:
 |Corvus monedula|CORMO|Jackdaw|30423|[Weissensteiner, M.H. et al, 2020](https://doi.org/10.1038/s41467-020-17195-4)|
 |Cygnus olor|CYGOL|Mute swan|8869|VGP & B10K: Robert Kraus. Unpublished|
 |Naja naja |NAJNA|Indian cobra|35670|[Kushal Suryamohan, K. et al, 2020](https://doi.org/10.1038/s41588-019-0559-8)|
-|Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP. [Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
+|Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP: Guojie Zhang. [Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
 |Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VGP: Bob Murphy. Unpublished|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Lisa Komoroske. Unpublished|
 |Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. Also at DNAzoo|
