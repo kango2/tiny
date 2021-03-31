@@ -35,7 +35,7 @@ We used the following parameters for LastZ alignments:
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP & B10K: Qasim Ayub. Unpublished|
 |Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. Also at DNAzoo|
-|Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo|
+|Dromaius novaehollandiae|DRONO|Emu|8790|DNAzoo. [Sackton, T.B., et al, 2019](https://doi.org/10.1126/science.aat7244)|
 |Salvator merianae|SAMER|Argentine black and white tegu|96440|DNAzoo|
 |Python bivittatus|PYTBI|Burmese python|176946|DNAzoo|
 |Gymnogyps californianus|GYMCA|California condor|33616|DNAzoo|
