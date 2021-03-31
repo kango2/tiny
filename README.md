@@ -34,7 +34,7 @@ We used the following parameters for LastZ alignments:
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP & B10K: Qasim Ayub. Unpublished|
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. [Also at DNAzoo.](https://www.dnazoo.org/assemblies/Aquila_chrysaetos)Draft genome: [Bussche, R.A. et al, 2017](https://doi.org/10.3356/JRR-16-47.1)|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. [Also at DNAzoo.](https://www.dnazoo.org/assemblies/Aquila_chrysaetos) Draft genome: [Bussche, R.A. et al, 2017](https://doi.org/10.3356/JRR-16-47.1)|
 |Dromaius novaehollandiae|DRONO|Emu|8790|[DNAzoo.](https://www.dnazoo.org/assemblies/Dromaius_novaehollandiae) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
 |Salvator merianae|SAMER|Argentine black and white tegu|96440|[DNAzoo.](https://www.dnazoo.org/assemblies/Salvator_merianae) Draft genome: [Roscito, J.G. et al, 2018](https://doi.org/10.1093/gigascience/giy141)|
 |Python bivittatus|PYTBI|Burmese python|176946|[DNAzoo.](https://www.dnazoo.org/assemblies/Python_bivittatus) Draft genome: [Castoe, T.A. et al, 2013](https://doi.org/10.1073/pnas.1314475110)|
