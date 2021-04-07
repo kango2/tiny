@@ -54,6 +54,8 @@ We used the following parameters for LastZ alignments:
 |Rhea americana|RHEAM|Greater rhea|8797|[DNAzoo.](https://www.dnazoo.org/assemblies/Rhea_americana) Draft genome: Unpublished|
 |Strix occidentalis|STROC|Spotted owl|201991|[DNAzoo.](https://www.dnazoo.org/assemblies/Strix_occidentalis) Draft genome: Unpublished|
 |Struthio camelus|STRCA|Common ostrich|8801|[DNAzoo.](https://www.dnazoo.org/assemblies/Struthio_camelus) Draft genome: Unpublished|
+|Intellagama lesueurii lesueurii|INTLE|Eastern water dragon|103694|[DNAzoo.](https://www.dnazoo.org/assemblies/Intellagama_lesueurii_lesueurii) Draft genome: Unpublished|
+
 
 **Typical workflow**
 
