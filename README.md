@@ -44,15 +44,15 @@ We used the following parameters for LastZ alignments:
 |Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis|
 |Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute Data Sharing|
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739|[Simakov, O. et al, 2020](https://doi.org/10.1038/s41559-020-1156-z)|
-|Phascolarctos cinereus|PHACI|Koala|||
-|Casuarius casuarius|CASCA|Southern cassowary|||
-|Tympanuchus cupido|TYMCU|Greater prairie chicken|||
-|Eopsaltria australis|EOPAU|Eastern yellow robin|||
-|Lichenostomus melanops cassidix|LIMCA|Helmeted honeyeater|||
-|Patagioenas fasciata|PATFA|Band-tailed pigeon|||
-|Phalacrocorax auritus|PHAAI|Double-crested cormorant|||
-|Rhea americana|RHEAM|Greater rhea|||
-|Strix occidentalis|STROC|Spotted owl|||
+|Phascolarctos cinereus|PHACI|Koala|38626||
+|Casuarius casuarius|CASCA|Southern cassowary|8787||
+|Tympanuchus cupido|TYMCU|Greater prairie chicken|9004||
+|Eopsaltria australis|EOPAU|Eastern yellow robin|44318||
+|Lichenostomus melanops cassidix|LIMCA|Helmeted honeyeater|1497555||
+|Patagioenas fasciata|PATFA|Band-tailed pigeon|372321||
+|Phalacrocorax auritus|PHAAI|Double-crested cormorant|56069||
+|Rhea americana|RHEAM|Greater rhea|8797||
+|Strix occidentalis|STROC|Spotted owl|201991||
 |Struthio camelus|STRCA|Common ostrich|||
 
 **Typical workflow**
