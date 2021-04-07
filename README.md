@@ -41,7 +41,7 @@ We used the following parameters for LastZ alignments:
 |Gymnogyps californianus|GYMCA|California condor|33616|[DNAzoo.](https://www.dnazoo.org/assemblies/Gymnogyps_californianus) Draft genome: Unpublished|
 |Alligator mississippiensis|ALLMI|American alligator|8496|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_mississippiensis) Draft genome: [St John, J.A., et al, 2017](https://doi.org/10.1101/gr.213595.116)|
 |Alligator sinensis|ALLSI|Chinese alligator|38654|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_sinensis) Draft genome: [Wan, Q.H. et al, 2013](https://doi.org/10.1038/cr.2013.104)|
-|Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis|
+|Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis. [Lander, E. et al, 2001](https://doi.org/10.1038/35057062)|
 |Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute Data Sharing|
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739|[Simakov, O. et al, 2020](https://doi.org/10.1038/s41559-020-1156-z)|
 |Phascolarctos cinereus|PHACI|Koala|38626|[DNAzoo.](https://www.dnazoo.org/assemblies/Phascolarctos_cinereus) Draft genome: Unpublished|
