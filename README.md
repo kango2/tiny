@@ -44,16 +44,16 @@ We used the following parameters for LastZ alignments:
 |Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis. [Lander, E. et al, 2001](https://doi.org/10.1038/35057062)|
 |Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute Data Sharing|
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739|[Simakov, O. et al, 2020](https://doi.org/10.1038/s41559-020-1156-z)|
-|Phascolarctos cinereus|PHACI|Koala|38626|[DNAzoo.](https://www.dnazoo.org/assemblies/Phascolarctos_cinereus) Draft genome: Unpublished|
-|Casuarius casuarius|CASCA|Southern cassowary|8787|[DNAzoo.](https://www.dnazoo.org/assemblies/Casuarius_casuarius) Draft genome: Unpublished|
+|Phascolarctos cinereus|PHACI|Koala|38626|[DNAzoo.](https://www.dnazoo.org/assemblies/Phascolarctos_cinereus) Draft genome: [Johnson, R.N. et al, 2018](https://doi.org/10.1038/s41588-018-0153-5)|
+|Casuarius casuarius|CASCA|Southern cassowary|8787|[DNAzoo.](https://www.dnazoo.org/assemblies/Casuarius_casuarius) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
 |Tympanuchus cupido|TYMCU|Greater prairie chicken|9004|[DNAzoo.](https://www.dnazoo.org/assemblies/Tympanuchus_cupido) Draft genome: Unpublished|
 |Eopsaltria australis|EOPAU|Eastern yellow robin|44318|[DNAzoo.](https://www.dnazoo.org/assemblies/Eopsaltria_australis) Draft genome: Unpublished|
 |Lichenostomus melanops cassidix|LIMCA|Helmeted honeyeater|1497555|[DNAzoo.](https://www.dnazoo.org/assemblies/Lichenostomus_melanops_cassidix) Draft genome: Unpublished|
-|Patagioenas fasciata|PATFA|Band-tailed pigeon|372321|[DNAzoo.](https://www.dnazoo.org/assemblies/Patagioenas_fasciata) Draft genome: Unpublished|
-|Phalacrocorax auritus|PHAAI|Double-crested cormorant|56069|[DNAzoo.](https://www.dnazoo.org/assemblies/Phalacrocorax_auritus) Draft genome: Unpublished|
-|Rhea americana|RHEAM|Greater rhea|8797|[DNAzoo.](https://www.dnazoo.org/assemblies/Rhea_americana) Draft genome: Unpublished|
+|Patagioenas fasciata|PATFA|Band-tailed pigeon|372321|[DNAzoo.](https://www.dnazoo.org/assemblies/Patagioenas_fasciata) Draft genome: [Murray, G.G.R. et al, 2017](https://doi.org/10.1126/science.aao0960)|
+|Phalacrocorax auritus|PHAAI|Double-crested cormorant|56069|[DNAzoo.](https://www.dnazoo.org/assemblies/Phalacrocorax_auritus) Draft genome: [Burga, A. et al, 2017](https://doi.org/10.1126/science.aal3345)|
+|Rhea americana|RHEAM|Greater rhea|8797|[DNAzoo.](https://www.dnazoo.org/assemblies/Rhea_americana) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
 |Strix occidentalis|STROC|Spotted owl|201991|[DNAzoo.](https://www.dnazoo.org/assemblies/Strix_occidentalis) Draft genome: Unpublished|
-|Struthio camelus|STRCA|Common ostrich|8801|[DNAzoo.](https://www.dnazoo.org/assemblies/Struthio_camelus) Draft genome: Unpublished|
+|Struthio camelus|STRCA|Common ostrich|8801|[DNAzoo.](https://www.dnazoo.org/assemblies/Struthio_camelus) Draft genome: [Zhang, G. et al, 2014](https://doi.org/10.1126/science.1251385)|
 |Intellagama lesueurii lesueurii|INTLE|Eastern water dragon|103694|[DNAzoo.](https://www.dnazoo.org/assemblies/Intellagama_lesueurii_lesueurii) Draft genome: Unpublished|
 
 
