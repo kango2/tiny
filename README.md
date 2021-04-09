@@ -52,7 +52,7 @@ We used the following parameters for LastZ alignments:
 |Patagioenas fasciata|PATFA|Band-tailed pigeon|372321|[DNAzoo.](https://www.dnazoo.org/assemblies/Patagioenas_fasciata) Draft genome: [Murray, G.G.R. et al, 2017](https://doi.org/10.1126/science.aao0960)|
 |Phalacrocorax auritus|PHAAI|Double-crested cormorant|56069|[DNAzoo.](https://www.dnazoo.org/assemblies/Phalacrocorax_auritus) Draft genome: [Burga, A. et al, 2017](https://doi.org/10.1126/science.aal3345)|
 |Rhea americana|RHEAM|Greater rhea|8797|[DNAzoo.](https://www.dnazoo.org/assemblies/Rhea_americana) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
-|Strix occidentalis|STROC|Spotted owl|201991|[DNAzoo.](https://www.dnazoo.org/assemblies/Strix_occidentalis) Draft genome: Unpublished|
+|Strix occidentalis|STROC|Spotted owl|201991|[DNAzoo.](https://www.dnazoo.org/assemblies/Strix_occidentalis) Draft genome: [Hanna, Z.R. et al, 2017](https://doi.org/10.1093/gbe/evx158)|
 |Struthio camelus|STRCA|Common ostrich|8801|[DNAzoo.](https://www.dnazoo.org/assemblies/Struthio_camelus) Draft genome: [Zhang, G. et al, 2014](https://doi.org/10.1126/science.1251385)|
 |Intellagama lesueurii lesueurii|INTLE|Eastern water dragon|103694|[DNAzoo.](https://www.dnazoo.org/assemblies/Intellagama_lesueurii_lesueurii) Draft genome: Unpublished|
 
