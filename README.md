@@ -47,7 +47,7 @@ We used the following parameters for LastZ alignments:
 |Phascolarctos cinereus|PHACI|Koala|38626|[DNAzoo.](https://www.dnazoo.org/assemblies/Phascolarctos_cinereus) Draft genome: [Johnson, R.N. et al, 2018](https://doi.org/10.1038/s41588-018-0153-5)|
 |Casuarius casuarius|CASCA|Southern cassowary|8787|[DNAzoo.](https://www.dnazoo.org/assemblies/Casuarius_casuarius) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
 |Tympanuchus cupido|TYMCU|Greater prairie chicken|9004|[DNAzoo.](https://www.dnazoo.org/assemblies/Tympanuchus_cupido) Draft genome: Unpublished|
-|Eopsaltria australis|EOPAU|Eastern yellow robin|44318|[DNAzoo.](https://www.dnazoo.org/assemblies/Eopsaltria_australis) Draft genome: Unpublished|
+|Eopsaltria australis|EOPAU|Eastern yellow robin|44318|[DNAzoo.](https://www.dnazoo.org/assemblies/Eopsaltria_australis) Draft genome: [Gan, H.M. et al, 2019] (https://doi.org/10.1093/gigascience/giz111)|
 |Lichenostomus melanops cassidix|LIMCA|Helmeted honeyeater|1497555|[DNAzoo.](https://www.dnazoo.org/assemblies/Lichenostomus_melanops_cassidix) Draft genome: Unpublished|
 |Patagioenas fasciata|PATFA|Band-tailed pigeon|372321|[DNAzoo.](https://www.dnazoo.org/assemblies/Patagioenas_fasciata) Draft genome: [Murray, G.G.R. et al, 2017](https://doi.org/10.1126/science.aao0960)|
 |Phalacrocorax auritus|PHAAI|Double-crested cormorant|56069|[DNAzoo.](https://www.dnazoo.org/assemblies/Phalacrocorax_auritus) Draft genome: [Burga, A. et al, 2017](https://doi.org/10.1126/science.aal3345)|
