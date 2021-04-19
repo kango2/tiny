@@ -26,7 +26,7 @@ We used the following parameters for LastZ alignments:
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP: Guojie Zhang. [Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
 |Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VGP: Bob Murphy. Unpublished|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Lisa Komoroske. Unpublished|
-|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. [Also at DNAzoo.](https://www.dnazoo.org/assemblies/Chelonia_mydas) Draft genome: [Zhuo, W. et al, 2013](https://doi.org/10.1038/ng.2615)|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. [Also at DNAzoo](https://www.dnazoo.org/assemblies/Chelonia_mydas) from amle blood. Draft genome: [Zhuo, W. et al, 2013](https://doi.org/10.1038/ng.2615)|
 |Lacerta agilis|LACAG|Sand lizard|80427|VGP: Neil Gemmell. Unpublished|
 |Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP: Anne Bronikowski. Unpublished|
 |Podarcis muralis|PODMU|Common wall lizard|64176|[Andrade, P. et al, 2019](https://doi.org/10.1073/pnas.1820320116)|
@@ -34,27 +34,27 @@ We used the following parameters for LastZ alignments:
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
 |Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
 |Falco rusticolus|FALRU|Gyrfalcon|120794|VGP & B10K: Qasim Ayub. Unpublished|
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. [Also at DNAzoo.](https://www.dnazoo.org/assemblies/Aquila_chrysaetos) Draft genome: [Bussche, R.A. et al, 2017](https://doi.org/10.3356/JRR-16-47.1)|
-|Dromaius novaehollandiae|DRONO|Emu|8790|[DNAzoo.](https://www.dnazoo.org/assemblies/Dromaius_novaehollandiae) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
-|Salvator merianae|SAMER|Argentine black and white tegu|96440|[DNAzoo.](https://www.dnazoo.org/assemblies/Salvator_merianae) Draft genome: [Roscito, J.G. et al, 2018](https://doi.org/10.1093/gigascience/giy141)|
-|Python bivittatus|PYTBI|Burmese python|176946|[DNAzoo.](https://www.dnazoo.org/assemblies/Python_bivittatus) Draft genome: [Castoe, T.A. et al, 2013](https://doi.org/10.1073/pnas.1314475110)|
-|Gymnogyps californianus|GYMCA|California condor|33616|[DNAzoo.](https://www.dnazoo.org/assemblies/Gymnogyps_californianus) Draft genome: Unpublished|
-|Alligator mississippiensis|ALLMI|American alligator|8496|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_mississippiensis) Draft genome: [St John, J.A., et al, 2017](https://doi.org/10.1101/gr.213595.116)|
-|Alligator sinensis|ALLSI|Chinese alligator|38654|[DNAzoo.](https://www.dnazoo.org/assemblies/Alligator_sinensis) Draft genome: [Wan, Q.H. et al, 2013](https://doi.org/10.1038/cr.2013.104)|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. [Also at DNAzoo](https://www.dnazoo.org/assemblies/Aquila_chrysaetos) from female blood. Draft genome: [Bussche, R.A. et al, 2017](https://doi.org/10.3356/JRR-16-47.1)|
+|Dromaius novaehollandiae|DRONO|Emu|8790|[DNAzoo](https://www.dnazoo.org/assemblies/Dromaius_novaehollandiae) from male blood. Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
+|Salvator merianae|SAMER|Argentine black and white tegu|96440|[DNAzoo](https://www.dnazoo.org/assemblies/Salvator_merianae) from male blood. Draft genome: [Roscito, J.G. et al, 2018](https://doi.org/10.1093/gigascience/giy141)|
+|Python bivittatus|PYTBI|Burmese python|176946|[DNAzoo](https://www.dnazoo.org/assemblies/Python_bivittatus) from feamle blood. Draft genome: [Castoe, T.A. et al, 2013](https://doi.org/10.1073/pnas.1314475110)|
+|Gymnogyps californianus|GYMCA|California condor|33616|[DNAzoo](https://www.dnazoo.org/assemblies/Gymnogyps_californianus) from blood. Draft genome: Unpublished|
+|Alligator mississippiensis|ALLMI|American alligator|8496|[DNAzoo](https://www.dnazoo.org/assemblies/Alligator_mississippiensis) from male blood. Draft genome: [St John, J.A., et al, 2017](https://doi.org/10.1101/gr.213595.116)|
+|Alligator sinensis|ALLSI|Chinese alligator|38654|[DNAzoo](https://www.dnazoo.org/assemblies/Alligator_sinensis) from female blood. Draft genome: [Wan, Q.H. et al, 2013](https://doi.org/10.1038/cr.2013.104)|
 |Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis. [Lander, E. et al, 2001](https://doi.org/10.1038/35057062)|
 |Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute Data Sharing|
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739|[Simakov, O. et al, 2020](https://doi.org/10.1038/s41559-020-1156-z)|
-|Phascolarctos cinereus|PHACI|Koala|38626|[DNAzoo.](https://www.dnazoo.org/assemblies/Phascolarctos_cinereus) Draft genome: [Johnson, R.N. et al, 2018](https://doi.org/10.1038/s41588-018-0153-5)|
-|Casuarius casuarius|CASCA|Southern cassowary|8787|[DNAzoo.](https://www.dnazoo.org/assemblies/Casuarius_casuarius) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
-|Tympanuchus cupido|TYMCU|Greater prairie chicken|9004|[DNAzoo.](https://www.dnazoo.org/assemblies/Tympanuchus_cupido) Draft genome: Unpublished|
-|Eopsaltria australis|EOPAU|Eastern yellow robin|44318|[DNAzoo.](https://www.dnazoo.org/assemblies/Eopsaltria_australis) Draft genome: [Gan, H.M. et al, 2019](https://doi.org/10.1093/gigascience/giz111)|
-|Lichenostomus melanops cassidix|LIMCA|Helmeted honeyeater|1497555|[DNAzoo.](https://www.dnazoo.org/assemblies/Lichenostomus_melanops_cassidix) Draft genome: Unpublished|
-|Patagioenas fasciata|PATFA|Band-tailed pigeon|372321|[DNAzoo.](https://www.dnazoo.org/assemblies/Patagioenas_fasciata) Draft genome: [Murray, G.G.R. et al, 2017](https://doi.org/10.1126/science.aao0960)|
-|Phalacrocorax auritus|PHAAI|Double-crested cormorant|56069|[DNAzoo.](https://www.dnazoo.org/assemblies/Phalacrocorax_auritus) Draft genome: [Burga, A. et al, 2017](https://doi.org/10.1126/science.aal3345)|
-|Rhea americana|RHEAM|Greater rhea|8797|[DNAzoo.](https://www.dnazoo.org/assemblies/Rhea_americana) Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
-|Strix occidentalis|STROC|Spotted owl|201991|[DNAzoo.](https://www.dnazoo.org/assemblies/Strix_occidentalis) Draft genome: [Hanna, Z.R. et al, 2017](https://doi.org/10.1093/gbe/evx158)|
-|Struthio camelus|STRCA|Common ostrich|8801|[DNAzoo.](https://www.dnazoo.org/assemblies/Struthio_camelus) Draft genome: [Zhang, G. et al, 2014](https://doi.org/10.1126/science.1251385)|
-|Intellagama lesueurii lesueurii|INTLE|Eastern water dragon|103694|[DNAzoo.](https://www.dnazoo.org/assemblies/Intellagama_lesueurii_lesueurii) Draft genome: Unpublished|
+|Phascolarctos cinereus|PHACI|Koala|38626|[DNAzoo](https://www.dnazoo.org/assemblies/Phascolarctos_cinereus) from male heart. Draft genome: [Johnson, R.N. et al, 2018](https://doi.org/10.1038/s41588-018-0153-5)|
+|Casuarius casuarius|CASCA|Southern cassowary|8787|[DNAzoo](https://www.dnazoo.org/assemblies/Casuarius_casuarius) from male blood. Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
+|Tympanuchus cupido|TYMCU|Greater prairie chicken|9004|[DNAzoo](https://www.dnazoo.org/assemblies/Tympanuchus_cupido) from male blood. Draft genome: Unpublished|
+|Eopsaltria australis|EOPAU|Eastern yellow robin|44318|[DNAzoo](https://www.dnazoo.org/assemblies/Eopsaltria_australis) from female liver. Draft genome: [Gan, H.M. et al, 2019](https://doi.org/10.1093/gigascience/giz111)|
+|Lichenostomus melanops cassidix|LIMCA|Helmeted honeyeater|1497555|[DNAzoo](https://www.dnazoo.org/assemblies/Lichenostomus_melanops_cassidix) Draft genome: Unpublished|
+|Patagioenas fasciata|PATFA|Band-tailed pigeon|372321|[DNAzoo](https://www.dnazoo.org/assemblies/Patagioenas_fasciata) from 'frozen' male sample. Draft genome: [Murray, G.G.R. et al, 2017](https://doi.org/10.1126/science.aao0960)|
+|Phalacrocorax auritus|PHAAI|Double-crested cormorant|56069|[DNAzoo](https://www.dnazoo.org/assemblies/Phalacrocorax_auritus) from blood. Draft genome: [Burga, A. et al, 2017](https://doi.org/10.1126/science.aal3345)|
+|Rhea americana|RHEAM|Greater rhea|8797|[DNAzoo](https://www.dnazoo.org/assemblies/Rhea_americana) from female blood. Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
+|Strix occidentalis|STROC|Spotted owl|201991|[DNAzoo](https://www.dnazoo.org/assemblies/Strix_occidentalis) sample not described. Draft genome: [Hanna, Z.R. et al, 2017](https://doi.org/10.1093/gbe/evx158)|
+|Struthio camelus|STRCA|Common ostrich|8801|[DNAzoo](https://www.dnazoo.org/assemblies/Struthio_camelus) from female blood. Draft genome: [Zhang, G. et al, 2014](https://doi.org/10.1126/science.1251385)|
+|Intellagama lesueurii lesueurii|INTLE|Eastern water dragon|103694|[DNAzoo](https://www.dnazoo.org/assemblies/Intellagama_lesueurii_lesueurii) from liver. Draft genome: Unpublished|
 
 
 **Typical workflow**
