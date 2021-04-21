@@ -26,7 +26,7 @@ We used the following parameters for LastZ alignments:
 |Ornithorhynchus anatinus|ORNAN|Platypus|9258|[Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
 |Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VGP: Embargoed|
 |Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Embargoed|
-|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Embargoed. [Also at DNAzoo](https://www.dnazoo.org/assemblies/Chelonia_mydas) from male blood. Draft genome: [Zhuo, W. et al, 2013](https://doi.org/10.1038/ng.2615)|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Embargoed.<br />[Also at DNAzoo](https://www.dnazoo.org/assemblies/Chelonia_mydas) from male blood. Draft genome: [Zhuo, W. et al, 2013](https://doi.org/10.1038/ng.2615)|
 |Lacerta agilis|LACAG|Sand lizard|80427|VGP: Embargoed|
 |Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP: Embargoed|
 |Podarcis muralis|PODMU|Common wall lizard|64176|[Andrade, P. et al, 2019](https://doi.org/10.1073/pnas.1820320116)|
