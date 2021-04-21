@@ -15,7 +15,7 @@ The process was automated using the `preparegenomes.sh` script. Basic steps were
 We used the following parameters for LastZ alignments:  
 ```K=2400 L=3000 Y=9400 H=2000 --ambiguous=iupac``` 
 
-**List of species included in analyses**
+**List of species considered for analyses**
 |Species|Species Code|Common Name|NCBI Taxonomy ID|Citation|
 |:---|:---|:---|---:|:---|
 |Gallus gallus|CHICK|Chicken|9031|[Hillier, L.W. et al, 2004](https://doi.org/10.1038/nature03154)|
