@@ -18,31 +18,31 @@ We used the following parameters for LastZ alignments:
 **List of species included in analyses**
 |Species|Species Code|Common Name|NCBI Taxonomy ID|Citation|
 |:---|:---|:---|---:|:---|
-|Gallus gallus|CHICK|Chicken|9031|VGP & B10K trio: Wes Warren, Erich Jarvis: [Hillier, L.W. et al, 2004](https://doi.org/10.1038/nature03154)|
+|Gallus gallus|CHICK|Chicken|9031|[Hillier, L.W. et al, 2004](https://doi.org/10.1038/nature03154)|
 |Trachemys scripta elegans|TRASE|Red-eared slider turtle|31138|[Simison, W.B. et al, 2020](https://doi.org/10.1093/gbe/evaa063)|
 |Corvus monedula|CORMO|Jackdaw|30423|[Weissensteiner, M.H. et al, 2020](https://doi.org/10.1038/s41467-020-17195-4)|
-|Cygnus olor|CYGOL|Mute swan|8869|VGP & B10K: Robert Kraus. Unpublished|
+|Cygnus olor|CYGOL|Mute swan|8869|VGP & B10K: Embargoed|
 |Naja naja |NAJNA|Indian cobra|35670|[Kushal Suryamohan, K. et al, 2020](https://doi.org/10.1038/s41588-019-0559-8)|
-|Ornithorhynchus anatinus|ORNAN|Platypus|9258|VGP: Guojie Zhang. [Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
-|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VGP: Bob Murphy. Unpublished|
-|Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Lisa Komoroske. Unpublished|
-|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Camila Mazzoni, Gene Myers. Unpublished. [Also at DNAzoo](https://www.dnazoo.org/assemblies/Chelonia_mydas) from male blood. Draft genome: [Zhuo, W. et al, 2013](https://doi.org/10.1038/ng.2615)|
-|Lacerta agilis|LACAG|Sand lizard|80427|VGP: Neil Gemmell. Unpublished|
-|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP: Anne Bronikowski. Unpublished|
+|Ornithorhynchus anatinus|ORNAN|Platypus|9258|[Zhou, Y., et al, 2021](https://doi.org/10.1038/s41586-020-03039-0)|
+|Gopherus evgoodei|GOPEV|Goodes thornscrub tortoise|1825980|VGP: Embargoed|
+|Dermochelys coriacea|DERCO|Leatherback sea turtle|27794|VGP: Embargoed|
+|Chelonia mydas|CHEMY|Green sea turtle|8469|VGP: Embargoed. [Also at DNAzoo](https://www.dnazoo.org/assemblies/Chelonia_mydas) from male blood. Draft genome: [Zhuo, W. et al, 2013](https://doi.org/10.1038/ng.2615)|
+|Lacerta agilis|LACAG|Sand lizard|80427|VGP: Embargoed|
+|Thamnophis elegans|THAEL|Western terrestrial garter snake|35005|VGP: Embargoed|
 |Podarcis muralis|PODMU|Common wall lizard|64176|[Andrade, P. et al, 2019](https://doi.org/10.1073/pnas.1820320116)|
 |Zootoca vivipara|ZOOVI|Common lizard|8524|[Yurchenko, A.A. et al, 2020](https://doi.org/10.1093/gbe/evaa161)|
 |Crotalus viridis|CROVV|Prairie rattlesnake|8742|[Pasquesi, G.I.M. et al, 2018](https://doi.org/10.1038/s41467-018-05279-1)|
-|Calypte anna|CALAN|Anna's hummingbird|9244|VGP & B10K: Erich Jarvis. [Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
-|Falco rusticolus|FALRU|Gyrfalcon|120794|VGP & B10K: Qasim Ayub. Unpublished|
-|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Rob Ogden, Daniel Mead. Unpublished. [Also at DNAzoo](https://www.dnazoo.org/assemblies/Aquila_chrysaetos) from female blood. Draft genome: [Bussche, R.A. et al, 2017](https://doi.org/10.3356/JRR-16-47.1)|
+|Calypte anna|CALAN|Anna's hummingbird|9244|[Rhie, A. et al, 2021](https://doi.org/10.1101/2020.05.22.110833)|
+|Falco rusticolus|FALRU|Gyrfalcon|120794|VGP & B10K: Embargoed|
+|Aquila chrysaetos chrysaetos|AQUCH|Golden eagle|223781|Sanger 25G & VGP: Embargoed. [Also at DNAzoo](https://www.dnazoo.org/assemblies/Aquila_chrysaetos) from female blood. Draft genome: [Bussche, R.A. et al, 2017](https://doi.org/10.3356/JRR-16-47.1)|
 |Dromaius novaehollandiae|DRONO|Emu|8790|[DNAzoo](https://www.dnazoo.org/assemblies/Dromaius_novaehollandiae) from male blood. Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
 |Salvator merianae|SAMER|Argentine black and white tegu|96440|[DNAzoo](https://www.dnazoo.org/assemblies/Salvator_merianae) from male blood. Draft genome: [Roscito, J.G. et al, 2018](https://doi.org/10.1093/gigascience/giy141)|
 |Python bivittatus|PYTBI|Burmese python|176946|[DNAzoo](https://www.dnazoo.org/assemblies/Python_bivittatus) from feamle blood. Draft genome: [Castoe, T.A. et al, 2013](https://doi.org/10.1073/pnas.1314475110)|
 |Gymnogyps californianus|GYMCA|California condor|33616|[DNAzoo](https://www.dnazoo.org/assemblies/Gymnogyps_californianus) from blood. Draft genome: Unpublished|
 |Alligator mississippiensis|ALLMI|American alligator|8496|[DNAzoo](https://www.dnazoo.org/assemblies/Alligator_mississippiensis) from male blood. Draft genome: [St John, J.A., et al, 2017](https://doi.org/10.1101/gr.213595.116)|
 |Alligator sinensis|ALLSI|Chinese alligator|38654|[DNAzoo](https://www.dnazoo.org/assemblies/Alligator_sinensis) from female blood. Draft genome: [Wan, Q.H. et al, 2013](https://doi.org/10.1038/cr.2013.104)|
-|Homo sapiens|HUMAN|Human|9606|VGP trio: Erich Jarvis. [Lander, E. et al, 2001](https://doi.org/10.1038/35057062)|
-|Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute Data Sharing|
+|Homo sapiens|HUMAN|Human|9606|[Lander, E. et al, 2001](https://doi.org/10.1038/35057062)|
+|Sarcophilus harrisii|SARHA|Tasmanian devil|9305|Wellcome Sanger Institute|
 |Branchiostoma floridae|BRAFL|Florida lancelet|7739|[Simakov, O. et al, 2020](https://doi.org/10.1038/s41559-020-1156-z)|
 |Phascolarctos cinereus|PHACI|Koala|38626|[DNAzoo](https://www.dnazoo.org/assemblies/Phascolarctos_cinereus) from male heart. Draft genome: [Johnson, R.N. et al, 2018](https://doi.org/10.1038/s41588-018-0153-5)|
 |Casuarius casuarius|CASCA|Southern cassowary|8787|[DNAzoo](https://www.dnazoo.org/assemblies/Casuarius_casuarius) from male blood. Draft genome: [Sackton, T.B. et al, 2019](https://doi.org/10.1126/science.aat7244)|
