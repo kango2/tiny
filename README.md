@@ -1,6 +1,6 @@
 # Micro-chromosome conservation in vertebrates
 
-Contributors: Hardip Patel, Paul Waters, Arthur Georges, Jenny Graves
+Contributors: Hardip Patel, Paul Waters, Aurora Ruíz-Herrera, Arthur Georges, Jenny A.M. Graves
 
 ## Data preparation
 
