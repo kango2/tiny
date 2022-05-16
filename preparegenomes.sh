@@ -1,28 +1,73 @@
 #!/bin/bash
 
-basepath=`dirname $0`
+##TODO:
+#1. Add checkpointing
 
-input="$basepath/metadata/species.txt"
-set -ex
+module load kentutils/0.0 lastz/1.04.15
+
+basepath=$(dirname $0)
+
+usage() { echo -e "\nUsage: $0 -h help -s <speciestable> -p <projectdir>\n\n" 1>&2; exit 1; }
+
+input="$basepath/metadata/species2.txt"
+#set -ex
+
+no_args="true"
+while getopts ":hs:p:c:w:o:t:d:f:" option; do
+    case "${option}" in
+				h) usage;;
+        s) speciestable=${OPTARG};;
+        p) projectdir=${OPTARG};;
+	:) printf "missing argument for -%s\n" "$OPTARG" >&2; usage;;
+	 \?) printf "illegal option: -%s\n" "$OPTARG" >&2; usage;;
+        *) usage;;
+    esac
+    no_args="false"
+done
+
+[[ "$no_args" == "true" ]] && usage
+[[ -f "${speciestable}" ]] || usage
+if [[ ! -d "${projectdir}" ]]
+then
+	mkdir -p "${projectdir}"
+fi
 
 while IFS= read -r line
 do
 	[[ "$line" =~ ^#.*$ ]] && continue
 	IFS=$'\t' read -r -a sinfo <<< "$line"
-	[[ ${sinfo[7]} -le 18 ]] && continue
-	mkdir -p $basepath/../genomes/${sinfo[1]}
-	wget --continue -O $basepath/../genomes/${sinfo[1]}/`basename ${sinfo[3]}` ${sinfo[3]}
-	wget --continue -O $basepath/../genomes/${sinfo[1]}/`basename ${sinfo[6]}` ${sinfo[6]}
-	fa=$basepath/../genomes/${sinfo[1]}/`basename ${sinfo[3]} .gz`
-	gunzip -c $fa.gz >$fa
+	
+	mkdir -p ${projectdir}/genomes/${sinfo[1]}
+
+	if [[ ${sinfo[3]} == http* ]]
+	then
+		wget --continue -O ${projectdir}/genomes/${sinfo[1]}/$(basename ${sinfo[3]}) ${sinfo[3]}
+	fi
+	if [[ ${sinfo[3]} == ftp* ]]
+	then
+		wget --continue -O ${projectdir}/genomes/${sinfo[1]}/$(basename ${sinfo[3]}) ${sinfo[3]}
+	fi
+	if [[ ${sinfo[3]} == LOCAL:* ]]
+	then
+		fname=$(echo ${sinfo[3]} | sed 's/LOCAL://')
+		cp $fname ${projectdir}/genomes/${sinfo[1]}/$(basename ${sinfo[3]})
+	fi
+
+	if [[ ${sinfo[3]} == *.gz ]]
+	then
+		fa=${projectdir}/genomes/${sinfo[1]}/$(basename ${sinfo[3]} .gz)
+		gunzip -c $fa.gz >$fa
+	else
+		fa=${projectdir}/genomes/${sinfo[1]}/$(basename ${sinfo[3]})
+	fi
 	##convert to twobit format
-	$basepath/../software/kentutils/faToTwoBit $fa $fa.2bit
+	faToTwoBit $fa $fa.2bit
 	##write lastz capsule file
-	$basepath/../software/lastz-1.04.03/src/lastz_32 $fa[multiple] --writecapsule=$fa.capsule --ambiguous=iupac
+	lastz_32 $fa[multiple] --writecapsule=$fa.capsule --ambiguous=iupac
 	##create sizes file
-	$basepath/../software/kentutils/faSize -detailed $fa >$fa.sizes
+	faSize -detailed $fa >$fa.sizes
 	##split genome into 1Mb sequence chunks with five chunks in a file
-	splitdir=`dirname $fa`/splits
-	mkdir -p $splitdir
-	perl $basepath/splitFasta.pl -i $fa -o $splitdir/`basename $fa .fna`.C -w 1000000 -l 5000000
-done < "$input"
+	splitdir=$(dirname ${fa})/splits
+	mkdir -p ${splitdir}
+	perl ${basepath}/splitFasta.pl -i $fa -o $splitdir/`basename $fa .fna`.C -w 1000000 -l 1000000
+done < "${speciestable}"
