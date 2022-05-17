@@ -4,7 +4,7 @@
 #1. Add checkpointing
 
 module load kentutils/0.0 lastz/1.04.15
-
+full_path=$(realpath $0)
 basepath=$(dirname $0)
 
 usage() { echo -e "\nUsage: $0 -h help -s <speciestable> -p <projectdir>\n\n" 1>&2; exit 1; }
