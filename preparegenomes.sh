@@ -5,7 +5,7 @@
 
 module load kentutils/0.0 lastz/1.04.15
 full_path=$(realpath $0)
-basepath=$(dirname $0)
+basepath=$(dirname ${full_path})
 
 usage() { echo -e "\nUsage: $0 -h help -s <speciestable> -p <projectdir>\n\n" 1>&2; exit 1; }
 
@@ -13,7 +13,7 @@ input="$basepath/metadata/species2.txt"
 #set -ex
 
 no_args="true"
-while getopts ":hs:p:c:w:o:t:d:f:" option; do
+while getopts ":hs:p:" option; do
     case "${option}" in
 				h) usage;;
         s) speciestable=${OPTARG};;
