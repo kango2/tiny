@@ -1,0 +1,18 @@
+species	speciescode	commonname	fasta	ProcessingOrder	NCBITaxID	genomelength	speciesorder	falconplus	falcon
+Dromaius novaehollandiae	DRONO	Emu	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/128/335/GCA_016128335.1_ZJU1.0/GCA_016128335.1_ZJU1.0_genomic.fna.gz	6	8790	1247468792	1	1	1
+Gallus gallus	CHICK	Chicken	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/699/485/GCF_016699485.2_bGalGal1.mat.broiler.GRCg7b/GCF_016699485.2_bGalGal1.mat.broiler.GRCg7b_genomic.fna.gz	1	9031	1053332251	2	2	2
+Calypte anna	CALAN	Anna-s hummingbird	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/957/555/GCF_003957555.1_bCalAnn1_v1.p/GCF_003957555.1_bCalAnn1_v1.p_genomic.fna.gz	11	9244	1059706240	3	3	0
+Taeniopygia guttata	TAEGU	Zebra finch	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/957/565/GCF_003957565.2_bTaeGut1.4.pri/GCF_003957565.2_bTaeGut1.4.pri_genomic.fna.gz	0	59729	1056288117	4	4	0
+Malurus cyaneus	MALCY	Superb fairywren	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/741/485/GCA_009741485.1_mCya_1.0/GCA_009741485.1_mCya_1.0_genomic.fna.gz	2	2593467	1078891882	5	5	0
+Parus major	PARMJ	Great tit	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/522/545/GCF_001522545.3_Parus_major1.1/GCF_001522545.3_Parus_major1.1_genomic.fna.gz	9	9157	1020310769	6	6	0
+Melopsittacus undulatus	MELUD	Budgerigar	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/012/275/295/GCF_012275295.1_bMelUnd1.mat.Z/GCF_012275295.1_bMelUnd1.mat.Z_genomic.fna.gz	15	13146	1171635651	7	0	0
+Amazona aestiva	AMAAE	Blue-fronted Amazon parrot	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/355/GCA_017639355.1_Aaes_hic/GCA_017639355.1_Aaes_hic_genomic.fna.gz	12	12930	1130393257	8	0	0
+Myiopsitta monachus	MYIMO	Monk parakeet	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/245/GCA_017639245.1_MMon_1.0/GCA_017639245.1_MMon_1.0_genomic.fna.gz	8	176066	1168583304	9	0	0
+Strigops habroptila	STRHB	Kakapo	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/027/225/GCF_004027225.2_bStrHab1.2.pri/GCF_004027225.2_bStrHab1.2.pri_genomic.fna.gz	10	2489341	1148615375	10	0	0
+Falco cherrug	FALCH	Saker falcon	LOCAL:/g/data/xl04/hrp561/saker.v6.genome.chr.remask.fa.gz	16	345164	1212003332	11	7	3
+Falco rusticolus	FALRU	Gyrfalcon	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/220/075/GCF_015220075.1_bFalRus1.pri/GCF_015220075.1_bFalRus1.pri_genomic.fna.gz	14	120794	1195865984	12	8	0
+Falco peregrinus	FALPE	Peregrine falcon	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/887/755/GCA_001887755.1_falPer2/GCA_001887755.1_falPer2_genomic.fna.gz	4	8954	1112064469	13	9	4
+Falco naumanni	FALNA	Lesser kestrel	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/639/655/GCF_017639655.2_bFalNau1.pat/GCF_017639655.2_bFalNau1.pat_genomic.fna.gz	13	148594	1215719661	14	10	0
+Gymnogyps californianus	GYMCA	California condor	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/139/145/GCA_018139145.1_ASM1813914v1/GCA_018139145.1_ASM1813914v1_genomic.fna.gz	5	33616	1240179868	15	11	0
+Accipiter gentilis	ACCGE	Northern goshawk	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/929/443/795/GCA_929443795.1_bAccGen1.1/GCA_929443795.1_bAccGen1.1_genomic.fna.gz	3	8957	1398027955	16	12	0
+Aquila chrysaetos	AQUCH	Golden Eagle	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/496/995/GCF_900496995.4_bAquChr1.4/GCF_900496995.4_bAquChr1.4_genomic.fna.gz	7	223781	1233723095	17	13	5
